@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>PortWatch Tanker Port Calls</title>
+<script src="https://cdn.plot.ly/plotly-2.35.2.min.js"></script>
+<style>
+  body { font-family: sans-serif; margin: 0; padding: 20px; }
+  #container { width: 100%; max-width: 1200px; margin: 0 auto; }
+  #controls { margin-bottom: 10px; }
+  #controls label { font-size: 14px; margin-right: 8px; }
+  #country-select { font-size: 14px; padding: 4px 8px; }
+  #loading { text-align: center; padding: 40px; color: #666; }
+</style>
+</head>
+<body>
+<div id="container">
+  <div id="loading">Loading data...</div>
+  <div id="controls" style="display:none;">
+    <label for="country-select">Country:</label>
+    <select id="country-select"></select>
+  </div>
+  <div id="chart"></div>
+</div>
+<script>
+const CSV_URL = "portwatch_tanker_cumulative_by_country.csv";
+const YEARS = ["2024", "2025", "2026"];
+const COLORS = {"2024": "#636EFA", "2025": "#EF553B", "2026": "#00CC96"};
+
+function dayOfYearToLabel(day) {
+  const d = new Date(2024, 0, day);
+  return d.toLocaleDateString("en-US", { month: "short", day: "numeric" });
+}
+
+function parseCSV(text) {
+  const lines = text.replace(/\r/g, "").trim().split("\n");
+  const headers = lines[0].split(",");
+  const numCols = headers.length;
+  const rows = [];
+  for (let i = 1; i < lines.length; i++) {
+    const row = {};
+    let fields;
+    if (lines[i].includes('"')) {
+      fields = [];
+      let inQuote = false, field = "";
+      for (const ch of lines[i]) {
+        if (ch === '"') { inQuote = !inQuote; }
+        else if (ch === "," && !inQuote) { fields.push(field); field = ""; }
+        else { field += ch; }
+      }
+      fields.push(field);
+    } else {
+      fields = lines[i].split(",");
+    }
+    while (fields.length < numCols) fields.push("");
+    for (let j = 0; j < numCols; j++) {
+      row[headers[j]] = fields[j];
+    }
+    rows.push(row);
+  }
+  return rows;
+}
+
+fetch(CSV_URL)
+  .then(r => r.text())
+  .then(text => {
+    const rows = parseCSV(text);
+    document.getElementById("loading").style.display = "none";
+    document.getElementById("controls").style.display = "block";
+
+    const byCountry = {};
+    for (const row of rows) {
+      const c = row.country;
+      if (!byCountry[c]) byCountry[c] = [];
+      byCountry[c].push(row);
+    }
+    const countries = Object.keys(byCountry).sort();
+
+    // Populate dropdown
+    const select = document.getElementById("country-select");
+    for (const c of countries) {
+      const opt = document.createElement("option");
+      opt.value = c;
+      opt.textContent = c;
+      select.appendChild(opt);
+    }
+
+    function buildTraces(country) {
+      const cRows = byCountry[country];
+      const traces = [];
+      for (const year of YEARS) {
+        const labels = [], vals = [];
+        for (const row of cRows) {
+          const v = row[year];
+          if (v !== undefined && v !== "") {
+            labels.push(dayOfYearToLabel(parseInt(row.day_of_year)));
+            vals.push(parseFloat(v));
+          }
+        }
+        traces.push({
+          x: labels, y: vals,
+          mode: "lines",
+          name: year,
+          line: { color: COLORS[year], width: 2 }
+        });
+      }
+      return traces;
+    }
+
+    function plotCountry(country) {
+      const traces = buildTraces(country);
+      const layout = {
+        title: "Cumulative Tanker Port Calls \u2014 " + country,
+        xaxis: { title: "Date", tickmode: "auto", nticks: 20 },
+        yaxis: { title: "Cumulative Tanker Calls" },
+        legend: { x: 0.01, y: 0.99, bgcolor: "rgba(255,255,255,0.7)" },
+        template: "plotly_white",
+        height: 600
+      };
+      Plotly.react("chart", traces, layout, { responsive: true });
+    }
+
+    select.addEventListener("change", () => plotCountry(select.value));
+    plotCountry(countries[0]);
+  })
+  .catch(err => {
+    document.getElementById("loading").textContent = "Error loading data: " + err.message;
+  });
+</script>
+</body>
+</html>

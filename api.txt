@@ -1,0 +1,1 @@
+https://services9.arcgis.com/weJ1QsnbMYJlCHdG/arcgis/rest/services/Daily_Ports_Data/FeatureServer/0/query?where=year%20%3E%3D%202025%20AND%20year%20%3C%3D%202026%20AND%20month%20%3E%3D%202%20AND%20month%20%3C%3D%203%20AND%20country%20%3D%20'INDONESIA'&outFields=*&outSR=4326&f=json
