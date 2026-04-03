@@ -14,6 +14,9 @@ BASE_URL = "https://services9.arcgis.com/weJ1QsnbMYJlCHdG/arcgis/rest/services/D
 DAILY_CSV = "portwatch_tanker_daily_by_country.csv"
 CUMULATIVE_CSV = "portwatch_tanker_cumulative_by_country.csv"
 YEARS = [2024, 2025, 2026]
+CUMULATIVE_START_MONTH = 3
+CUMULATIVE_START_DAY = 1
+CUMULATIVE_START_LABEL = "Mar 1"
 
 
 def fetch_aggregated_page(where_clause, offset=0, page_size=1000):
@@ -71,6 +74,10 @@ def fetch_date_range(start_date, end_date):
     return all_records
 
 
+def cumulative_start_for_year(year):
+    return date(year, CUMULATIVE_START_MONTH, CUMULATIVE_START_DAY)
+
+
 def main():
     today = date.today()
     lookback_start = today - timedelta(days=14)
@@ -123,13 +130,13 @@ def main():
     daily[["country", "date", "tanker_calls"]].to_csv(DAILY_CSV, index=False)
     print(f"Saved {DAILY_CSV}: {len(daily):,} rows, {daily['date'].min().date()} to {daily['date'].max().date()}")
 
-    # Build cumulative output
+    # Build cumulative output starting on Mar 1 for each comparison year.
     countries = sorted(daily["country"].unique())
     max_date = daily["date"].max().date()
 
     frames = []
     for yr in YEARS:
-        start = date(yr, 1, 1)
+        start = cumulative_start_for_year(yr)
         end = min(date(yr, 12, 31), max_date)
         if start > end:
             continue
@@ -143,12 +150,11 @@ def main():
     merged["tanker_calls"] = merged["tanker_calls"].fillna(0).astype(int)
     merged = merged.sort_values(["country", "year", "date"]).reset_index(drop=True)
     merged["cumulative_tanker"] = merged.groupby(["country", "year"])["tanker_calls"].cumsum()
-    # Normalize day_of_year so leap and non-leap years align:
-    # In non-leap years, shift days after Feb 28 by +1 to match leap year numbering
+    # Normalize day_of_year so Mar 1 aligns across leap and non-leap years.
     doy = merged["date"].dt.dayofyear
     is_leap = merged["date"].dt.is_leap_year
-    after_feb = merged["date"].dt.month >= 3
-    merged["day_of_year"] = doy + (~is_leap & after_feb).astype(int)
+    on_or_after_start_month = merged["date"].dt.month >= CUMULATIVE_START_MONTH
+    merged["day_of_year"] = doy + (~is_leap & on_or_after_start_month).astype(int)
 
     pivot = merged.pivot_table(
         index=["country", "day_of_year"],
@@ -160,7 +166,7 @@ def main():
     pivot = pivot.reset_index()
 
     pivot.to_csv(CUMULATIVE_CSV, index=False)
-    print(f"Saved {CUMULATIVE_CSV}: {pivot.shape}")
+    print(f"Saved {CUMULATIVE_CSV}: {pivot.shape} (cumulative starts {CUMULATIVE_START_LABEL})")
 
 
 if __name__ == "__main__":

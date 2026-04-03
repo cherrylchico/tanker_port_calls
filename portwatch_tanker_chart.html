@@ -27,6 +27,7 @@
 const CSV_URL = "portwatch_tanker_cumulative_by_country.csv";
 const YEARS = ["2024", "2025", "2026"];
 const COLORS = {"2024": "#636EFA", "2025": "#EF553B", "2026": "#00CC96"};
+const START_LABEL = "Mar 1";
 
 function dayOfYearToLabel(day) {
   const d = new Date(2024, 0, day);
@@ -111,9 +112,9 @@ fetch(CSV_URL)
     function plotCountry(country) {
       const traces = buildTraces(country);
       const layout = {
-        title: "Cumulative Tanker Port Calls \u2014 " + country,
-        xaxis: { title: "Date", tickmode: "auto", nticks: 20 },
-        yaxis: { title: "Cumulative Tanker Calls" },
+        title: "Cumulative Tanker Port Calls Since " + START_LABEL + " \u2014 " + country,
+        xaxis: { title: "Date (" + START_LABEL + " onward)", tickmode: "auto", nticks: 20 },
+        yaxis: { title: "Cumulative Tanker Calls Since " + START_LABEL },
         legend: { x: 0.01, y: 0.99, bgcolor: "rgba(255,255,255,0.7)" },
         template: "plotly_white",
         height: 600

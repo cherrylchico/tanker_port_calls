@@ -7,8 +7,9 @@ df = pd.read_csv("portwatch_tanker_cumulative_by_country.csv")
 countries = sorted(df["country"].unique())
 years = ["2024", "2025", "2026"]
 colors = {"2024": "#636EFA", "2025": "#EF553B", "2026": "#00CC96"}
+START_LABEL = "Mar 1"
 
-# Convert day_of_year to a readable date label (using 2024 as leap year reference)
+# Convert normalized day_of_year values to readable labels using 2024 as the leap-year reference.
 date_index = pd.date_range("2024-01-01", periods=366, freq="D")
 
 # Build traces: 3 per country (one per year), only first country visible
@@ -50,18 +51,18 @@ for i, country in enumerate(countries):
         "method": "update",
         "args": [
             {"visible": visibility},
-            {"title": f"Cumulative Tanker Port Calls — {country}"},
+            {"title": f"Cumulative Tanker Port Calls Since {START_LABEL} — {country}"},
         ],
     })
 
 layout = {
-    "title": f"Cumulative Tanker Port Calls — {countries[0]}",
+    "title": f"Cumulative Tanker Port Calls Since {START_LABEL} — {countries[0]}",
     "xaxis": {
-        "title": "Date",
+        "title": f"Date ({START_LABEL} onward)",
         "tickmode": "auto",
         "nticks": 20,
     },
-    "yaxis": {"title": "Cumulative Tanker Calls"},
+    "yaxis": {"title": f"Cumulative Tanker Calls Since {START_LABEL}"},
     "updatemenus": [
         {
             "buttons": buttons,
