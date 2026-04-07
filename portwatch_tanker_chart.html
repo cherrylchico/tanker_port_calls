@@ -11,6 +11,7 @@
   #controls { margin-bottom: 10px; }
   #controls label { font-size: 14px; margin-right: 8px; }
   #country-select { font-size: 14px; padding: 4px 8px; }
+  #status-note { margin: 0 0 16px; color: #555; font-size: 14px; }
   #loading { text-align: center; padding: 40px; color: #666; }
 </style>
 </head>
@@ -21,6 +22,7 @@
     <label for="country-select">Country:</label>
     <select id="country-select"></select>
   </div>
+  <div id="status-note" style="display:none;"></div>
   <div id="chart"></div>
 </div>
 <script>
@@ -63,12 +65,58 @@ function parseCSV(text) {
   return rows;
 }
 
+function formatDateLabel(isoDate) {
+  const parsed = new Date(isoDate + "T00:00:00Z");
+  if (Number.isNaN(parsed.getTime())) return isoDate;
+  return parsed.toLocaleDateString("en-US", {
+    year: "numeric",
+    month: "long",
+    day: "numeric"
+  });
+}
+
+function normalizedDayToIsoDate(day, year) {
+  const isLeapYear = new Date(Date.UTC(year, 1, 29)).getUTCDate() === 29;
+  let actualDay = day;
+  if (!isLeapYear && day >= 61) actualDay -= 1;
+
+  const date = new Date(Date.UTC(year, 0, actualDay));
+  return date.toISOString().slice(0, 10);
+}
+
+function latestAvailableDate(rows) {
+  let latestIsoDate = null;
+  for (const row of rows) {
+    const day = parseInt(row.day_of_year, 10);
+    if (Number.isNaN(day)) continue;
+
+    for (const year of YEARS) {
+      if (!row[year]) continue;
+      const isoDate = normalizedDayToIsoDate(day, parseInt(year, 10));
+      if (!latestIsoDate || isoDate > latestIsoDate) {
+        latestIsoDate = isoDate;
+      }
+    }
+  }
+  return latestIsoDate;
+}
+
+function updateStatusNote(rows) {
+  const note = document.getElementById("status-note");
+  const latestDate = latestAvailableDate(rows);
+  if (!latestDate) return;
+
+  note.textContent = "Latest available PortWatch data: " + formatDateLabel(latestDate);
+  note.style.display = "block";
+}
+
 fetch(CSV_URL)
   .then(r => r.text())
   .then(text => {
     const rows = parseCSV(text);
     document.getElementById("loading").style.display = "none";
     document.getElementById("controls").style.display = "block";
+    updateStatusNote(rows);
 
     const byCountry = {};
     for (const row of rows) {

@@ -2,6 +2,7 @@
 
 import pandas as pd
 import json
+from datetime import datetime, timedelta
 
 df = pd.read_csv("portwatch_tanker_cumulative_by_country.csv")
 countries = sorted(df["country"].unique())
@@ -11,6 +12,25 @@ START_LABEL = "Mar 1"
 
 # Convert normalized day_of_year values to readable labels using 2024 as the leap-year reference.
 date_index = pd.date_range("2024-01-01", periods=366, freq="D")
+
+
+def normalized_day_to_date(year, day):
+    is_leap_year = (year % 4 == 0 and year % 100 != 0) or (year % 400 == 0)
+    actual_day = day - 1 if not is_leap_year and day >= 61 else day
+    return datetime(year, 1, 1) + timedelta(days=actual_day - 1)
+
+
+latest_available = None
+for year in years:
+    if year not in df.columns:
+        continue
+    sub = df[["day_of_year", year]].dropna()
+    if sub.empty:
+        continue
+    day = int(sub["day_of_year"].astype(int).max())
+    current = normalized_day_to_date(int(year), day)
+    if latest_available is None or current > latest_available:
+        latest_available = current
 
 # Build traces: 3 per country (one per year), only first country visible
 traces = []
@@ -87,9 +107,17 @@ html = f"""<!DOCTYPE html>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>PortWatch Tanker Port Calls</title>
 <script src="https://cdn.plot.ly/plotly-2.35.2.min.js"></script>
+<style>
+body {{ font-family: sans-serif; margin: 0; padding: 20px; }}
+#container {{ width: 100%; max-width: 1200px; margin: 0 auto; }}
+#status-note {{ margin: 0 0 16px; color: #555; font-size: 14px; }}
+</style>
 </head>
 <body>
-<div id="chart" style="width:100%;max-width:1200px;margin:0 auto;"></div>
+<div id="container">
+<div id="status-note">Latest available PortWatch data: {latest_available.strftime("%B %-d, %Y") if latest_available else "Unavailable"}</div>
+<div id="chart"></div>
+</div>
 <script>
 var traces = {json.dumps(traces)};
 var layout = {json.dumps(layout)};
