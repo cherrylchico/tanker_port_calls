@@ -4,8 +4,11 @@ on:
   push:
     branches: [master]
   schedule:
-    # Run daily at 06:00 UTC
-    - cron: "0 6 * * *"
+    # GitHub Actions uses UTC. We trigger at both 14:00 and 15:00 UTC,
+    # then gate inside the job so it only proceeds at 10:00 AM ET
+    # across daylight saving transitions.
+    - cron: "0 14 * * *"
+    - cron: "0 15 * * *"
   workflow_dispatch: # Allow manual triggers
 
 jobs:
@@ -20,27 +23,93 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
+      - name: Decide whether this run should proceed
+        id: schedule_gate
+        run: |
+          python - <<'PY'
+          import json
+          import os
+          from datetime import date, datetime, timedelta, timezone
+          from pathlib import Path
+          from zoneinfo import ZoneInfo
+
+          event_name = os.environ["GITHUB_EVENT_NAME"]
+          out_path = Path(os.environ["GITHUB_OUTPUT"])
+          state_path = Path("portwatch_update_state.json")
+          now_et = datetime.now(timezone.utc).astimezone(ZoneInfo("America/New_York"))
+          today_et = now_et.date()
+
+          def most_recent_tuesday(day_in_et):
+              return day_in_et - timedelta(days=(day_in_et.weekday() - 1) % 7)
+
+          should_run = True
+          reason = f"event {event_name} always runs"
+
+          if event_name == "schedule":
+              if now_et.hour != 10:
+                  should_run = False
+                  reason = f"skip {now_et.isoformat()} because it is not 10:00 AM ET"
+              elif today_et.weekday() == 1:
+                  should_run = True
+                  reason = f"weekly Tuesday check for {today_et.isoformat()}"
+              else:
+                  cycle_tuesday = most_recent_tuesday(today_et)
+                  last_completed = None
+                  if state_path.exists():
+                      with state_path.open() as f:
+                          state = json.load(f)
+                      raw = state.get("last_completed_cycle_tuesday")
+                      if raw:
+                          last_completed = date.fromisoformat(raw)
+
+                  should_run = last_completed is None or last_completed < cycle_tuesday
+                  if should_run:
+                      reason = (
+                          f"cycle {cycle_tuesday.isoformat()} is still pending; "
+                          "keep checking daily until source data advances"
+                      )
+                  else:
+                      reason = (
+                          f"cycle {cycle_tuesday.isoformat()} already completed on "
+                          f"{last_completed.isoformat()}; skip extra daily check"
+                      )
+
+          print(reason)
+          with out_path.open("a") as f:
+              f.write(f"should_run={'true' if should_run else 'false'}\n")
+              f.write(f"reason={reason}\n")
+          PY
+
+      - name: Log schedule decision
+        run: echo "${{ steps.schedule_gate.outputs.reason }}"
+
       - name: Install uv
+        if: steps.schedule_gate.outputs.should_run == 'true'
         uses: astral-sh/setup-uv@v4
 
       - name: Set up Python
+        if: steps.schedule_gate.outputs.should_run == 'true'
         run: uv python install 3.13
 
       - name: Run update script
+        if: steps.schedule_gate.outputs.should_run == 'true'
         run: uv run update_portwatch.py
 
       - name: Commit and push if changed
+        if: steps.schedule_gate.outputs.should_run == 'true'
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add portwatch_tanker_daily_by_country.csv portwatch_tanker_cumulative_by_country.csv
+          git add portwatch_tanker_daily_by_country.csv portwatch_tanker_cumulative_by_country.csv portwatch_update_state.json
           git diff --staged --quiet || git commit -m "Update PortWatch tanker data $(date -u +%Y-%m-%d)"
           git push
 
       - name: Upload Pages artifact
+        if: steps.schedule_gate.outputs.should_run == 'true'
         uses: actions/upload-pages-artifact@v3
         with:
           path: .
 
       - name: Deploy to GitHub Pages
+        if: steps.schedule_gate.outputs.should_run == 'true'
         uses: actions/deploy-pages@v4
