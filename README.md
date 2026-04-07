@@ -22,6 +22,7 @@ The interactive chart loads the cumulative CSV at runtime, so routine data refre
 | File | Description |
 |------|-------------|
 | `update_portwatch.py` | Update script — fetches from API, updates CSVs, tracks weekly refresh state |
+| `schedule_gate.py` | Workflow helper that decides whether a scheduled run should proceed |
 | `portwatch_tanker_chart.html` | Interactive Plotly chart with country dropdown |
 | `portwatch_tanker_daily_by_country.csv` | Daily tanker port calls by country (2024+) |
 | `portwatch_tanker_cumulative_by_country.csv` | Cumulative tanker calls since March 1, pivoted by year |
