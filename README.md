@@ -8,8 +8,8 @@ Tracker of tanker port calls by country, sourced from [IMF PortWatch](https://po
 
 A GitHub Actions workflow checks around 10:00 AM ET:
 
-1. Runs every Tuesday after the expected weekly PortWatch refresh window
-2. If Tuesday's source data has not advanced yet, keeps checking once per day until it does
+1. Runs every Monday at the start of a new weekly cycle
+2. If that cycle's source data has not advanced yet, keeps checking once per day until it does
 3. Fetches the last 14 days of tanker port call data from the PortWatch ArcGIS API (re-fetches to capture any revisions)
 4. Updates `portwatch_tanker_daily_by_country.csv` with new and revised data
 5. Rebuilds `portwatch_tanker_cumulative_by_country.csv` with cumulative totals per country starting on March 1 of each year

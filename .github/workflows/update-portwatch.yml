@@ -6,7 +6,8 @@ on:
   schedule:
     # GitHub Actions uses UTC. We trigger at both 14:00 and 15:00 UTC,
     # then gate inside the job so it only proceeds at 10:00 AM ET
-    # across daylight saving transitions.
+    # across daylight saving transitions. Monday starts each weekly cycle;
+    # non-Monday runs are follow-up checks until that cycle completes.
     - cron: "0 14 * * *"
     - cron: "0 15 * * *"
   workflow_dispatch: # Allow manual triggers

@@ -1,6 +1,6 @@
 """Fetch recent PortWatch tanker data and rebuild cumulative output.
 
-Designed for a weekly Tuesday check with follow-up daily retries until
+Designed for a weekly Monday check with follow-up daily retries until
 PortWatch advances to a newer source date. The script still re-fetches
 the last 14 days because PortWatch may revise recent data.
 """
@@ -87,7 +87,7 @@ def load_state():
     if not STATE_FILE.exists():
         return {
             "last_checked_at_et": None,
-            "last_completed_cycle_tuesday": None,
+            "last_completed_cycle_monday": None,
             "last_seen_source_max_date": None,
             "last_source_advance_at_et": None,
         }
@@ -97,7 +97,9 @@ def load_state():
 
     return {
         "last_checked_at_et": state.get("last_checked_at_et"),
-        "last_completed_cycle_tuesday": state.get("last_completed_cycle_tuesday"),
+        # Backward-compatible read: previous versions tracked Tuesday cycles.
+        "last_completed_cycle_monday": state.get("last_completed_cycle_monday")
+        or state.get("last_completed_cycle_tuesday"),
         "last_seen_source_max_date": state.get("last_seen_source_max_date"),
         "last_source_advance_at_et": state.get("last_source_advance_at_et"),
     }
@@ -109,16 +111,15 @@ def save_state(state):
         f.write("\n")
 
 
-def most_recent_tuesday(day_in_et):
-    days_since_tuesday = (day_in_et.weekday() - 1) % 7
-    return day_in_et - timedelta(days=days_since_tuesday)
+def most_recent_monday(day_in_et):
+    return day_in_et - timedelta(days=day_in_et.weekday())
 
 
 def main():
     today = date.today()
     lookback_start = today - timedelta(days=14)
     now_et = datetime.now(timezone.utc).astimezone(ET_TZ)
-    cycle_tuesday = most_recent_tuesday(now_et.date())
+    cycle_monday = most_recent_monday(now_et.date())
     state = load_state()
     previous_max_date = None
 
@@ -217,16 +218,17 @@ def main():
     state["last_checked_at_et"] = now_et.isoformat(timespec="seconds")
     state["last_seen_source_max_date"] = new_max_date.isoformat() if new_max_date else None
     if did_advance:
-        state["last_completed_cycle_tuesday"] = cycle_tuesday.isoformat()
+        state["last_completed_cycle_monday"] = cycle_monday.isoformat()
         state["last_source_advance_at_et"] = now_et.isoformat(timespec="seconds")
+        state.pop("last_completed_cycle_tuesday", None)
         print(
             f"Detected new source data: {previous_max_date} -> {new_max_date}. "
-            f"Marked cycle {cycle_tuesday} complete."
+            f"Marked cycle {cycle_monday} complete."
         )
     else:
         print(
             f"Source max date unchanged at {new_max_date}. "
-            f"Cycle {cycle_tuesday} remains pending for follow-up checks."
+            f"Cycle {cycle_monday} remains pending for follow-up checks."
         )
 
     save_state(state)
