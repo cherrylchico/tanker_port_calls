@@ -54,13 +54,13 @@ Albania,112,16.0,24.0,20.0
 Albania,113,16.0,24.0,21.0
 Albania,114,16.0,24.0,22.0
 Albania,115,16.0,24.0,23.0
-Albania,116,16.0,24.0,
-Albania,117,16.0,24.0,
-Albania,118,18.0,25.0,
-Albania,119,18.0,27.0,
-Albania,120,18.0,27.0,
-Albania,121,19.0,28.0,
-Albania,122,19.0,28.0,
+Albania,116,16.0,24.0,23.0
+Albania,117,16.0,24.0,24.0
+Albania,118,18.0,25.0,25.0
+Albania,119,18.0,27.0,25.0
+Albania,120,18.0,27.0,25.0
+Albania,121,19.0,28.0,25.0
+Albania,122,19.0,28.0,26.0
 Albania,123,19.0,28.0,
 Albania,124,19.0,29.0,
 Albania,125,22.0,29.0,
@@ -360,13 +360,13 @@ Algeria,112,244.0,235.0,251.0
 Algeria,113,251.0,239.0,256.0
 Algeria,114,254.0,246.0,260.0
 Algeria,115,259.0,250.0,261.0
-Algeria,116,266.0,258.0,
-Algeria,117,268.0,260.0,
-Algeria,118,275.0,263.0,
-Algeria,119,281.0,266.0,
-Algeria,120,283.0,269.0,
-Algeria,121,289.0,273.0,
-Algeria,122,291.0,282.0,
+Algeria,116,266.0,258.0,268.0
+Algeria,117,268.0,260.0,273.0
+Algeria,118,275.0,263.0,278.0
+Algeria,119,281.0,266.0,284.0
+Algeria,120,283.0,269.0,286.0
+Algeria,121,289.0,273.0,291.0
+Algeria,122,291.0,282.0,296.0
 Algeria,123,302.0,285.0,
 Algeria,124,311.0,292.0,
 Algeria,125,316.0,297.0,
@@ -666,13 +666,13 @@ American Samoa,112,4.0,3.0,4.0
 American Samoa,113,4.0,3.0,4.0
 American Samoa,114,4.0,3.0,4.0
 American Samoa,115,4.0,3.0,4.0
-American Samoa,116,4.0,3.0,
-American Samoa,117,4.0,3.0,
-American Samoa,118,4.0,3.0,
-American Samoa,119,4.0,3.0,
-American Samoa,120,4.0,3.0,
-American Samoa,121,4.0,3.0,
-American Samoa,122,4.0,3.0,
+American Samoa,116,4.0,3.0,4.0
+American Samoa,117,4.0,3.0,4.0
+American Samoa,118,4.0,3.0,5.0
+American Samoa,119,4.0,3.0,5.0
+American Samoa,120,4.0,3.0,5.0
+American Samoa,121,4.0,3.0,5.0
+American Samoa,122,4.0,3.0,5.0
 American Samoa,123,4.0,3.0,
 American Samoa,124,4.0,3.0,
 American Samoa,125,4.0,3.0,
@@ -972,13 +972,13 @@ Angola,112,177.0,178.0,164.0
 Angola,113,180.0,179.0,168.0
 Angola,114,184.0,183.0,171.0
 Angola,115,185.0,185.0,174.0
-Angola,116,190.0,189.0,
-Angola,117,193.0,193.0,
-Angola,118,196.0,195.0,
-Angola,119,202.0,198.0,
-Angola,120,205.0,201.0,
-Angola,121,211.0,205.0,
-Angola,122,213.0,209.0,
+Angola,116,190.0,189.0,176.0
+Angola,117,193.0,193.0,178.0
+Angola,118,196.0,195.0,181.0
+Angola,119,202.0,198.0,185.0
+Angola,120,205.0,201.0,186.0
+Angola,121,211.0,205.0,190.0
+Angola,122,213.0,209.0,194.0
 Angola,123,217.0,216.0,
 Angola,124,220.0,219.0,
 Angola,125,225.0,222.0,
@@ -1278,13 +1278,13 @@ Anguilla,112,11.0,11.0,5.0
 Anguilla,113,11.0,11.0,5.0
 Anguilla,114,11.0,11.0,5.0
 Anguilla,115,11.0,11.0,5.0
-Anguilla,116,11.0,12.0,
-Anguilla,117,11.0,12.0,
-Anguilla,118,11.0,12.0,
-Anguilla,119,11.0,13.0,
-Anguilla,120,12.0,13.0,
-Anguilla,121,12.0,13.0,
-Anguilla,122,12.0,13.0,
+Anguilla,116,11.0,12.0,5.0
+Anguilla,117,11.0,12.0,5.0
+Anguilla,118,11.0,12.0,6.0
+Anguilla,119,11.0,13.0,6.0
+Anguilla,120,12.0,13.0,6.0
+Anguilla,121,12.0,13.0,6.0
+Anguilla,122,12.0,13.0,6.0
 Anguilla,123,12.0,13.0,
 Anguilla,124,12.0,13.0,
 Anguilla,125,12.0,13.0,
@@ -1584,13 +1584,13 @@ Antigua and Barbuda,112,21.0,20.0,9.0
 Antigua and Barbuda,113,22.0,20.0,10.0
 Antigua and Barbuda,114,22.0,21.0,10.0
 Antigua and Barbuda,115,23.0,21.0,10.0
-Antigua and Barbuda,116,23.0,21.0,
-Antigua and Barbuda,117,23.0,21.0,
-Antigua and Barbuda,118,24.0,22.0,
-Antigua and Barbuda,119,24.0,22.0,
-Antigua and Barbuda,120,25.0,22.0,
-Antigua and Barbuda,121,26.0,22.0,
-Antigua and Barbuda,122,26.0,23.0,
+Antigua and Barbuda,116,23.0,21.0,10.0
+Antigua and Barbuda,117,23.0,21.0,10.0
+Antigua and Barbuda,118,24.0,22.0,10.0
+Antigua and Barbuda,119,24.0,22.0,10.0
+Antigua and Barbuda,120,25.0,22.0,10.0
+Antigua and Barbuda,121,26.0,22.0,10.0
+Antigua and Barbuda,122,26.0,23.0,10.0
 Antigua and Barbuda,123,27.0,24.0,
 Antigua and Barbuda,124,27.0,24.0,
 Antigua and Barbuda,125,27.0,24.0,
@@ -1889,14 +1889,14 @@ Argentina,111,431.0,453.0,430.0
 Argentina,112,444.0,462.0,435.0
 Argentina,113,452.0,475.0,442.0
 Argentina,114,459.0,483.0,447.0
-Argentina,115,469.0,492.0,455.0
-Argentina,116,476.0,505.0,
-Argentina,117,483.0,514.0,
-Argentina,118,493.0,521.0,
-Argentina,119,501.0,529.0,
-Argentina,120,517.0,536.0,
-Argentina,121,527.0,548.0,
-Argentina,122,531.0,552.0,
+Argentina,115,469.0,492.0,456.0
+Argentina,116,476.0,505.0,467.0
+Argentina,117,483.0,514.0,472.0
+Argentina,118,493.0,521.0,480.0
+Argentina,119,501.0,529.0,495.0
+Argentina,120,517.0,536.0,501.0
+Argentina,121,527.0,548.0,517.0
+Argentina,122,531.0,552.0,520.0
 Argentina,123,548.0,564.0,
 Argentina,124,554.0,576.0,
 Argentina,125,569.0,585.0,
@@ -2196,13 +2196,13 @@ Aruba,112,7.0,9.0,13.0
 Aruba,113,7.0,9.0,13.0
 Aruba,114,8.0,9.0,13.0
 Aruba,115,8.0,9.0,13.0
-Aruba,116,8.0,9.0,
-Aruba,117,8.0,9.0,
-Aruba,118,8.0,9.0,
-Aruba,119,8.0,9.0,
-Aruba,120,8.0,9.0,
-Aruba,121,8.0,9.0,
-Aruba,122,8.0,9.0,
+Aruba,116,8.0,9.0,13.0
+Aruba,117,8.0,9.0,13.0
+Aruba,118,8.0,9.0,13.0
+Aruba,119,8.0,9.0,13.0
+Aruba,120,8.0,9.0,13.0
+Aruba,121,8.0,9.0,13.0
+Aruba,122,8.0,9.0,13.0
 Aruba,123,8.0,9.0,
 Aruba,124,8.0,9.0,
 Aruba,125,9.0,9.0,
@@ -2502,13 +2502,13 @@ Australia,112,623.0,614.0,564.0
 Australia,113,636.0,622.0,573.0
 Australia,114,644.0,637.0,586.0
 Australia,115,659.0,646.0,601.0
-Australia,116,669.0,653.0,
-Australia,117,676.0,666.0,
-Australia,118,687.0,675.0,
-Australia,119,702.0,687.0,
-Australia,120,716.0,697.0,
-Australia,121,730.0,710.0,
-Australia,122,743.0,718.0,
+Australia,116,669.0,653.0,618.0
+Australia,117,676.0,666.0,634.0
+Australia,118,687.0,675.0,647.0
+Australia,119,702.0,687.0,656.0
+Australia,120,716.0,697.0,667.0
+Australia,121,730.0,710.0,677.0
+Australia,122,743.0,718.0,692.0
 Australia,123,755.0,733.0,
 Australia,124,767.0,742.0,
 Australia,125,779.0,751.0,
@@ -2808,13 +2808,13 @@ Azerbaijan,112,127.0,88.0,128.0
 Azerbaijan,113,129.0,89.0,131.0
 Azerbaijan,114,132.0,91.0,133.0
 Azerbaijan,115,134.0,93.0,135.0
-Azerbaijan,116,139.0,97.0,
-Azerbaijan,117,144.0,100.0,
-Azerbaijan,118,149.0,102.0,
-Azerbaijan,119,151.0,103.0,
-Azerbaijan,120,155.0,104.0,
-Azerbaijan,121,162.0,107.0,
-Azerbaijan,122,164.0,108.0,
+Azerbaijan,116,139.0,97.0,140.0
+Azerbaijan,117,144.0,100.0,142.0
+Azerbaijan,118,149.0,102.0,146.0
+Azerbaijan,119,151.0,103.0,146.0
+Azerbaijan,120,155.0,104.0,147.0
+Azerbaijan,121,162.0,107.0,148.0
+Azerbaijan,122,164.0,108.0,153.0
 Azerbaijan,123,166.0,109.0,
 Azerbaijan,124,168.0,111.0,
 Azerbaijan,125,170.0,111.0,
@@ -3114,13 +3114,13 @@ Bahrain,112,71.0,71.0,6.0
 Bahrain,113,72.0,72.0,6.0
 Bahrain,114,73.0,72.0,6.0
 Bahrain,115,75.0,73.0,6.0
-Bahrain,116,76.0,74.0,
-Bahrain,117,77.0,76.0,
-Bahrain,118,79.0,76.0,
-Bahrain,119,80.0,77.0,
-Bahrain,120,80.0,78.0,
-Bahrain,121,82.0,79.0,
-Bahrain,122,83.0,80.0,
+Bahrain,116,76.0,74.0,7.0
+Bahrain,117,77.0,76.0,7.0
+Bahrain,118,79.0,76.0,8.0
+Bahrain,119,80.0,77.0,8.0
+Bahrain,120,80.0,78.0,8.0
+Bahrain,121,82.0,79.0,8.0
+Bahrain,122,83.0,80.0,10.0
 Bahrain,123,83.0,81.0,
 Bahrain,124,84.0,82.0,
 Bahrain,125,86.0,83.0,
@@ -3420,13 +3420,13 @@ Bangladesh,112,110.0,93.0,70.0
 Bangladesh,113,112.0,98.0,73.0
 Bangladesh,114,117.0,99.0,73.0
 Bangladesh,115,118.0,101.0,74.0
-Bangladesh,116,118.0,106.0,
-Bangladesh,117,121.0,106.0,
-Bangladesh,118,122.0,106.0,
-Bangladesh,119,123.0,108.0,
-Bangladesh,120,125.0,110.0,
-Bangladesh,121,126.0,111.0,
-Bangladesh,122,128.0,111.0,
+Bangladesh,116,118.0,106.0,75.0
+Bangladesh,117,121.0,106.0,76.0
+Bangladesh,118,122.0,106.0,77.0
+Bangladesh,119,123.0,108.0,80.0
+Bangladesh,120,125.0,110.0,82.0
+Bangladesh,121,126.0,111.0,85.0
+Bangladesh,122,128.0,111.0,87.0
 Bangladesh,123,130.0,113.0,
 Bangladesh,124,130.0,116.0,
 Bangladesh,125,132.0,119.0,
@@ -3726,13 +3726,13 @@ Barbados,112,24.0,18.0,19.0
 Barbados,113,24.0,18.0,20.0
 Barbados,114,25.0,19.0,20.0
 Barbados,115,25.0,19.0,20.0
-Barbados,116,27.0,20.0,
-Barbados,117,27.0,20.0,
-Barbados,118,27.0,21.0,
-Barbados,119,27.0,21.0,
-Barbados,120,27.0,21.0,
-Barbados,121,27.0,21.0,
-Barbados,122,27.0,21.0,
+Barbados,116,27.0,20.0,21.0
+Barbados,117,27.0,20.0,22.0
+Barbados,118,27.0,21.0,22.0
+Barbados,119,27.0,21.0,22.0
+Barbados,120,27.0,21.0,22.0
+Barbados,121,27.0,21.0,22.0
+Barbados,122,27.0,21.0,22.0
 Barbados,123,27.0,22.0,
 Barbados,124,29.0,22.0,
 Barbados,125,29.0,22.0,
@@ -4032,13 +4032,13 @@ Belgium,112,2417.0,2360.0,2155.0
 Belgium,113,2468.0,2409.0,2193.0
 Belgium,114,2522.0,2453.0,2231.0
 Belgium,115,2566.0,2501.0,2270.0
-Belgium,116,2617.0,2547.0,
-Belgium,117,2663.0,2595.0,
-Belgium,118,2716.0,2637.0,
-Belgium,119,2758.0,2671.0,
-Belgium,120,2811.0,2695.0,
-Belgium,121,2857.0,2737.0,
-Belgium,122,2910.0,2791.0,
+Belgium,116,2617.0,2547.0,2323.0
+Belgium,117,2663.0,2595.0,2358.0
+Belgium,118,2716.0,2637.0,2401.0
+Belgium,119,2758.0,2671.0,2451.0
+Belgium,120,2811.0,2695.0,2493.0
+Belgium,121,2857.0,2737.0,2543.0
+Belgium,122,2910.0,2791.0,2589.0
 Belgium,123,2962.0,2842.0,
 Belgium,124,3019.0,2896.0,
 Belgium,125,3068.0,2934.0,
@@ -4338,13 +4338,13 @@ Belize,112,8.0,8.0,7.0
 Belize,113,8.0,8.0,7.0
 Belize,114,8.0,9.0,7.0
 Belize,115,8.0,9.0,7.0
-Belize,116,9.0,9.0,
-Belize,117,9.0,10.0,
-Belize,118,9.0,10.0,
-Belize,119,11.0,10.0,
-Belize,120,11.0,10.0,
-Belize,121,11.0,10.0,
-Belize,122,11.0,10.0,
+Belize,116,9.0,9.0,7.0
+Belize,117,9.0,10.0,7.0
+Belize,118,9.0,10.0,7.0
+Belize,119,11.0,10.0,7.0
+Belize,120,11.0,10.0,8.0
+Belize,121,11.0,10.0,8.0
+Belize,122,11.0,10.0,8.0
 Belize,123,11.0,11.0,
 Belize,124,11.0,11.0,
 Belize,125,11.0,11.0,
@@ -4644,13 +4644,13 @@ Benin,112,11.0,19.0,21.0
 Benin,113,12.0,19.0,22.0
 Benin,114,14.0,20.0,22.0
 Benin,115,14.0,20.0,22.0
-Benin,116,14.0,21.0,
-Benin,117,14.0,21.0,
-Benin,118,15.0,22.0,
-Benin,119,15.0,22.0,
-Benin,120,15.0,22.0,
-Benin,121,15.0,23.0,
-Benin,122,15.0,23.0,
+Benin,116,14.0,21.0,23.0
+Benin,117,14.0,21.0,23.0
+Benin,118,15.0,22.0,24.0
+Benin,119,15.0,22.0,24.0
+Benin,120,15.0,22.0,25.0
+Benin,121,15.0,23.0,25.0
+Benin,122,15.0,23.0,25.0
 Benin,123,16.0,23.0,
 Benin,124,17.0,23.0,
 Benin,125,17.0,24.0,
@@ -4950,13 +4950,13 @@ Benin,366,81.0,97.0,
 "Bonaire,  Saint Eustatius and Saba",113,65.0,52.0,47.0
 "Bonaire,  Saint Eustatius and Saba",114,66.0,54.0,48.0
 "Bonaire,  Saint Eustatius and Saba",115,68.0,55.0,49.0
-"Bonaire,  Saint Eustatius and Saba",116,68.0,55.0,
-"Bonaire,  Saint Eustatius and Saba",117,70.0,56.0,
-"Bonaire,  Saint Eustatius and Saba",118,71.0,57.0,
-"Bonaire,  Saint Eustatius and Saba",119,72.0,57.0,
-"Bonaire,  Saint Eustatius and Saba",120,75.0,58.0,
-"Bonaire,  Saint Eustatius and Saba",121,75.0,58.0,
-"Bonaire,  Saint Eustatius and Saba",122,76.0,60.0,
+"Bonaire,  Saint Eustatius and Saba",116,68.0,55.0,49.0
+"Bonaire,  Saint Eustatius and Saba",117,70.0,56.0,50.0
+"Bonaire,  Saint Eustatius and Saba",118,71.0,57.0,52.0
+"Bonaire,  Saint Eustatius and Saba",119,72.0,57.0,53.0
+"Bonaire,  Saint Eustatius and Saba",120,75.0,58.0,54.0
+"Bonaire,  Saint Eustatius and Saba",121,75.0,58.0,55.0
+"Bonaire,  Saint Eustatius and Saba",122,76.0,60.0,55.0
 "Bonaire,  Saint Eustatius and Saba",123,76.0,62.0,
 "Bonaire,  Saint Eustatius and Saba",124,78.0,63.0,
 "Bonaire,  Saint Eustatius and Saba",125,78.0,65.0,
@@ -5256,13 +5256,13 @@ Brazil,112,1377.0,1305.0,1284.0
 Brazil,113,1403.0,1331.0,1316.0
 Brazil,114,1429.0,1353.0,1344.0
 Brazil,115,1461.0,1379.0,1371.0
-Brazil,116,1481.0,1402.0,
-Brazil,117,1513.0,1423.0,
-Brazil,118,1539.0,1456.0,
-Brazil,119,1555.0,1478.0,
-Brazil,120,1582.0,1502.0,
-Brazil,121,1604.0,1529.0,
-Brazil,122,1639.0,1558.0,
+Brazil,116,1481.0,1402.0,1399.0
+Brazil,117,1513.0,1423.0,1432.0
+Brazil,118,1539.0,1456.0,1456.0
+Brazil,119,1555.0,1478.0,1485.0
+Brazil,120,1582.0,1502.0,1503.0
+Brazil,121,1604.0,1529.0,1524.0
+Brazil,122,1639.0,1558.0,1547.0
 Brazil,123,1661.0,1589.0,
 Brazil,124,1692.0,1609.0,
 Brazil,125,1717.0,1630.0,
@@ -5562,13 +5562,13 @@ British Virgin Islands,112,9.0,3.0,4.0
 British Virgin Islands,113,9.0,4.0,4.0
 British Virgin Islands,114,9.0,4.0,4.0
 British Virgin Islands,115,9.0,4.0,4.0
-British Virgin Islands,116,10.0,4.0,
-British Virgin Islands,117,10.0,4.0,
-British Virgin Islands,118,10.0,4.0,
-British Virgin Islands,119,10.0,4.0,
-British Virgin Islands,120,10.0,4.0,
-British Virgin Islands,121,10.0,4.0,
-British Virgin Islands,122,10.0,4.0,
+British Virgin Islands,116,10.0,4.0,5.0
+British Virgin Islands,117,10.0,4.0,5.0
+British Virgin Islands,118,10.0,4.0,5.0
+British Virgin Islands,119,10.0,4.0,5.0
+British Virgin Islands,120,10.0,4.0,5.0
+British Virgin Islands,121,10.0,4.0,5.0
+British Virgin Islands,122,10.0,4.0,5.0
 British Virgin Islands,123,10.0,4.0,
 British Virgin Islands,124,10.0,4.0,
 British Virgin Islands,125,11.0,4.0,
@@ -5868,13 +5868,13 @@ Brunei Darussalam,112,71.0,66.0,64.0
 Brunei Darussalam,113,72.0,67.0,65.0
 Brunei Darussalam,114,73.0,67.0,67.0
 Brunei Darussalam,115,74.0,68.0,68.0
-Brunei Darussalam,116,74.0,70.0,
-Brunei Darussalam,117,75.0,72.0,
-Brunei Darussalam,118,77.0,72.0,
-Brunei Darussalam,119,78.0,73.0,
-Brunei Darussalam,120,80.0,74.0,
-Brunei Darussalam,121,81.0,76.0,
-Brunei Darussalam,122,83.0,79.0,
+Brunei Darussalam,116,74.0,70.0,70.0
+Brunei Darussalam,117,75.0,72.0,70.0
+Brunei Darussalam,118,77.0,72.0,74.0
+Brunei Darussalam,119,78.0,73.0,76.0
+Brunei Darussalam,120,80.0,74.0,76.0
+Brunei Darussalam,121,81.0,76.0,78.0
+Brunei Darussalam,122,83.0,79.0,78.0
 Brunei Darussalam,123,84.0,79.0,
 Brunei Darussalam,124,84.0,81.0,
 Brunei Darussalam,125,85.0,81.0,
@@ -6174,13 +6174,13 @@ Bulgaria,112,85.0,59.0,73.0
 Bulgaria,113,86.0,60.0,73.0
 Bulgaria,114,87.0,62.0,74.0
 Bulgaria,115,91.0,62.0,76.0
-Bulgaria,116,93.0,63.0,
-Bulgaria,117,95.0,64.0,
-Bulgaria,118,96.0,68.0,
-Bulgaria,119,98.0,69.0,
-Bulgaria,120,98.0,70.0,
-Bulgaria,121,99.0,70.0,
-Bulgaria,122,101.0,71.0,
+Bulgaria,116,93.0,63.0,78.0
+Bulgaria,117,95.0,64.0,79.0
+Bulgaria,118,96.0,68.0,83.0
+Bulgaria,119,98.0,69.0,83.0
+Bulgaria,120,98.0,70.0,85.0
+Bulgaria,121,99.0,70.0,85.0
+Bulgaria,122,101.0,71.0,85.0
 Bulgaria,123,103.0,74.0,
 Bulgaria,124,104.0,76.0,
 Bulgaria,125,104.0,78.0,
@@ -6480,13 +6480,13 @@ Cabo Verde,112,75.0,79.0,63.0
 Cabo Verde,113,76.0,80.0,65.0
 Cabo Verde,114,76.0,81.0,67.0
 Cabo Verde,115,78.0,82.0,69.0
-Cabo Verde,116,82.0,87.0,
-Cabo Verde,117,84.0,88.0,
-Cabo Verde,118,86.0,89.0,
-Cabo Verde,119,87.0,92.0,
-Cabo Verde,120,89.0,95.0,
-Cabo Verde,121,90.0,95.0,
-Cabo Verde,122,90.0,95.0,
+Cabo Verde,116,82.0,87.0,70.0
+Cabo Verde,117,84.0,88.0,71.0
+Cabo Verde,118,86.0,89.0,71.0
+Cabo Verde,119,87.0,92.0,71.0
+Cabo Verde,120,89.0,95.0,72.0
+Cabo Verde,121,90.0,95.0,73.0
+Cabo Verde,122,90.0,95.0,75.0
 Cabo Verde,123,91.0,96.0,
 Cabo Verde,124,94.0,96.0,
 Cabo Verde,125,95.0,97.0,
@@ -6786,13 +6786,13 @@ Cambodia,112,37.0,26.0,21.0
 Cambodia,113,37.0,26.0,21.0
 Cambodia,114,38.0,26.0,21.0
 Cambodia,115,38.0,27.0,21.0
-Cambodia,116,39.0,27.0,
-Cambodia,117,39.0,29.0,
-Cambodia,118,39.0,30.0,
-Cambodia,119,41.0,30.0,
-Cambodia,120,41.0,31.0,
-Cambodia,121,41.0,31.0,
-Cambodia,122,41.0,31.0,
+Cambodia,116,39.0,27.0,21.0
+Cambodia,117,39.0,29.0,22.0
+Cambodia,118,39.0,30.0,22.0
+Cambodia,119,41.0,30.0,22.0
+Cambodia,120,41.0,31.0,23.0
+Cambodia,121,41.0,31.0,23.0
+Cambodia,122,41.0,31.0,23.0
 Cambodia,123,41.0,31.0,
 Cambodia,124,43.0,31.0,
 Cambodia,125,43.0,31.0,
@@ -7092,13 +7092,13 @@ Cameroon,112,58.0,51.0,57.0
 Cameroon,113,59.0,51.0,59.0
 Cameroon,114,59.0,52.0,60.0
 Cameroon,115,61.0,53.0,61.0
-Cameroon,116,62.0,55.0,
-Cameroon,117,63.0,55.0,
-Cameroon,118,64.0,56.0,
-Cameroon,119,64.0,56.0,
-Cameroon,120,65.0,58.0,
-Cameroon,121,65.0,58.0,
-Cameroon,122,66.0,60.0,
+Cameroon,116,62.0,55.0,63.0
+Cameroon,117,63.0,55.0,63.0
+Cameroon,118,64.0,56.0,65.0
+Cameroon,119,64.0,56.0,67.0
+Cameroon,120,65.0,58.0,67.0
+Cameroon,121,65.0,58.0,68.0
+Cameroon,122,66.0,60.0,70.0
 Cameroon,123,68.0,60.0,
 Cameroon,124,69.0,61.0,
 Cameroon,125,69.0,62.0,
@@ -7398,13 +7398,13 @@ Canada,112,381.0,449.0,519.0
 Canada,113,390.0,459.0,525.0
 Canada,114,400.0,468.0,539.0
 Canada,115,406.0,474.0,549.0
-Canada,116,416.0,482.0,
-Canada,117,425.0,493.0,
-Canada,118,432.0,505.0,
-Canada,119,441.0,513.0,
-Canada,120,453.0,517.0,
-Canada,121,466.0,524.0,
-Canada,122,474.0,536.0,
+Canada,116,416.0,482.0,560.0
+Canada,117,425.0,493.0,574.0
+Canada,118,432.0,505.0,590.0
+Canada,119,441.0,513.0,597.0
+Canada,120,453.0,517.0,609.0
+Canada,121,466.0,524.0,623.0
+Canada,122,474.0,536.0,637.0
 Canada,123,485.0,541.0,
 Canada,124,493.0,552.0,
 Canada,125,504.0,563.0,
@@ -7704,13 +7704,13 @@ Cayman Islands,112,0.0,0.0,0.0
 Cayman Islands,113,0.0,0.0,0.0
 Cayman Islands,114,0.0,0.0,0.0
 Cayman Islands,115,0.0,0.0,0.0
-Cayman Islands,116,0.0,0.0,
-Cayman Islands,117,0.0,0.0,
-Cayman Islands,118,0.0,0.0,
-Cayman Islands,119,0.0,0.0,
-Cayman Islands,120,0.0,0.0,
-Cayman Islands,121,0.0,0.0,
-Cayman Islands,122,0.0,0.0,
+Cayman Islands,116,0.0,0.0,0.0
+Cayman Islands,117,0.0,0.0,0.0
+Cayman Islands,118,0.0,0.0,0.0
+Cayman Islands,119,0.0,0.0,0.0
+Cayman Islands,120,0.0,0.0,0.0
+Cayman Islands,121,0.0,0.0,0.0
+Cayman Islands,122,0.0,0.0,0.0
 Cayman Islands,123,0.0,0.0,
 Cayman Islands,124,0.0,0.0,
 Cayman Islands,125,0.0,0.0,
@@ -8010,13 +8010,13 @@ Chile,112,278.0,256.0,255.0
 Chile,113,288.0,260.0,261.0
 Chile,114,293.0,269.0,264.0
 Chile,115,300.0,272.0,267.0
-Chile,116,302.0,276.0,
-Chile,117,306.0,279.0,
-Chile,118,311.0,285.0,
-Chile,119,314.0,290.0,
-Chile,120,320.0,297.0,
-Chile,121,323.0,302.0,
-Chile,122,330.0,304.0,
+Chile,116,302.0,276.0,270.0
+Chile,117,306.0,279.0,272.0
+Chile,118,311.0,285.0,279.0
+Chile,119,314.0,290.0,284.0
+Chile,120,320.0,297.0,289.0
+Chile,121,323.0,302.0,294.0
+Chile,122,330.0,304.0,300.0
 Chile,123,339.0,307.0,
 Chile,124,342.0,312.0,
 Chile,125,347.0,313.0,
@@ -8314,15 +8314,15 @@ China,110,9972.0,9400.0,8764.0
 China,111,10206.0,9595.0,8970.0
 China,112,10410.0,9811.0,9151.0
 China,113,10628.0,10017.0,9321.0
-China,114,10825.0,10192.0,9491.0
-China,115,11032.0,10415.0,9669.0
-China,116,11256.0,10609.0,
-China,117,11451.0,10833.0,
-China,118,11622.0,11021.0,
-China,119,11757.0,11248.0,
-China,120,11926.0,11454.0,
-China,121,12161.0,11650.0,
-China,122,12387.0,11857.0,
+China,114,10825.0,10192.0,9497.0
+China,115,11032.0,10415.0,9677.0
+China,116,11256.0,10609.0,9827.0
+China,117,11451.0,10833.0,9991.0
+China,118,11622.0,11021.0,10145.0
+China,119,11757.0,11248.0,10293.0
+China,120,11926.0,11454.0,10429.0
+China,121,12161.0,11650.0,10580.0
+China,122,12387.0,11857.0,10729.0
 China,123,12582.0,12067.0,
 China,124,12794.0,12245.0,
 China,125,13011.0,12420.0,
@@ -8622,13 +8622,13 @@ Colombia,112,172.0,203.0,207.0
 Colombia,113,182.0,204.0,214.0
 Colombia,114,186.0,208.0,215.0
 Colombia,115,190.0,211.0,218.0
-Colombia,116,195.0,214.0,
-Colombia,117,201.0,219.0,
-Colombia,118,205.0,221.0,
-Colombia,119,209.0,224.0,
-Colombia,120,212.0,228.0,
-Colombia,121,219.0,235.0,
-Colombia,122,220.0,238.0,
+Colombia,116,195.0,214.0,220.0
+Colombia,117,201.0,219.0,228.0
+Colombia,118,205.0,221.0,231.0
+Colombia,119,209.0,224.0,232.0
+Colombia,120,212.0,228.0,239.0
+Colombia,121,219.0,235.0,239.0
+Colombia,122,220.0,238.0,244.0
 Colombia,123,225.0,244.0,
 Colombia,124,228.0,248.0,
 Colombia,125,234.0,248.0,
@@ -8928,13 +8928,13 @@ Comoros,112,8.0,6.0,4.0
 Comoros,113,8.0,6.0,4.0
 Comoros,114,8.0,6.0,4.0
 Comoros,115,8.0,6.0,4.0
-Comoros,116,8.0,6.0,
-Comoros,117,8.0,6.0,
-Comoros,118,8.0,6.0,
-Comoros,119,8.0,6.0,
-Comoros,120,8.0,6.0,
-Comoros,121,8.0,6.0,
-Comoros,122,8.0,6.0,
+Comoros,116,8.0,6.0,5.0
+Comoros,117,8.0,6.0,5.0
+Comoros,118,8.0,6.0,5.0
+Comoros,119,8.0,6.0,5.0
+Comoros,120,8.0,6.0,5.0
+Comoros,121,8.0,6.0,5.0
+Comoros,122,8.0,6.0,5.0
 Comoros,123,8.0,6.0,
 Comoros,124,8.0,6.0,
 Comoros,125,8.0,6.0,
@@ -9234,13 +9234,13 @@ Cook Islands,112,3.0,2.0,4.0
 Cook Islands,113,3.0,2.0,4.0
 Cook Islands,114,3.0,2.0,4.0
 Cook Islands,115,3.0,2.0,4.0
-Cook Islands,116,3.0,2.0,
-Cook Islands,117,3.0,2.0,
-Cook Islands,118,3.0,2.0,
-Cook Islands,119,3.0,2.0,
-Cook Islands,120,3.0,2.0,
-Cook Islands,121,3.0,2.0,
-Cook Islands,122,3.0,2.0,
+Cook Islands,116,3.0,2.0,4.0
+Cook Islands,117,3.0,2.0,4.0
+Cook Islands,118,3.0,2.0,4.0
+Cook Islands,119,3.0,2.0,4.0
+Cook Islands,120,3.0,2.0,4.0
+Cook Islands,121,3.0,2.0,4.0
+Cook Islands,122,3.0,2.0,5.0
 Cook Islands,123,3.0,2.0,
 Cook Islands,124,3.0,3.0,
 Cook Islands,125,3.0,3.0,
@@ -9540,13 +9540,13 @@ Costa Rica,112,34.0,28.0,24.0
 Costa Rica,113,35.0,29.0,24.0
 Costa Rica,114,36.0,30.0,25.0
 Costa Rica,115,38.0,30.0,26.0
-Costa Rica,116,38.0,30.0,
-Costa Rica,117,38.0,30.0,
-Costa Rica,118,38.0,30.0,
-Costa Rica,119,39.0,30.0,
-Costa Rica,120,40.0,31.0,
-Costa Rica,121,40.0,32.0,
-Costa Rica,122,40.0,33.0,
+Costa Rica,116,38.0,30.0,26.0
+Costa Rica,117,38.0,30.0,28.0
+Costa Rica,118,38.0,30.0,30.0
+Costa Rica,119,39.0,30.0,31.0
+Costa Rica,120,40.0,31.0,32.0
+Costa Rica,121,40.0,32.0,33.0
+Costa Rica,122,40.0,33.0,33.0
 Costa Rica,123,41.0,33.0,
 Costa Rica,124,41.0,34.0,
 Costa Rica,125,41.0,34.0,
@@ -9846,13 +9846,13 @@ Croatia,112,39.0,32.0,43.0
 Croatia,113,40.0,32.0,44.0
 Croatia,114,41.0,32.0,44.0
 Croatia,115,41.0,36.0,45.0
-Croatia,116,41.0,36.0,
-Croatia,117,43.0,36.0,
-Croatia,118,46.0,37.0,
-Croatia,119,47.0,40.0,
-Croatia,120,48.0,40.0,
-Croatia,121,49.0,40.0,
-Croatia,122,50.0,42.0,
+Croatia,116,41.0,36.0,46.0
+Croatia,117,43.0,36.0,47.0
+Croatia,118,46.0,37.0,48.0
+Croatia,119,47.0,40.0,50.0
+Croatia,120,48.0,40.0,52.0
+Croatia,121,49.0,40.0,52.0
+Croatia,122,50.0,42.0,57.0
 Croatia,123,51.0,43.0,
 Croatia,124,52.0,43.0,
 Croatia,125,52.0,43.0,
@@ -10152,13 +10152,13 @@ Cuba,112,77.0,59.0,33.0
 Cuba,113,79.0,61.0,34.0
 Cuba,114,80.0,61.0,35.0
 Cuba,115,82.0,64.0,36.0
-Cuba,116,84.0,66.0,
-Cuba,117,84.0,67.0,
-Cuba,118,88.0,67.0,
-Cuba,119,89.0,68.0,
-Cuba,120,90.0,70.0,
-Cuba,121,91.0,71.0,
-Cuba,122,94.0,73.0,
+Cuba,116,84.0,66.0,36.0
+Cuba,117,84.0,67.0,36.0
+Cuba,118,88.0,67.0,37.0
+Cuba,119,89.0,68.0,38.0
+Cuba,120,90.0,70.0,41.0
+Cuba,121,91.0,71.0,42.0
+Cuba,122,94.0,73.0,42.0
 Cuba,123,97.0,74.0,
 Cuba,124,98.0,75.0,
 Cuba,125,98.0,75.0,
@@ -10458,13 +10458,13 @@ Curaçao,112,18.0,15.0,21.0
 Curaçao,113,19.0,15.0,21.0
 Curaçao,114,19.0,15.0,21.0
 Curaçao,115,19.0,15.0,21.0
-Curaçao,116,19.0,15.0,
-Curaçao,117,19.0,15.0,
-Curaçao,118,19.0,15.0,
-Curaçao,119,19.0,15.0,
-Curaçao,120,19.0,15.0,
-Curaçao,121,19.0,17.0,
-Curaçao,122,19.0,17.0,
+Curaçao,116,19.0,15.0,21.0
+Curaçao,117,19.0,15.0,22.0
+Curaçao,118,19.0,15.0,23.0
+Curaçao,119,19.0,15.0,23.0
+Curaçao,120,19.0,15.0,23.0
+Curaçao,121,19.0,17.0,23.0
+Curaçao,122,19.0,17.0,23.0
 Curaçao,123,20.0,17.0,
 Curaçao,124,22.0,17.0,
 Curaçao,125,22.0,17.0,
@@ -10764,13 +10764,13 @@ Cyprus,112,82.0,105.0,107.0
 Cyprus,113,84.0,108.0,109.0
 Cyprus,114,86.0,111.0,112.0
 Cyprus,115,87.0,112.0,113.0
-Cyprus,116,92.0,113.0,
-Cyprus,117,92.0,118.0,
-Cyprus,118,93.0,119.0,
-Cyprus,119,94.0,119.0,
-Cyprus,120,96.0,120.0,
-Cyprus,121,99.0,121.0,
-Cyprus,122,104.0,123.0,
+Cyprus,116,92.0,113.0,113.0
+Cyprus,117,92.0,118.0,115.0
+Cyprus,118,93.0,119.0,118.0
+Cyprus,119,94.0,119.0,120.0
+Cyprus,120,96.0,120.0,123.0
+Cyprus,121,99.0,121.0,124.0
+Cyprus,122,104.0,123.0,125.0
 Cyprus,123,106.0,125.0,
 Cyprus,124,108.0,130.0,
 Cyprus,125,108.0,132.0,
@@ -11070,13 +11070,13 @@ Côte d'Ivoire,112,51.0,53.0,33.0
 Côte d'Ivoire,113,52.0,54.0,33.0
 Côte d'Ivoire,114,53.0,55.0,34.0
 Côte d'Ivoire,115,55.0,55.0,34.0
-Côte d'Ivoire,116,56.0,56.0,
-Côte d'Ivoire,117,57.0,56.0,
-Côte d'Ivoire,118,59.0,56.0,
-Côte d'Ivoire,119,59.0,57.0,
-Côte d'Ivoire,120,60.0,58.0,
-Côte d'Ivoire,121,60.0,58.0,
-Côte d'Ivoire,122,60.0,61.0,
+Côte d'Ivoire,116,56.0,56.0,34.0
+Côte d'Ivoire,117,57.0,56.0,38.0
+Côte d'Ivoire,118,59.0,56.0,38.0
+Côte d'Ivoire,119,59.0,57.0,39.0
+Côte d'Ivoire,120,60.0,58.0,40.0
+Côte d'Ivoire,121,60.0,58.0,40.0
+Côte d'Ivoire,122,60.0,61.0,40.0
 Côte d'Ivoire,123,62.0,61.0,
 Côte d'Ivoire,124,64.0,61.0,
 Côte d'Ivoire,125,64.0,61.0,
@@ -11376,13 +11376,13 @@ Democratic Republic of the Congo,112,13.0,15.0,23.0
 Democratic Republic of the Congo,113,13.0,15.0,23.0
 Democratic Republic of the Congo,114,13.0,15.0,23.0
 Democratic Republic of the Congo,115,13.0,15.0,23.0
-Democratic Republic of the Congo,116,13.0,15.0,
-Democratic Republic of the Congo,117,13.0,16.0,
-Democratic Republic of the Congo,118,13.0,16.0,
-Democratic Republic of the Congo,119,14.0,16.0,
-Democratic Republic of the Congo,120,14.0,16.0,
-Democratic Republic of the Congo,121,15.0,17.0,
-Democratic Republic of the Congo,122,15.0,17.0,
+Democratic Republic of the Congo,116,13.0,15.0,25.0
+Democratic Republic of the Congo,117,13.0,16.0,26.0
+Democratic Republic of the Congo,118,13.0,16.0,26.0
+Democratic Republic of the Congo,119,14.0,16.0,27.0
+Democratic Republic of the Congo,120,14.0,16.0,28.0
+Democratic Republic of the Congo,121,15.0,17.0,28.0
+Democratic Republic of the Congo,122,15.0,17.0,29.0
 Democratic Republic of the Congo,123,15.0,17.0,
 Democratic Republic of the Congo,124,15.0,17.0,
 Democratic Republic of the Congo,125,17.0,17.0,
@@ -11682,13 +11682,13 @@ Denmark,112,380.0,355.0,362.0
 Denmark,113,391.0,362.0,373.0
 Denmark,114,401.0,373.0,381.0
 Denmark,115,411.0,383.0,394.0
-Denmark,116,422.0,389.0,
-Denmark,117,429.0,395.0,
-Denmark,118,440.0,399.0,
-Denmark,119,445.0,409.0,
-Denmark,120,452.0,413.0,
-Denmark,121,462.0,420.0,
-Denmark,122,469.0,425.0,
+Denmark,116,422.0,389.0,402.0
+Denmark,117,429.0,395.0,410.0
+Denmark,118,440.0,399.0,420.0
+Denmark,119,445.0,409.0,428.0
+Denmark,120,452.0,413.0,432.0
+Denmark,121,462.0,420.0,436.0
+Denmark,122,469.0,425.0,445.0
 Denmark,123,478.0,433.0,
 Denmark,124,486.0,439.0,
 Denmark,125,495.0,448.0,
@@ -11988,13 +11988,13 @@ Djibouti,112,45.0,37.0,41.0
 Djibouti,113,48.0,38.0,41.0
 Djibouti,114,50.0,39.0,42.0
 Djibouti,115,52.0,40.0,42.0
-Djibouti,116,52.0,40.0,
-Djibouti,117,52.0,40.0,
-Djibouti,118,52.0,41.0,
-Djibouti,119,53.0,41.0,
-Djibouti,120,53.0,42.0,
-Djibouti,121,54.0,42.0,
-Djibouti,122,55.0,43.0,
+Djibouti,116,52.0,40.0,42.0
+Djibouti,117,52.0,40.0,44.0
+Djibouti,118,52.0,41.0,45.0
+Djibouti,119,53.0,41.0,45.0
+Djibouti,120,53.0,42.0,47.0
+Djibouti,121,54.0,42.0,48.0
+Djibouti,122,55.0,43.0,48.0
 Djibouti,123,55.0,43.0,
 Djibouti,124,56.0,44.0,
 Djibouti,125,57.0,44.0,
@@ -12294,13 +12294,13 @@ Dominica,112,12.0,10.0,10.0
 Dominica,113,12.0,10.0,10.0
 Dominica,114,12.0,10.0,10.0
 Dominica,115,12.0,10.0,10.0
-Dominica,116,12.0,11.0,
-Dominica,117,13.0,11.0,
-Dominica,118,13.0,11.0,
-Dominica,119,14.0,11.0,
-Dominica,120,14.0,11.0,
-Dominica,121,15.0,11.0,
-Dominica,122,15.0,11.0,
+Dominica,116,12.0,11.0,10.0
+Dominica,117,13.0,11.0,10.0
+Dominica,118,13.0,11.0,10.0
+Dominica,119,14.0,11.0,10.0
+Dominica,120,14.0,11.0,10.0
+Dominica,121,15.0,11.0,10.0
+Dominica,122,15.0,11.0,11.0
 Dominica,123,15.0,13.0,
 Dominica,124,16.0,13.0,
 Dominica,125,16.0,13.0,
@@ -12600,13 +12600,13 @@ Dominican Republic,112,92.0,64.0,57.0
 Dominican Republic,113,93.0,64.0,59.0
 Dominican Republic,114,95.0,66.0,62.0
 Dominican Republic,115,97.0,66.0,64.0
-Dominican Republic,116,98.0,67.0,
-Dominican Republic,117,99.0,70.0,
-Dominican Republic,118,101.0,72.0,
-Dominican Republic,119,101.0,74.0,
-Dominican Republic,120,102.0,76.0,
-Dominican Republic,121,103.0,76.0,
-Dominican Republic,122,104.0,78.0,
+Dominican Republic,116,98.0,67.0,64.0
+Dominican Republic,117,99.0,70.0,65.0
+Dominican Republic,118,101.0,72.0,67.0
+Dominican Republic,119,101.0,74.0,69.0
+Dominican Republic,120,102.0,76.0,71.0
+Dominican Republic,121,103.0,76.0,72.0
+Dominican Republic,122,104.0,78.0,76.0
 Dominican Republic,123,106.0,78.0,
 Dominican Republic,124,107.0,80.0,
 Dominican Republic,125,108.0,80.0,
@@ -12906,13 +12906,13 @@ Ecuador,112,162.0,180.0,162.0
 Ecuador,113,164.0,187.0,169.0
 Ecuador,114,166.0,191.0,170.0
 Ecuador,115,170.0,193.0,176.0
-Ecuador,116,174.0,201.0,
-Ecuador,117,180.0,206.0,
-Ecuador,118,182.0,209.0,
-Ecuador,119,186.0,213.0,
-Ecuador,120,187.0,217.0,
-Ecuador,121,191.0,219.0,
-Ecuador,122,197.0,223.0,
+Ecuador,116,174.0,201.0,180.0
+Ecuador,117,180.0,206.0,182.0
+Ecuador,118,182.0,209.0,185.0
+Ecuador,119,186.0,213.0,188.0
+Ecuador,120,187.0,217.0,191.0
+Ecuador,121,191.0,219.0,195.0
+Ecuador,122,197.0,223.0,199.0
 Ecuador,123,201.0,228.0,
 Ecuador,124,206.0,231.0,
 Ecuador,125,210.0,234.0,
@@ -13212,13 +13212,13 @@ Egypt,112,253.0,212.0,272.0
 Egypt,113,261.0,217.0,280.0
 Egypt,114,268.0,221.0,288.0
 Egypt,115,269.0,230.0,293.0
-Egypt,116,274.0,231.0,
-Egypt,117,280.0,236.0,
-Egypt,118,285.0,240.0,
-Egypt,119,293.0,247.0,
-Egypt,120,300.0,252.0,
-Egypt,121,303.0,255.0,
-Egypt,122,307.0,263.0,
+Egypt,116,274.0,231.0,296.0
+Egypt,117,280.0,236.0,300.0
+Egypt,118,285.0,240.0,316.0
+Egypt,119,293.0,247.0,326.0
+Egypt,120,300.0,252.0,334.0
+Egypt,121,303.0,255.0,341.0
+Egypt,122,307.0,263.0,345.0
 Egypt,123,311.0,265.0,
 Egypt,124,318.0,268.0,
 Egypt,125,320.0,271.0,
@@ -13518,13 +13518,13 @@ El Salvador,112,42.0,39.0,25.0
 El Salvador,113,42.0,39.0,26.0
 El Salvador,114,43.0,41.0,26.0
 El Salvador,115,43.0,42.0,27.0
-El Salvador,116,44.0,44.0,
-El Salvador,117,46.0,44.0,
-El Salvador,118,46.0,45.0,
-El Salvador,119,48.0,45.0,
-El Salvador,120,49.0,45.0,
-El Salvador,121,49.0,45.0,
-El Salvador,122,50.0,47.0,
+El Salvador,116,44.0,44.0,28.0
+El Salvador,117,46.0,44.0,29.0
+El Salvador,118,46.0,45.0,31.0
+El Salvador,119,48.0,45.0,32.0
+El Salvador,120,49.0,45.0,33.0
+El Salvador,121,49.0,45.0,34.0
+El Salvador,122,50.0,47.0,35.0
 El Salvador,123,51.0,47.0,
 El Salvador,124,51.0,48.0,
 El Salvador,125,52.0,48.0,
@@ -13824,13 +13824,13 @@ Equatorial Guinea,112,29.0,23.0,35.0
 Equatorial Guinea,113,30.0,23.0,35.0
 Equatorial Guinea,114,31.0,23.0,36.0
 Equatorial Guinea,115,31.0,24.0,36.0
-Equatorial Guinea,116,32.0,24.0,
-Equatorial Guinea,117,32.0,25.0,
-Equatorial Guinea,118,33.0,25.0,
-Equatorial Guinea,119,33.0,25.0,
-Equatorial Guinea,120,33.0,25.0,
-Equatorial Guinea,121,34.0,26.0,
-Equatorial Guinea,122,34.0,27.0,
+Equatorial Guinea,116,32.0,24.0,37.0
+Equatorial Guinea,117,32.0,25.0,37.0
+Equatorial Guinea,118,33.0,25.0,37.0
+Equatorial Guinea,119,33.0,25.0,37.0
+Equatorial Guinea,120,33.0,25.0,40.0
+Equatorial Guinea,121,34.0,26.0,40.0
+Equatorial Guinea,122,34.0,27.0,40.0
 Equatorial Guinea,123,35.0,27.0,
 Equatorial Guinea,124,36.0,27.0,
 Equatorial Guinea,125,36.0,29.0,
@@ -14130,13 +14130,13 @@ Eritrea,112,3.0,1.0,2.0
 Eritrea,113,3.0,1.0,2.0
 Eritrea,114,3.0,1.0,2.0
 Eritrea,115,3.0,1.0,2.0
-Eritrea,116,3.0,1.0,
-Eritrea,117,3.0,1.0,
-Eritrea,118,3.0,1.0,
-Eritrea,119,3.0,1.0,
-Eritrea,120,3.0,1.0,
-Eritrea,121,3.0,1.0,
-Eritrea,122,3.0,1.0,
+Eritrea,116,3.0,1.0,2.0
+Eritrea,117,3.0,1.0,2.0
+Eritrea,118,3.0,1.0,2.0
+Eritrea,119,3.0,1.0,2.0
+Eritrea,120,3.0,1.0,2.0
+Eritrea,121,3.0,1.0,2.0
+Eritrea,122,3.0,1.0,2.0
 Eritrea,123,3.0,1.0,
 Eritrea,124,3.0,1.0,
 Eritrea,125,3.0,1.0,
@@ -14436,13 +14436,13 @@ Estonia,112,46.0,33.0,32.0
 Estonia,113,46.0,34.0,32.0
 Estonia,114,47.0,34.0,32.0
 Estonia,115,47.0,34.0,32.0
-Estonia,116,48.0,36.0,
-Estonia,117,48.0,36.0,
-Estonia,118,49.0,38.0,
-Estonia,119,52.0,39.0,
-Estonia,120,54.0,39.0,
-Estonia,121,54.0,40.0,
-Estonia,122,55.0,40.0,
+Estonia,116,48.0,36.0,33.0
+Estonia,117,48.0,36.0,33.0
+Estonia,118,49.0,38.0,34.0
+Estonia,119,52.0,39.0,34.0
+Estonia,120,54.0,39.0,35.0
+Estonia,121,54.0,40.0,35.0
+Estonia,122,55.0,40.0,39.0
 Estonia,123,55.0,40.0,
 Estonia,124,55.0,40.0,
 Estonia,125,55.0,40.0,
@@ -14742,13 +14742,13 @@ Faroe Islands,112,5.0,4.0,2.0
 Faroe Islands,113,5.0,4.0,2.0
 Faroe Islands,114,5.0,4.0,2.0
 Faroe Islands,115,5.0,4.0,3.0
-Faroe Islands,116,5.0,5.0,
-Faroe Islands,117,6.0,6.0,
-Faroe Islands,118,6.0,6.0,
-Faroe Islands,119,7.0,6.0,
-Faroe Islands,120,7.0,6.0,
-Faroe Islands,121,7.0,6.0,
-Faroe Islands,122,7.0,6.0,
+Faroe Islands,116,5.0,5.0,3.0
+Faroe Islands,117,6.0,6.0,3.0
+Faroe Islands,118,6.0,6.0,3.0
+Faroe Islands,119,7.0,6.0,3.0
+Faroe Islands,120,7.0,6.0,3.0
+Faroe Islands,121,7.0,6.0,3.0
+Faroe Islands,122,7.0,6.0,4.0
 Faroe Islands,123,7.0,6.0,
 Faroe Islands,124,7.0,6.0,
 Faroe Islands,125,7.0,6.0,
@@ -15048,13 +15048,13 @@ Fiji,112,34.0,39.0,34.0
 Fiji,113,34.0,40.0,34.0
 Fiji,114,34.0,40.0,36.0
 Fiji,115,37.0,40.0,37.0
-Fiji,116,38.0,41.0,
-Fiji,117,40.0,42.0,
-Fiji,118,41.0,42.0,
-Fiji,119,42.0,43.0,
-Fiji,120,43.0,44.0,
-Fiji,121,46.0,45.0,
-Fiji,122,46.0,46.0,
+Fiji,116,38.0,41.0,37.0
+Fiji,117,40.0,42.0,37.0
+Fiji,118,41.0,42.0,37.0
+Fiji,119,42.0,43.0,38.0
+Fiji,120,43.0,44.0,38.0
+Fiji,121,46.0,45.0,38.0
+Fiji,122,46.0,46.0,38.0
 Fiji,123,46.0,47.0,
 Fiji,124,46.0,47.0,
 Fiji,125,47.0,47.0,
@@ -15354,13 +15354,13 @@ Finland,112,271.0,291.0,320.0
 Finland,113,276.0,303.0,328.0
 Finland,114,278.0,309.0,337.0
 Finland,115,286.0,316.0,343.0
-Finland,116,294.0,323.0,
-Finland,117,296.0,327.0,
-Finland,118,302.0,334.0,
-Finland,119,305.0,341.0,
-Finland,120,310.0,349.0,
-Finland,121,312.0,353.0,
-Finland,122,315.0,361.0,
+Finland,116,294.0,323.0,349.0
+Finland,117,296.0,327.0,355.0
+Finland,118,302.0,334.0,359.0
+Finland,119,305.0,341.0,364.0
+Finland,120,310.0,349.0,371.0
+Finland,121,312.0,353.0,377.0
+Finland,122,315.0,361.0,382.0
 Finland,123,320.0,369.0,
 Finland,124,322.0,373.0,
 Finland,125,328.0,380.0,
@@ -15660,13 +15660,13 @@ France,112,1147.0,1115.0,1155.0
 France,113,1166.0,1137.0,1173.0
 France,114,1187.0,1159.0,1201.0
 France,115,1215.0,1178.0,1228.0
-France,116,1244.0,1204.0,
-France,117,1274.0,1229.0,
-France,118,1303.0,1249.0,
-France,119,1330.0,1273.0,
-France,120,1353.0,1295.0,
-France,121,1373.0,1312.0,
-France,122,1402.0,1329.0,
+France,116,1244.0,1204.0,1248.0
+France,117,1274.0,1229.0,1272.0
+France,118,1303.0,1249.0,1299.0
+France,119,1330.0,1273.0,1317.0
+France,120,1353.0,1295.0,1330.0
+France,121,1373.0,1312.0,1358.0
+France,122,1402.0,1329.0,1373.0
 France,123,1425.0,1348.0,
 France,124,1445.0,1368.0,
 France,125,1479.0,1388.0,
@@ -15966,13 +15966,13 @@ French Guiana,112,13.0,10.0,10.0
 French Guiana,113,14.0,10.0,10.0
 French Guiana,114,14.0,10.0,10.0
 French Guiana,115,15.0,10.0,10.0
-French Guiana,116,15.0,11.0,
-French Guiana,117,15.0,11.0,
-French Guiana,118,15.0,11.0,
-French Guiana,119,16.0,11.0,
-French Guiana,120,16.0,11.0,
-French Guiana,121,16.0,11.0,
-French Guiana,122,16.0,11.0,
+French Guiana,116,15.0,11.0,10.0
+French Guiana,117,15.0,11.0,11.0
+French Guiana,118,15.0,11.0,11.0
+French Guiana,119,16.0,11.0,12.0
+French Guiana,120,16.0,11.0,12.0
+French Guiana,121,16.0,11.0,12.0
+French Guiana,122,16.0,11.0,12.0
 French Guiana,123,16.0,12.0,
 French Guiana,124,16.0,12.0,
 French Guiana,125,16.0,13.0,
@@ -16272,13 +16272,13 @@ French Polynesia,112,4.0,5.0,3.0
 French Polynesia,113,4.0,5.0,4.0
 French Polynesia,114,4.0,5.0,4.0
 French Polynesia,115,4.0,5.0,4.0
-French Polynesia,116,4.0,5.0,
-French Polynesia,117,4.0,5.0,
-French Polynesia,118,4.0,6.0,
-French Polynesia,119,4.0,6.0,
-French Polynesia,120,4.0,6.0,
-French Polynesia,121,4.0,6.0,
-French Polynesia,122,4.0,6.0,
+French Polynesia,116,4.0,5.0,4.0
+French Polynesia,117,4.0,5.0,4.0
+French Polynesia,118,4.0,6.0,4.0
+French Polynesia,119,4.0,6.0,4.0
+French Polynesia,120,4.0,6.0,4.0
+French Polynesia,121,4.0,6.0,4.0
+French Polynesia,122,4.0,6.0,4.0
 French Polynesia,123,4.0,7.0,
 French Polynesia,124,4.0,7.0,
 French Polynesia,125,4.0,7.0,
@@ -16578,13 +16578,13 @@ Gabon,112,67.0,71.0,53.0
 Gabon,113,70.0,72.0,54.0
 Gabon,114,72.0,72.0,55.0
 Gabon,115,75.0,75.0,59.0
-Gabon,116,76.0,76.0,
-Gabon,117,77.0,76.0,
-Gabon,118,77.0,76.0,
-Gabon,119,78.0,77.0,
-Gabon,120,79.0,78.0,
-Gabon,121,82.0,79.0,
-Gabon,122,83.0,80.0,
+Gabon,116,76.0,76.0,61.0
+Gabon,117,77.0,76.0,64.0
+Gabon,118,77.0,76.0,64.0
+Gabon,119,78.0,77.0,65.0
+Gabon,120,79.0,78.0,66.0
+Gabon,121,82.0,79.0,67.0
+Gabon,122,83.0,80.0,68.0
 Gabon,123,84.0,81.0,
 Gabon,124,85.0,82.0,
 Gabon,125,86.0,83.0,
@@ -16884,13 +16884,13 @@ Georgia,112,52.0,51.0,50.0
 Georgia,113,52.0,51.0,51.0
 Georgia,114,57.0,52.0,52.0
 Georgia,115,58.0,52.0,53.0
-Georgia,116,58.0,52.0,
-Georgia,117,59.0,54.0,
-Georgia,118,62.0,56.0,
-Georgia,119,62.0,56.0,
-Georgia,120,64.0,58.0,
-Georgia,121,66.0,58.0,
-Georgia,122,67.0,59.0,
+Georgia,116,58.0,52.0,53.0
+Georgia,117,59.0,54.0,53.0
+Georgia,118,62.0,56.0,54.0
+Georgia,119,62.0,56.0,56.0
+Georgia,120,64.0,58.0,57.0
+Georgia,121,66.0,58.0,58.0
+Georgia,122,67.0,59.0,58.0
 Georgia,123,67.0,60.0,
 Georgia,124,69.0,60.0,
 Georgia,125,70.0,62.0,
@@ -17190,13 +17190,13 @@ Germany,112,731.0,738.0,753.0
 Germany,113,747.0,750.0,769.0
 Germany,114,761.0,769.0,780.0
 Germany,115,775.0,780.0,797.0
-Germany,116,785.0,795.0,
-Germany,117,800.0,808.0,
-Germany,118,816.0,825.0,
-Germany,119,830.0,835.0,
-Germany,120,842.0,847.0,
-Germany,121,860.0,856.0,
-Germany,122,875.0,868.0,
+Germany,116,785.0,795.0,812.0
+Germany,117,800.0,808.0,830.0
+Germany,118,816.0,825.0,840.0
+Germany,119,830.0,835.0,853.0
+Germany,120,842.0,847.0,870.0
+Germany,121,860.0,856.0,884.0
+Germany,122,875.0,868.0,896.0
 Germany,123,890.0,882.0,
 Germany,124,908.0,897.0,
 Germany,125,927.0,908.0,
@@ -17496,13 +17496,13 @@ Ghana,112,15.0,22.0,21.0
 Ghana,113,17.0,22.0,21.0
 Ghana,114,18.0,24.0,22.0
 Ghana,115,20.0,24.0,22.0
-Ghana,116,21.0,25.0,
-Ghana,117,21.0,25.0,
-Ghana,118,22.0,25.0,
-Ghana,119,22.0,26.0,
-Ghana,120,22.0,26.0,
-Ghana,121,22.0,27.0,
-Ghana,122,23.0,27.0,
+Ghana,116,21.0,25.0,22.0
+Ghana,117,21.0,25.0,22.0
+Ghana,118,22.0,25.0,23.0
+Ghana,119,22.0,26.0,23.0
+Ghana,120,22.0,26.0,24.0
+Ghana,121,22.0,27.0,24.0
+Ghana,122,23.0,27.0,24.0
 Ghana,123,23.0,28.0,
 Ghana,124,24.0,28.0,
 Ghana,125,24.0,28.0,
@@ -17802,13 +17802,13 @@ Gibraltar,112,119.0,113.0,132.0
 Gibraltar,113,121.0,114.0,132.0
 Gibraltar,114,126.0,116.0,135.0
 Gibraltar,115,128.0,116.0,136.0
-Gibraltar,116,129.0,121.0,
-Gibraltar,117,131.0,122.0,
-Gibraltar,118,134.0,124.0,
-Gibraltar,119,136.0,127.0,
-Gibraltar,120,139.0,130.0,
-Gibraltar,121,142.0,133.0,
-Gibraltar,122,143.0,134.0,
+Gibraltar,116,129.0,121.0,136.0
+Gibraltar,117,131.0,122.0,137.0
+Gibraltar,118,134.0,124.0,142.0
+Gibraltar,119,136.0,127.0,145.0
+Gibraltar,120,139.0,130.0,146.0
+Gibraltar,121,142.0,133.0,152.0
+Gibraltar,122,143.0,134.0,155.0
 Gibraltar,123,148.0,134.0,
 Gibraltar,124,148.0,136.0,
 Gibraltar,125,150.0,139.0,
@@ -18108,13 +18108,13 @@ Great Britain,112,0.0,0.0,6.0
 Great Britain,113,0.0,0.0,6.0
 Great Britain,114,0.0,0.0,6.0
 Great Britain,115,0.0,0.0,7.0
-Great Britain,116,0.0,0.0,
-Great Britain,117,0.0,0.0,
-Great Britain,118,0.0,0.0,
-Great Britain,119,0.0,0.0,
-Great Britain,120,0.0,0.0,
-Great Britain,121,0.0,0.0,
-Great Britain,122,0.0,0.0,
+Great Britain,116,0.0,0.0,8.0
+Great Britain,117,0.0,0.0,8.0
+Great Britain,118,0.0,0.0,9.0
+Great Britain,119,0.0,0.0,9.0
+Great Britain,120,0.0,0.0,9.0
+Great Britain,121,0.0,0.0,10.0
+Great Britain,122,0.0,0.0,11.0
 Great Britain,123,0.0,0.0,
 Great Britain,124,0.0,0.0,
 Great Britain,125,0.0,0.0,
@@ -18414,13 +18414,13 @@ Greece,112,899.0,893.0,856.0
 Greece,113,925.0,907.0,879.0
 Greece,114,939.0,924.0,898.0
 Greece,115,957.0,947.0,914.0
-Greece,116,977.0,968.0,
-Greece,117,994.0,979.0,
-Greece,118,1010.0,992.0,
-Greece,119,1023.0,1008.0,
-Greece,120,1046.0,1019.0,
-Greece,121,1059.0,1031.0,
-Greece,122,1072.0,1039.0,
+Greece,116,977.0,968.0,929.0
+Greece,117,994.0,979.0,947.0
+Greece,118,1010.0,992.0,969.0
+Greece,119,1023.0,1008.0,990.0
+Greece,120,1046.0,1019.0,1007.0
+Greece,121,1059.0,1031.0,1021.0
+Greece,122,1072.0,1039.0,1033.0
 Greece,123,1098.0,1058.0,
 Greece,124,1115.0,1072.0,
 Greece,125,1127.0,1089.0,
@@ -18720,13 +18720,13 @@ Grenada,112,13.0,21.0,19.0
 Grenada,113,14.0,21.0,19.0
 Grenada,114,14.0,22.0,19.0
 Grenada,115,14.0,22.0,19.0
-Grenada,116,14.0,22.0,
-Grenada,117,14.0,22.0,
-Grenada,118,15.0,22.0,
-Grenada,119,16.0,25.0,
-Grenada,120,16.0,25.0,
-Grenada,121,16.0,26.0,
-Grenada,122,16.0,26.0,
+Grenada,116,14.0,22.0,19.0
+Grenada,117,14.0,22.0,20.0
+Grenada,118,15.0,22.0,21.0
+Grenada,119,16.0,25.0,21.0
+Grenada,120,16.0,25.0,21.0
+Grenada,121,16.0,26.0,21.0
+Grenada,122,16.0,26.0,21.0
 Grenada,123,16.0,26.0,
 Grenada,124,16.0,26.0,
 Grenada,125,17.0,26.0,
@@ -19026,13 +19026,13 @@ Guadeloupe,112,36.0,29.0,30.0
 Guadeloupe,113,36.0,29.0,30.0
 Guadeloupe,114,37.0,31.0,31.0
 Guadeloupe,115,38.0,33.0,32.0
-Guadeloupe,116,38.0,34.0,
-Guadeloupe,117,38.0,35.0,
-Guadeloupe,118,39.0,35.0,
-Guadeloupe,119,39.0,35.0,
-Guadeloupe,120,41.0,35.0,
-Guadeloupe,121,41.0,35.0,
-Guadeloupe,122,41.0,36.0,
+Guadeloupe,116,38.0,34.0,32.0
+Guadeloupe,117,38.0,35.0,32.0
+Guadeloupe,118,39.0,35.0,32.0
+Guadeloupe,119,39.0,35.0,32.0
+Guadeloupe,120,41.0,35.0,33.0
+Guadeloupe,121,41.0,35.0,34.0
+Guadeloupe,122,41.0,36.0,35.0
 Guadeloupe,123,42.0,36.0,
 Guadeloupe,124,43.0,36.0,
 Guadeloupe,125,44.0,38.0,
@@ -19332,13 +19332,13 @@ Guam,112,12.0,11.0,6.0
 Guam,113,12.0,12.0,7.0
 Guam,114,12.0,12.0,7.0
 Guam,115,12.0,12.0,7.0
-Guam,116,12.0,12.0,
-Guam,117,13.0,12.0,
-Guam,118,13.0,13.0,
-Guam,119,13.0,13.0,
-Guam,120,13.0,13.0,
-Guam,121,14.0,14.0,
-Guam,122,14.0,14.0,
+Guam,116,12.0,12.0,7.0
+Guam,117,13.0,12.0,7.0
+Guam,118,13.0,13.0,7.0
+Guam,119,13.0,13.0,7.0
+Guam,120,13.0,13.0,7.0
+Guam,121,14.0,14.0,7.0
+Guam,122,14.0,14.0,7.0
 Guam,123,14.0,14.0,
 Guam,124,14.0,14.0,
 Guam,125,14.0,15.0,
@@ -19638,13 +19638,13 @@ Guatemala,112,68.0,73.0,74.0
 Guatemala,113,70.0,76.0,76.0
 Guatemala,114,70.0,78.0,78.0
 Guatemala,115,73.0,79.0,81.0
-Guatemala,116,74.0,80.0,
-Guatemala,117,75.0,82.0,
-Guatemala,118,77.0,83.0,
-Guatemala,119,78.0,83.0,
-Guatemala,120,78.0,85.0,
-Guatemala,121,80.0,86.0,
-Guatemala,122,82.0,87.0,
+Guatemala,116,74.0,80.0,83.0
+Guatemala,117,75.0,82.0,84.0
+Guatemala,118,77.0,83.0,86.0
+Guatemala,119,78.0,83.0,87.0
+Guatemala,120,78.0,85.0,89.0
+Guatemala,121,80.0,86.0,91.0
+Guatemala,122,82.0,87.0,93.0
 Guatemala,123,83.0,87.0,
 Guatemala,124,85.0,89.0,
 Guatemala,125,87.0,90.0,
@@ -19944,13 +19944,13 @@ Guinea,112,28.0,37.0,33.0
 Guinea,113,28.0,37.0,33.0
 Guinea,114,28.0,38.0,34.0
 Guinea,115,28.0,39.0,35.0
-Guinea,116,29.0,40.0,
-Guinea,117,30.0,41.0,
-Guinea,118,30.0,41.0,
-Guinea,119,30.0,42.0,
-Guinea,120,30.0,42.0,
-Guinea,121,30.0,43.0,
-Guinea,122,32.0,44.0,
+Guinea,116,29.0,40.0,35.0
+Guinea,117,30.0,41.0,35.0
+Guinea,118,30.0,41.0,36.0
+Guinea,119,30.0,42.0,37.0
+Guinea,120,30.0,42.0,38.0
+Guinea,121,30.0,43.0,39.0
+Guinea,122,32.0,44.0,40.0
 Guinea,123,32.0,44.0,
 Guinea,124,33.0,44.0,
 Guinea,125,33.0,45.0,
@@ -20250,13 +20250,13 @@ Guinea-Bissau,112,8.0,0.0,0.0
 Guinea-Bissau,113,8.0,0.0,0.0
 Guinea-Bissau,114,8.0,0.0,0.0
 Guinea-Bissau,115,8.0,0.0,0.0
-Guinea-Bissau,116,8.0,0.0,
-Guinea-Bissau,117,8.0,0.0,
-Guinea-Bissau,118,8.0,0.0,
-Guinea-Bissau,119,8.0,0.0,
-Guinea-Bissau,120,8.0,0.0,
-Guinea-Bissau,121,8.0,0.0,
-Guinea-Bissau,122,8.0,0.0,
+Guinea-Bissau,116,8.0,0.0,0.0
+Guinea-Bissau,117,8.0,0.0,0.0
+Guinea-Bissau,118,8.0,0.0,0.0
+Guinea-Bissau,119,8.0,0.0,0.0
+Guinea-Bissau,120,8.0,0.0,0.0
+Guinea-Bissau,121,8.0,0.0,0.0
+Guinea-Bissau,122,8.0,0.0,0.0
 Guinea-Bissau,123,8.0,0.0,
 Guinea-Bissau,124,8.0,0.0,
 Guinea-Bissau,125,9.0,0.0,
@@ -20556,13 +20556,13 @@ Guyana,112,83.0,76.0,114.0
 Guyana,113,86.0,77.0,115.0
 Guyana,114,86.0,81.0,119.0
 Guyana,115,88.0,81.0,121.0
-Guyana,116,90.0,84.0,
-Guyana,117,90.0,84.0,
-Guyana,118,92.0,89.0,
-Guyana,119,94.0,89.0,
-Guyana,120,95.0,90.0,
-Guyana,121,97.0,90.0,
-Guyana,122,97.0,92.0,
+Guyana,116,90.0,84.0,123.0
+Guyana,117,90.0,84.0,123.0
+Guyana,118,92.0,89.0,126.0
+Guyana,119,94.0,89.0,126.0
+Guyana,120,95.0,90.0,130.0
+Guyana,121,97.0,90.0,130.0
+Guyana,122,97.0,92.0,134.0
 Guyana,123,101.0,92.0,
 Guyana,124,101.0,94.0,
 Guyana,125,101.0,98.0,
@@ -20862,13 +20862,13 @@ Haiti,112,8.0,13.0,9.0
 Haiti,113,8.0,13.0,10.0
 Haiti,114,8.0,13.0,10.0
 Haiti,115,8.0,13.0,10.0
-Haiti,116,8.0,14.0,
-Haiti,117,8.0,14.0,
-Haiti,118,8.0,14.0,
-Haiti,119,8.0,14.0,
-Haiti,120,8.0,14.0,
-Haiti,121,8.0,14.0,
-Haiti,122,8.0,15.0,
+Haiti,116,8.0,14.0,10.0
+Haiti,117,8.0,14.0,10.0
+Haiti,118,8.0,14.0,10.0
+Haiti,119,8.0,14.0,10.0
+Haiti,120,8.0,14.0,10.0
+Haiti,121,8.0,14.0,12.0
+Haiti,122,8.0,15.0,12.0
 Haiti,123,9.0,16.0,
 Haiti,124,10.0,16.0,
 Haiti,125,10.0,16.0,
@@ -21168,13 +21168,13 @@ Honduras,112,45.0,42.0,43.0
 Honduras,113,48.0,45.0,45.0
 Honduras,114,48.0,45.0,45.0
 Honduras,115,49.0,45.0,46.0
-Honduras,116,49.0,45.0,
-Honduras,117,50.0,46.0,
-Honduras,118,50.0,47.0,
-Honduras,119,50.0,48.0,
-Honduras,120,53.0,50.0,
-Honduras,121,54.0,50.0,
-Honduras,122,55.0,53.0,
+Honduras,116,49.0,45.0,47.0
+Honduras,117,50.0,46.0,48.0
+Honduras,118,50.0,47.0,50.0
+Honduras,119,50.0,48.0,51.0
+Honduras,120,53.0,50.0,51.0
+Honduras,121,54.0,50.0,54.0
+Honduras,122,55.0,53.0,55.0
 Honduras,123,58.0,53.0,
 Honduras,124,59.0,54.0,
 Honduras,125,59.0,55.0,
@@ -21474,13 +21474,13 @@ Hong Kong SAR,112,236.0,287.0,294.0
 Hong Kong SAR,113,244.0,289.0,299.0
 Hong Kong SAR,114,251.0,293.0,303.0
 Hong Kong SAR,115,258.0,302.0,310.0
-Hong Kong SAR,116,261.0,309.0,
-Hong Kong SAR,117,262.0,315.0,
-Hong Kong SAR,118,266.0,321.0,
-Hong Kong SAR,119,270.0,328.0,
-Hong Kong SAR,120,277.0,338.0,
-Hong Kong SAR,121,279.0,342.0,
-Hong Kong SAR,122,283.0,345.0,
+Hong Kong SAR,116,261.0,309.0,314.0
+Hong Kong SAR,117,262.0,315.0,319.0
+Hong Kong SAR,118,266.0,321.0,325.0
+Hong Kong SAR,119,270.0,328.0,331.0
+Hong Kong SAR,120,277.0,338.0,334.0
+Hong Kong SAR,121,279.0,342.0,336.0
+Hong Kong SAR,122,283.0,345.0,345.0
 Hong Kong SAR,123,286.0,349.0,
 Hong Kong SAR,124,290.0,354.0,
 Hong Kong SAR,125,292.0,359.0,
@@ -21780,13 +21780,13 @@ Iceland,112,18.0,26.0,20.0
 Iceland,113,18.0,26.0,20.0
 Iceland,114,19.0,26.0,20.0
 Iceland,115,19.0,26.0,20.0
-Iceland,116,20.0,26.0,
-Iceland,117,20.0,26.0,
-Iceland,118,20.0,27.0,
-Iceland,119,20.0,27.0,
-Iceland,120,20.0,28.0,
-Iceland,121,20.0,28.0,
-Iceland,122,21.0,29.0,
+Iceland,116,20.0,26.0,21.0
+Iceland,117,20.0,26.0,22.0
+Iceland,118,20.0,27.0,23.0
+Iceland,119,20.0,27.0,24.0
+Iceland,120,20.0,28.0,24.0
+Iceland,121,20.0,28.0,24.0
+Iceland,122,21.0,29.0,25.0
 Iceland,123,21.0,30.0,
 Iceland,124,22.0,30.0,
 Iceland,125,23.0,31.0,
@@ -22086,13 +22086,13 @@ India,112,1135.0,968.0,787.0
 India,113,1160.0,986.0,799.0
 India,114,1184.0,1001.0,816.0
 India,115,1208.0,1013.0,834.0
-India,116,1234.0,1030.0,
-India,117,1258.0,1055.0,
-India,118,1278.0,1072.0,
-India,119,1300.0,1095.0,
-India,120,1325.0,1113.0,
-India,121,1346.0,1127.0,
-India,122,1371.0,1145.0,
+India,116,1234.0,1030.0,852.0
+India,117,1258.0,1055.0,876.0
+India,118,1278.0,1072.0,915.0
+India,119,1300.0,1095.0,948.0
+India,120,1325.0,1113.0,976.0
+India,121,1346.0,1127.0,1003.0
+India,122,1371.0,1145.0,1021.0
 India,123,1392.0,1164.0,
 India,124,1414.0,1186.0,
 India,125,1440.0,1209.0,
@@ -22391,14 +22391,14 @@ Indonesia,111,3946.0,3814.0,3665.0
 Indonesia,112,4028.0,3902.0,3741.0
 Indonesia,113,4115.0,3983.0,3815.0
 Indonesia,114,4190.0,4060.0,3882.0
-Indonesia,115,4272.0,4142.0,3962.0
-Indonesia,116,4349.0,4216.0,
-Indonesia,117,4420.0,4296.0,
-Indonesia,118,4488.0,4360.0,
-Indonesia,119,4559.0,4442.0,
-Indonesia,120,4662.0,4516.0,
-Indonesia,121,4744.0,4580.0,
-Indonesia,122,4818.0,4643.0,
+Indonesia,115,4272.0,4142.0,3964.0
+Indonesia,116,4349.0,4216.0,4034.0
+Indonesia,117,4420.0,4296.0,4108.0
+Indonesia,118,4488.0,4360.0,4218.0
+Indonesia,119,4559.0,4442.0,4291.0
+Indonesia,120,4662.0,4516.0,4373.0
+Indonesia,121,4744.0,4580.0,4449.0
+Indonesia,122,4818.0,4643.0,4541.0
 Indonesia,123,4892.0,4723.0,
 Indonesia,124,4971.0,4793.0,
 Indonesia,125,5057.0,4869.0,
@@ -22698,13 +22698,13 @@ Iran,112,87.0,52.0,119.0
 Iran,113,90.0,53.0,119.0
 Iran,114,92.0,55.0,120.0
 Iran,115,93.0,57.0,120.0
-Iran,116,94.0,58.0,
-Iran,117,98.0,61.0,
-Iran,118,100.0,61.0,
-Iran,119,101.0,62.0,
-Iran,120,104.0,63.0,
-Iran,121,105.0,63.0,
-Iran,122,106.0,68.0,
+Iran,116,94.0,58.0,123.0
+Iran,117,98.0,61.0,123.0
+Iran,118,100.0,61.0,127.0
+Iran,119,101.0,62.0,128.0
+Iran,120,104.0,63.0,129.0
+Iran,121,105.0,63.0,130.0
+Iran,122,106.0,68.0,130.0
 Iran,123,107.0,69.0,
 Iran,124,109.0,69.0,
 Iran,125,111.0,71.0,
@@ -23004,13 +23004,13 @@ Iraq,112,282.0,276.0,77.0
 Iraq,113,288.0,280.0,79.0
 Iraq,114,291.0,286.0,79.0
 Iraq,115,299.0,291.0,80.0
-Iraq,116,306.0,295.0,
-Iraq,117,310.0,298.0,
-Iraq,118,318.0,299.0,
-Iraq,119,323.0,304.0,
-Iraq,120,328.0,309.0,
-Iraq,121,332.0,315.0,
-Iraq,122,336.0,318.0,
+Iraq,116,306.0,295.0,83.0
+Iraq,117,310.0,298.0,84.0
+Iraq,118,318.0,299.0,86.0
+Iraq,119,323.0,304.0,86.0
+Iraq,120,328.0,309.0,87.0
+Iraq,121,332.0,315.0,89.0
+Iraq,122,336.0,318.0,91.0
 Iraq,123,343.0,325.0,
 Iraq,124,348.0,330.0,
 Iraq,125,358.0,336.0,
@@ -23310,13 +23310,13 @@ Ireland,112,134.0,142.0,118.0
 Ireland,113,135.0,144.0,121.0
 Ireland,114,137.0,145.0,125.0
 Ireland,115,143.0,148.0,125.0
-Ireland,116,144.0,154.0,
-Ireland,117,146.0,158.0,
-Ireland,118,150.0,160.0,
-Ireland,119,152.0,165.0,
-Ireland,120,154.0,166.0,
-Ireland,121,155.0,170.0,
-Ireland,122,161.0,173.0,
+Ireland,116,144.0,154.0,128.0
+Ireland,117,146.0,158.0,129.0
+Ireland,118,150.0,160.0,135.0
+Ireland,119,152.0,165.0,139.0
+Ireland,120,154.0,166.0,140.0
+Ireland,121,155.0,170.0,141.0
+Ireland,122,161.0,173.0,145.0
 Ireland,123,164.0,177.0,
 Ireland,124,169.0,181.0,
 Ireland,125,172.0,182.0,
@@ -23616,13 +23616,13 @@ Israel,112,69.0,41.0,42.0
 Israel,113,69.0,41.0,42.0
 Israel,114,71.0,42.0,42.0
 Israel,115,72.0,44.0,44.0
-Israel,116,72.0,45.0,
-Israel,117,72.0,45.0,
-Israel,118,73.0,47.0,
-Israel,119,75.0,48.0,
-Israel,120,76.0,51.0,
-Israel,121,76.0,51.0,
-Israel,122,76.0,52.0,
+Israel,116,72.0,45.0,45.0
+Israel,117,72.0,45.0,46.0
+Israel,118,73.0,47.0,47.0
+Israel,119,75.0,48.0,49.0
+Israel,120,76.0,51.0,49.0
+Israel,121,76.0,51.0,51.0
+Israel,122,76.0,52.0,55.0
 Israel,123,77.0,53.0,
 Israel,124,77.0,54.0,
 Israel,125,77.0,56.0,
@@ -23922,13 +23922,13 @@ Italy,112,1253.0,1107.0,1093.0
 Italy,113,1280.0,1147.0,1118.0
 Italy,114,1298.0,1169.0,1130.0
 Italy,115,1327.0,1192.0,1161.0
-Italy,116,1350.0,1212.0,
-Italy,117,1379.0,1230.0,
-Italy,118,1397.0,1253.0,
-Italy,119,1416.0,1282.0,
-Italy,120,1457.0,1306.0,
-Italy,121,1472.0,1328.0,
-Italy,122,1497.0,1343.0,
+Italy,116,1350.0,1212.0,1176.0
+Italy,117,1379.0,1230.0,1199.0
+Italy,118,1397.0,1253.0,1235.0
+Italy,119,1416.0,1282.0,1258.0
+Italy,120,1457.0,1306.0,1279.0
+Italy,121,1472.0,1328.0,1306.0
+Italy,122,1497.0,1343.0,1323.0
 Italy,123,1526.0,1384.0,
 Italy,124,1543.0,1402.0,
 Italy,125,1563.0,1419.0,
@@ -24228,13 +24228,13 @@ Jamaica,112,102.0,96.0,86.0
 Jamaica,113,105.0,97.0,88.0
 Jamaica,114,110.0,98.0,88.0
 Jamaica,115,110.0,102.0,90.0
-Jamaica,116,114.0,103.0,
-Jamaica,117,114.0,106.0,
-Jamaica,118,116.0,107.0,
-Jamaica,119,117.0,109.0,
-Jamaica,120,119.0,110.0,
-Jamaica,121,122.0,112.0,
-Jamaica,122,124.0,116.0,
+Jamaica,116,114.0,103.0,92.0
+Jamaica,117,114.0,106.0,93.0
+Jamaica,118,116.0,107.0,95.0
+Jamaica,119,117.0,109.0,98.0
+Jamaica,120,119.0,110.0,102.0
+Jamaica,121,122.0,112.0,107.0
+Jamaica,122,124.0,116.0,107.0
 Jamaica,123,124.0,117.0,
 Jamaica,124,125.0,119.0,
 Jamaica,125,126.0,121.0,
@@ -24532,15 +24532,15 @@ Japan,110,14283.0,13316.0,12256.0
 Japan,111,14538.0,13572.0,12535.0
 Japan,112,14833.0,13881.0,12770.0
 Japan,113,15174.0,14172.0,13021.0
-Japan,114,15474.0,14426.0,13274.0
-Japan,115,15739.0,14733.0,13530.0
-Japan,116,16045.0,15006.0,
-Japan,117,16348.0,15240.0,
-Japan,118,16616.0,15510.0,
-Japan,119,16851.0,15787.0,
-Japan,120,17145.0,16056.0,
-Japan,121,17424.0,16346.0,
-Japan,122,17719.0,16648.0,
+Japan,114,15474.0,14426.0,13275.0
+Japan,115,15739.0,14733.0,13535.0
+Japan,116,16045.0,15006.0,13745.0
+Japan,117,16348.0,15240.0,13958.0
+Japan,118,16616.0,15510.0,14258.0
+Japan,119,16851.0,15787.0,14506.0
+Japan,120,17145.0,16056.0,14770.0
+Japan,121,17424.0,16346.0,15047.0
+Japan,122,17719.0,16648.0,15213.0
 Japan,123,17979.0,16832.0,
 Japan,124,18203.0,17030.0,
 Japan,125,18417.0,17242.0,
@@ -24840,13 +24840,13 @@ Jordan,112,31.0,23.0,23.0
 Jordan,113,31.0,23.0,23.0
 Jordan,114,31.0,25.0,24.0
 Jordan,115,31.0,26.0,25.0
-Jordan,116,31.0,26.0,
-Jordan,117,32.0,27.0,
-Jordan,118,32.0,27.0,
-Jordan,119,32.0,28.0,
-Jordan,120,32.0,29.0,
-Jordan,121,32.0,29.0,
-Jordan,122,32.0,29.0,
+Jordan,116,31.0,26.0,27.0
+Jordan,117,32.0,27.0,27.0
+Jordan,118,32.0,27.0,27.0
+Jordan,119,32.0,28.0,27.0
+Jordan,120,32.0,29.0,27.0
+Jordan,121,32.0,29.0,27.0
+Jordan,122,32.0,29.0,27.0
 Jordan,123,32.0,29.0,
 Jordan,124,33.0,31.0,
 Jordan,125,33.0,32.0,
@@ -25146,13 +25146,13 @@ Kazakhstan,112,76.0,78.0,68.0
 Kazakhstan,113,77.0,80.0,68.0
 Kazakhstan,114,78.0,83.0,71.0
 Kazakhstan,115,79.0,85.0,73.0
-Kazakhstan,116,80.0,87.0,
-Kazakhstan,117,81.0,88.0,
-Kazakhstan,118,83.0,89.0,
-Kazakhstan,119,83.0,90.0,
-Kazakhstan,120,83.0,90.0,
-Kazakhstan,121,86.0,92.0,
-Kazakhstan,122,88.0,94.0,
+Kazakhstan,116,80.0,87.0,76.0
+Kazakhstan,117,81.0,88.0,77.0
+Kazakhstan,118,83.0,89.0,80.0
+Kazakhstan,119,83.0,90.0,81.0
+Kazakhstan,120,83.0,90.0,83.0
+Kazakhstan,121,86.0,92.0,83.0
+Kazakhstan,122,88.0,94.0,85.0
 Kazakhstan,123,88.0,95.0,
 Kazakhstan,124,89.0,96.0,
 Kazakhstan,125,91.0,99.0,
@@ -25452,13 +25452,13 @@ Kenya,112,34.0,42.0,49.0
 Kenya,113,35.0,42.0,49.0
 Kenya,114,35.0,43.0,49.0
 Kenya,115,36.0,44.0,49.0
-Kenya,116,36.0,47.0,
-Kenya,117,37.0,47.0,
-Kenya,118,38.0,48.0,
-Kenya,119,39.0,49.0,
-Kenya,120,39.0,49.0,
-Kenya,121,40.0,49.0,
-Kenya,122,40.0,51.0,
+Kenya,116,36.0,47.0,49.0
+Kenya,117,37.0,47.0,50.0
+Kenya,118,38.0,48.0,52.0
+Kenya,119,39.0,49.0,52.0
+Kenya,120,39.0,49.0,53.0
+Kenya,121,40.0,49.0,55.0
+Kenya,122,40.0,51.0,55.0
 Kenya,123,41.0,52.0,
 Kenya,124,41.0,53.0,
 Kenya,125,41.0,54.0,
@@ -25758,13 +25758,13 @@ Kiribati,112,4.0,2.0,5.0
 Kiribati,113,4.0,2.0,5.0
 Kiribati,114,4.0,2.0,5.0
 Kiribati,115,4.0,2.0,5.0
-Kiribati,116,4.0,2.0,
-Kiribati,117,4.0,2.0,
-Kiribati,118,5.0,2.0,
-Kiribati,119,5.0,2.0,
-Kiribati,120,5.0,2.0,
-Kiribati,121,5.0,3.0,
-Kiribati,122,5.0,3.0,
+Kiribati,116,4.0,2.0,5.0
+Kiribati,117,4.0,2.0,5.0
+Kiribati,118,5.0,2.0,5.0
+Kiribati,119,5.0,2.0,5.0
+Kiribati,120,5.0,2.0,5.0
+Kiribati,121,5.0,3.0,5.0
+Kiribati,122,5.0,3.0,5.0
 Kiribati,123,5.0,3.0,
 Kiribati,124,5.0,3.0,
 Kiribati,125,5.0,3.0,
@@ -26063,14 +26063,14 @@ Korea,111,4282.0,2854.0,2500.0
 Korea,112,4360.0,2908.0,2537.0
 Korea,113,4440.0,2959.0,2595.0
 Korea,114,4531.0,3033.0,2634.0
-Korea,115,4626.0,3093.0,2688.0
-Korea,116,4709.0,3153.0,
-Korea,117,4793.0,3223.0,
-Korea,118,4872.0,3274.0,
-Korea,119,4956.0,3340.0,
-Korea,120,5027.0,3398.0,
-Korea,121,5113.0,3451.0,
-Korea,122,5199.0,3501.0,
+Korea,115,4626.0,3093.0,2689.0
+Korea,116,4709.0,3153.0,2737.0
+Korea,117,4793.0,3223.0,2776.0
+Korea,118,4872.0,3274.0,2867.0
+Korea,119,4956.0,3340.0,2913.0
+Korea,120,5027.0,3398.0,2975.0
+Korea,121,5113.0,3451.0,3032.0
+Korea,122,5199.0,3501.0,3093.0
 Korea,123,5289.0,3557.0,
 Korea,124,5381.0,3607.0,
 Korea,125,5456.0,3667.0,
@@ -26370,13 +26370,13 @@ Kuwait,112,112.0,124.0,26.0
 Kuwait,113,113.0,129.0,26.0
 Kuwait,114,115.0,131.0,26.0
 Kuwait,115,116.0,132.0,26.0
-Kuwait,116,118.0,137.0,
-Kuwait,117,122.0,139.0,
-Kuwait,118,123.0,141.0,
-Kuwait,119,125.0,143.0,
-Kuwait,120,127.0,146.0,
-Kuwait,121,128.0,149.0,
-Kuwait,122,128.0,152.0,
+Kuwait,116,118.0,137.0,26.0
+Kuwait,117,122.0,139.0,26.0
+Kuwait,118,123.0,141.0,26.0
+Kuwait,119,125.0,143.0,26.0
+Kuwait,120,127.0,146.0,26.0
+Kuwait,121,128.0,149.0,26.0
+Kuwait,122,128.0,152.0,26.0
 Kuwait,123,130.0,153.0,
 Kuwait,124,132.0,156.0,
 Kuwait,125,136.0,157.0,
@@ -26676,13 +26676,13 @@ Latvia,112,55.0,73.0,60.0
 Latvia,113,55.0,75.0,60.0
 Latvia,114,57.0,76.0,62.0
 Latvia,115,58.0,77.0,63.0
-Latvia,116,61.0,78.0,
-Latvia,117,62.0,79.0,
-Latvia,118,63.0,79.0,
-Latvia,119,64.0,80.0,
-Latvia,120,69.0,82.0,
-Latvia,121,69.0,83.0,
-Latvia,122,69.0,87.0,
+Latvia,116,61.0,78.0,63.0
+Latvia,117,62.0,79.0,63.0
+Latvia,118,63.0,79.0,64.0
+Latvia,119,64.0,80.0,64.0
+Latvia,120,69.0,82.0,65.0
+Latvia,121,69.0,83.0,67.0
+Latvia,122,69.0,87.0,68.0
 Latvia,123,71.0,88.0,
 Latvia,124,72.0,88.0,
 Latvia,125,72.0,90.0,
@@ -26982,13 +26982,13 @@ Lebanon,112,34.0,47.0,13.0
 Lebanon,113,35.0,48.0,13.0
 Lebanon,114,38.0,49.0,14.0
 Lebanon,115,38.0,49.0,14.0
-Lebanon,116,38.0,49.0,
-Lebanon,117,39.0,49.0,
-Lebanon,118,40.0,50.0,
-Lebanon,119,40.0,51.0,
-Lebanon,120,43.0,52.0,
-Lebanon,121,43.0,57.0,
-Lebanon,122,44.0,58.0,
+Lebanon,116,38.0,49.0,14.0
+Lebanon,117,39.0,49.0,15.0
+Lebanon,118,40.0,50.0,17.0
+Lebanon,119,40.0,51.0,18.0
+Lebanon,120,43.0,52.0,18.0
+Lebanon,121,43.0,57.0,18.0
+Lebanon,122,44.0,58.0,19.0
 Lebanon,123,45.0,60.0,
 Lebanon,124,45.0,60.0,
 Lebanon,125,45.0,61.0,
@@ -27288,13 +27288,13 @@ Liberia,112,12.0,12.0,8.0
 Liberia,113,12.0,13.0,8.0
 Liberia,114,12.0,13.0,8.0
 Liberia,115,12.0,13.0,9.0
-Liberia,116,12.0,13.0,
-Liberia,117,12.0,13.0,
-Liberia,118,12.0,13.0,
-Liberia,119,12.0,13.0,
-Liberia,120,12.0,13.0,
-Liberia,121,12.0,13.0,
-Liberia,122,12.0,13.0,
+Liberia,116,12.0,13.0,9.0
+Liberia,117,12.0,13.0,9.0
+Liberia,118,12.0,13.0,9.0
+Liberia,119,12.0,13.0,9.0
+Liberia,120,12.0,13.0,10.0
+Liberia,121,12.0,13.0,11.0
+Liberia,122,12.0,13.0,12.0
 Liberia,123,12.0,13.0,
 Liberia,124,12.0,13.0,
 Liberia,125,12.0,14.0,
@@ -27594,13 +27594,13 @@ Libya,112,105.0,116.0,95.0
 Libya,113,105.0,117.0,98.0
 Libya,114,105.0,118.0,100.0
 Libya,115,111.0,119.0,101.0
-Libya,116,114.0,120.0,
-Libya,117,118.0,123.0,
-Libya,118,118.0,124.0,
-Libya,119,119.0,125.0,
-Libya,120,122.0,128.0,
-Libya,121,126.0,131.0,
-Libya,122,127.0,136.0,
+Libya,116,114.0,120.0,102.0
+Libya,117,118.0,123.0,103.0
+Libya,118,118.0,124.0,108.0
+Libya,119,119.0,125.0,114.0
+Libya,120,122.0,128.0,118.0
+Libya,121,126.0,131.0,119.0
+Libya,122,127.0,136.0,121.0
 Libya,123,127.0,139.0,
 Libya,124,130.0,141.0,
 Libya,125,133.0,142.0,
@@ -27900,13 +27900,13 @@ Lithuania,112,91.0,96.0,90.0
 Lithuania,113,93.0,98.0,94.0
 Lithuania,114,93.0,99.0,96.0
 Lithuania,115,94.0,100.0,97.0
-Lithuania,116,98.0,102.0,
-Lithuania,117,98.0,105.0,
-Lithuania,118,99.0,107.0,
-Lithuania,119,100.0,108.0,
-Lithuania,120,101.0,109.0,
-Lithuania,121,105.0,110.0,
-Lithuania,122,105.0,110.0,
+Lithuania,116,98.0,102.0,100.0
+Lithuania,117,98.0,105.0,104.0
+Lithuania,118,99.0,107.0,105.0
+Lithuania,119,100.0,108.0,107.0
+Lithuania,120,101.0,109.0,108.0
+Lithuania,121,105.0,110.0,110.0
+Lithuania,122,105.0,110.0,112.0
 Lithuania,123,107.0,111.0,
 Lithuania,124,108.0,113.0,
 Lithuania,125,110.0,115.0,
@@ -28206,13 +28206,13 @@ Macao SAR,112,24.0,24.0,30.0
 Macao SAR,113,25.0,24.0,30.0
 Macao SAR,114,26.0,24.0,31.0
 Macao SAR,115,26.0,25.0,31.0
-Macao SAR,116,27.0,26.0,
-Macao SAR,117,27.0,26.0,
-Macao SAR,118,27.0,27.0,
-Macao SAR,119,28.0,28.0,
-Macao SAR,120,29.0,28.0,
-Macao SAR,121,30.0,28.0,
-Macao SAR,122,30.0,29.0,
+Macao SAR,116,27.0,26.0,31.0
+Macao SAR,117,27.0,26.0,31.0
+Macao SAR,118,27.0,27.0,32.0
+Macao SAR,119,28.0,28.0,33.0
+Macao SAR,120,29.0,28.0,35.0
+Macao SAR,121,30.0,28.0,35.0
+Macao SAR,122,30.0,29.0,35.0
 Macao SAR,123,31.0,29.0,
 Macao SAR,124,33.0,30.0,
 Macao SAR,125,33.0,30.0,
@@ -28512,13 +28512,13 @@ Madagascar,112,36.0,28.0,23.0
 Madagascar,113,37.0,28.0,23.0
 Madagascar,114,37.0,29.0,24.0
 Madagascar,115,38.0,29.0,24.0
-Madagascar,116,38.0,32.0,
-Madagascar,117,39.0,32.0,
-Madagascar,118,39.0,33.0,
-Madagascar,119,40.0,34.0,
-Madagascar,120,40.0,34.0,
-Madagascar,121,41.0,35.0,
-Madagascar,122,42.0,36.0,
+Madagascar,116,38.0,32.0,24.0
+Madagascar,117,39.0,32.0,25.0
+Madagascar,118,39.0,33.0,25.0
+Madagascar,119,40.0,34.0,26.0
+Madagascar,120,40.0,34.0,28.0
+Madagascar,121,41.0,35.0,28.0
+Madagascar,122,42.0,36.0,29.0
 Madagascar,123,42.0,36.0,
 Madagascar,124,43.0,37.0,
 Madagascar,125,44.0,37.0,
@@ -28818,13 +28818,13 @@ Malaysia,112,2630.0,2779.0,2650.0
 Malaysia,113,2685.0,2826.0,2695.0
 Malaysia,114,2734.0,2887.0,2741.0
 Malaysia,115,2786.0,2948.0,2786.0
-Malaysia,116,2845.0,3010.0,
-Malaysia,117,2904.0,3062.0,
-Malaysia,118,2958.0,3116.0,
-Malaysia,119,3018.0,3175.0,
-Malaysia,120,3076.0,3228.0,
-Malaysia,121,3130.0,3294.0,
-Malaysia,122,3182.0,3348.0,
+Malaysia,116,2845.0,3010.0,2828.0
+Malaysia,117,2904.0,3062.0,2872.0
+Malaysia,118,2958.0,3116.0,2939.0
+Malaysia,119,3018.0,3175.0,2987.0
+Malaysia,120,3076.0,3228.0,3031.0
+Malaysia,121,3130.0,3294.0,3091.0
+Malaysia,122,3182.0,3348.0,3139.0
 Malaysia,123,3236.0,3409.0,
 Malaysia,124,3289.0,3454.0,
 Malaysia,125,3345.0,3503.0,
@@ -29124,13 +29124,13 @@ Maldives,112,28.0,54.0,52.0
 Maldives,113,29.0,54.0,53.0
 Maldives,114,29.0,55.0,53.0
 Maldives,115,30.0,56.0,55.0
-Maldives,116,30.0,57.0,
-Maldives,117,31.0,59.0,
-Maldives,118,31.0,62.0,
-Maldives,119,31.0,63.0,
-Maldives,120,34.0,63.0,
-Maldives,121,35.0,63.0,
-Maldives,122,35.0,64.0,
+Maldives,116,30.0,57.0,55.0
+Maldives,117,31.0,59.0,58.0
+Maldives,118,31.0,62.0,58.0
+Maldives,119,31.0,63.0,58.0
+Maldives,120,34.0,63.0,60.0
+Maldives,121,35.0,63.0,60.0
+Maldives,122,35.0,64.0,61.0
 Maldives,123,35.0,64.0,
 Maldives,124,35.0,66.0,
 Maldives,125,35.0,66.0,
@@ -29430,13 +29430,13 @@ Malta,112,184.0,235.0,233.0
 Malta,113,186.0,236.0,237.0
 Malta,114,191.0,240.0,242.0
 Malta,115,193.0,245.0,247.0
-Malta,116,198.0,248.0,
-Malta,117,200.0,252.0,
-Malta,118,203.0,256.0,
-Malta,119,204.0,260.0,
-Malta,120,207.0,266.0,
-Malta,121,211.0,270.0,
-Malta,122,216.0,273.0,
+Malta,116,198.0,248.0,250.0
+Malta,117,200.0,252.0,254.0
+Malta,118,203.0,256.0,259.0
+Malta,119,204.0,260.0,262.0
+Malta,120,207.0,266.0,267.0
+Malta,121,211.0,270.0,268.0
+Malta,122,216.0,273.0,269.0
 Malta,123,219.0,278.0,
 Malta,124,223.0,284.0,
 Malta,125,225.0,286.0,
@@ -29736,13 +29736,13 @@ Marshall Islands,112,6.0,4.0,3.0
 Marshall Islands,113,6.0,4.0,3.0
 Marshall Islands,114,6.0,4.0,3.0
 Marshall Islands,115,6.0,4.0,3.0
-Marshall Islands,116,7.0,4.0,
-Marshall Islands,117,7.0,4.0,
-Marshall Islands,118,7.0,4.0,
-Marshall Islands,119,7.0,4.0,
-Marshall Islands,120,7.0,4.0,
-Marshall Islands,121,7.0,4.0,
-Marshall Islands,122,7.0,4.0,
+Marshall Islands,116,7.0,4.0,3.0
+Marshall Islands,117,7.0,4.0,3.0
+Marshall Islands,118,7.0,4.0,3.0
+Marshall Islands,119,7.0,4.0,3.0
+Marshall Islands,120,7.0,4.0,3.0
+Marshall Islands,121,7.0,4.0,4.0
+Marshall Islands,122,7.0,4.0,4.0
 Marshall Islands,123,7.0,4.0,
 Marshall Islands,124,7.0,4.0,
 Marshall Islands,125,7.0,4.0,
@@ -30042,13 +30042,13 @@ Martinique,112,34.0,30.0,33.0
 Martinique,113,35.0,30.0,35.0
 Martinique,114,36.0,30.0,36.0
 Martinique,115,36.0,30.0,37.0
-Martinique,116,37.0,32.0,
-Martinique,117,37.0,33.0,
-Martinique,118,38.0,34.0,
-Martinique,119,39.0,34.0,
-Martinique,120,39.0,36.0,
-Martinique,121,40.0,36.0,
-Martinique,122,40.0,36.0,
+Martinique,116,37.0,32.0,37.0
+Martinique,117,37.0,33.0,39.0
+Martinique,118,38.0,34.0,39.0
+Martinique,119,39.0,34.0,39.0
+Martinique,120,39.0,36.0,39.0
+Martinique,121,40.0,36.0,39.0
+Martinique,122,40.0,36.0,40.0
 Martinique,123,40.0,37.0,
 Martinique,124,41.0,38.0,
 Martinique,125,42.0,39.0,
@@ -30348,13 +30348,13 @@ Mauritania,112,33.0,34.0,35.0
 Mauritania,113,33.0,34.0,35.0
 Mauritania,114,34.0,34.0,35.0
 Mauritania,115,34.0,34.0,36.0
-Mauritania,116,35.0,35.0,
-Mauritania,117,36.0,35.0,
-Mauritania,118,37.0,37.0,
-Mauritania,119,37.0,38.0,
-Mauritania,120,38.0,38.0,
-Mauritania,121,39.0,38.0,
-Mauritania,122,39.0,39.0,
+Mauritania,116,35.0,35.0,36.0
+Mauritania,117,36.0,35.0,37.0
+Mauritania,118,37.0,37.0,37.0
+Mauritania,119,37.0,38.0,37.0
+Mauritania,120,38.0,38.0,38.0
+Mauritania,121,39.0,38.0,39.0
+Mauritania,122,39.0,39.0,40.0
 Mauritania,123,41.0,39.0,
 Mauritania,124,41.0,40.0,
 Mauritania,125,41.0,41.0,
@@ -30654,13 +30654,13 @@ Mauritius,112,45.0,64.0,39.0
 Mauritius,113,47.0,65.0,40.0
 Mauritius,114,48.0,66.0,41.0
 Mauritius,115,50.0,66.0,42.0
-Mauritius,116,51.0,67.0,
-Mauritius,117,53.0,70.0,
-Mauritius,118,54.0,71.0,
-Mauritius,119,54.0,72.0,
-Mauritius,120,57.0,72.0,
-Mauritius,121,59.0,73.0,
-Mauritius,122,59.0,74.0,
+Mauritius,116,51.0,67.0,43.0
+Mauritius,117,53.0,70.0,44.0
+Mauritius,118,54.0,71.0,45.0
+Mauritius,119,54.0,72.0,45.0
+Mauritius,120,57.0,72.0,46.0
+Mauritius,121,59.0,73.0,46.0
+Mauritius,122,59.0,74.0,47.0
 Mauritius,123,60.0,76.0,
 Mauritius,124,61.0,76.0,
 Mauritius,125,62.0,78.0,
@@ -30960,13 +30960,13 @@ Mayotte,112,4.0,4.0,3.0
 Mayotte,113,4.0,4.0,3.0
 Mayotte,114,4.0,4.0,3.0
 Mayotte,115,4.0,4.0,3.0
-Mayotte,116,4.0,4.0,
-Mayotte,117,4.0,4.0,
-Mayotte,118,4.0,4.0,
-Mayotte,119,4.0,4.0,
-Mayotte,120,4.0,4.0,
-Mayotte,121,4.0,4.0,
-Mayotte,122,4.0,4.0,
+Mayotte,116,4.0,4.0,3.0
+Mayotte,117,4.0,4.0,3.0
+Mayotte,118,4.0,4.0,3.0
+Mayotte,119,4.0,4.0,3.0
+Mayotte,120,4.0,4.0,4.0
+Mayotte,121,4.0,4.0,4.0
+Mayotte,122,4.0,4.0,4.0
 Mayotte,123,4.0,4.0,
 Mayotte,124,4.0,4.0,
 Mayotte,125,4.0,4.0,
@@ -31266,13 +31266,13 @@ Mexico,112,660.0,538.0,460.0
 Mexico,113,673.0,549.0,469.0
 Mexico,114,686.0,560.0,478.0
 Mexico,115,699.0,568.0,492.0
-Mexico,116,709.0,576.0,
-Mexico,117,719.0,588.0,
-Mexico,118,725.0,595.0,
-Mexico,119,738.0,603.0,
-Mexico,120,752.0,611.0,
-Mexico,121,770.0,625.0,
-Mexico,122,781.0,638.0,
+Mexico,116,709.0,576.0,503.0
+Mexico,117,719.0,588.0,509.0
+Mexico,118,725.0,595.0,521.0
+Mexico,119,738.0,603.0,531.0
+Mexico,120,752.0,611.0,549.0
+Mexico,121,770.0,625.0,560.0
+Mexico,122,781.0,638.0,572.0
 Mexico,123,791.0,649.0,
 Mexico,124,803.0,653.0,
 Mexico,125,816.0,665.0,
@@ -31572,13 +31572,13 @@ Micronesia,112,5.0,5.0,7.0
 Micronesia,113,6.0,5.0,7.0
 Micronesia,114,6.0,5.0,7.0
 Micronesia,115,6.0,5.0,7.0
-Micronesia,116,6.0,5.0,
-Micronesia,117,6.0,6.0,
-Micronesia,118,6.0,6.0,
-Micronesia,119,6.0,6.0,
-Micronesia,120,6.0,7.0,
-Micronesia,121,7.0,7.0,
-Micronesia,122,7.0,8.0,
+Micronesia,116,6.0,5.0,7.0
+Micronesia,117,6.0,6.0,7.0
+Micronesia,118,6.0,6.0,7.0
+Micronesia,119,6.0,6.0,7.0
+Micronesia,120,6.0,7.0,7.0
+Micronesia,121,7.0,7.0,7.0
+Micronesia,122,7.0,8.0,7.0
 Micronesia,123,7.0,8.0,
 Micronesia,124,7.0,8.0,
 Micronesia,125,7.0,8.0,
@@ -31878,13 +31878,13 @@ Moldova,112,12.0,8.0,7.0
 Moldova,113,12.0,8.0,7.0
 Moldova,114,12.0,8.0,8.0
 Moldova,115,12.0,9.0,8.0
-Moldova,116,12.0,9.0,
-Moldova,117,12.0,9.0,
-Moldova,118,12.0,9.0,
-Moldova,119,12.0,9.0,
-Moldova,120,12.0,10.0,
-Moldova,121,12.0,10.0,
-Moldova,122,12.0,10.0,
+Moldova,116,12.0,9.0,8.0
+Moldova,117,12.0,9.0,8.0
+Moldova,118,12.0,9.0,8.0
+Moldova,119,12.0,9.0,8.0
+Moldova,120,12.0,10.0,8.0
+Moldova,121,12.0,10.0,8.0
+Moldova,122,12.0,10.0,8.0
 Moldova,123,12.0,10.0,
 Moldova,124,13.0,10.0,
 Moldova,125,13.0,10.0,
@@ -32184,13 +32184,13 @@ Montenegro,112,2.0,1.0,3.0
 Montenegro,113,2.0,1.0,3.0
 Montenegro,114,2.0,1.0,3.0
 Montenegro,115,2.0,1.0,3.0
-Montenegro,116,2.0,1.0,
-Montenegro,117,2.0,1.0,
-Montenegro,118,2.0,1.0,
-Montenegro,119,2.0,1.0,
-Montenegro,120,2.0,1.0,
-Montenegro,121,2.0,1.0,
-Montenegro,122,2.0,1.0,
+Montenegro,116,2.0,1.0,3.0
+Montenegro,117,2.0,1.0,3.0
+Montenegro,118,2.0,1.0,3.0
+Montenegro,119,2.0,1.0,4.0
+Montenegro,120,2.0,1.0,4.0
+Montenegro,121,2.0,1.0,5.0
+Montenegro,122,2.0,1.0,5.0
 Montenegro,123,2.0,1.0,
 Montenegro,124,2.0,1.0,
 Montenegro,125,2.0,1.0,
@@ -32490,13 +32490,13 @@ Montserrat,112,3.0,5.0,1.0
 Montserrat,113,4.0,5.0,1.0
 Montserrat,114,4.0,5.0,1.0
 Montserrat,115,4.0,5.0,1.0
-Montserrat,116,4.0,5.0,
-Montserrat,117,4.0,5.0,
-Montserrat,118,4.0,5.0,
-Montserrat,119,4.0,5.0,
-Montserrat,120,4.0,5.0,
-Montserrat,121,4.0,5.0,
-Montserrat,122,4.0,5.0,
+Montserrat,116,4.0,5.0,1.0
+Montserrat,117,4.0,5.0,1.0
+Montserrat,118,4.0,5.0,1.0
+Montserrat,119,4.0,5.0,2.0
+Montserrat,120,4.0,5.0,2.0
+Montserrat,121,4.0,5.0,2.0
+Montserrat,122,4.0,5.0,2.0
 Montserrat,123,4.0,5.0,
 Montserrat,124,4.0,5.0,
 Montserrat,125,4.0,5.0,
@@ -32796,13 +32796,13 @@ Morocco,112,309.0,297.0,264.0
 Morocco,113,314.0,304.0,270.0
 Morocco,114,322.0,310.0,273.0
 Morocco,115,333.0,315.0,276.0
-Morocco,116,337.0,319.0,
-Morocco,117,342.0,326.0,
-Morocco,118,349.0,330.0,
-Morocco,119,355.0,335.0,
-Morocco,120,360.0,344.0,
-Morocco,121,362.0,354.0,
-Morocco,122,365.0,358.0,
+Morocco,116,337.0,319.0,282.0
+Morocco,117,342.0,326.0,284.0
+Morocco,118,349.0,330.0,291.0
+Morocco,119,355.0,335.0,294.0
+Morocco,120,360.0,344.0,303.0
+Morocco,121,362.0,354.0,306.0
+Morocco,122,365.0,358.0,315.0
 Morocco,123,374.0,365.0,
 Morocco,124,381.0,371.0,
 Morocco,125,384.0,376.0,
@@ -33102,13 +33102,13 @@ Mozambique,112,63.0,69.0,62.0
 Mozambique,113,65.0,71.0,62.0
 Mozambique,114,66.0,73.0,63.0
 Mozambique,115,67.0,74.0,67.0
-Mozambique,116,68.0,75.0,
-Mozambique,117,69.0,75.0,
-Mozambique,118,69.0,75.0,
-Mozambique,119,69.0,77.0,
-Mozambique,120,70.0,81.0,
-Mozambique,121,71.0,81.0,
-Mozambique,122,73.0,84.0,
+Mozambique,116,68.0,75.0,67.0
+Mozambique,117,69.0,75.0,68.0
+Mozambique,118,69.0,75.0,70.0
+Mozambique,119,69.0,77.0,71.0
+Mozambique,120,70.0,81.0,72.0
+Mozambique,121,71.0,81.0,72.0
+Mozambique,122,73.0,84.0,74.0
 Mozambique,123,73.0,85.0,
 Mozambique,124,75.0,85.0,
 Mozambique,125,76.0,85.0,
@@ -33408,13 +33408,13 @@ Myanmar,112,78.0,69.0,55.0
 Myanmar,113,80.0,71.0,56.0
 Myanmar,114,81.0,71.0,56.0
 Myanmar,115,81.0,73.0,58.0
-Myanmar,116,86.0,74.0,
-Myanmar,117,89.0,77.0,
-Myanmar,118,89.0,80.0,
-Myanmar,119,89.0,83.0,
-Myanmar,120,92.0,85.0,
-Myanmar,121,94.0,89.0,
-Myanmar,122,96.0,89.0,
+Myanmar,116,86.0,74.0,62.0
+Myanmar,117,89.0,77.0,63.0
+Myanmar,118,89.0,80.0,65.0
+Myanmar,119,89.0,83.0,68.0
+Myanmar,120,92.0,85.0,70.0
+Myanmar,121,94.0,89.0,71.0
+Myanmar,122,96.0,89.0,71.0
 Myanmar,123,99.0,90.0,
 Myanmar,124,100.0,90.0,
 Myanmar,125,102.0,92.0,
@@ -33714,13 +33714,13 @@ Namibia,112,28.0,30.0,29.0
 Namibia,113,29.0,31.0,29.0
 Namibia,114,30.0,32.0,30.0
 Namibia,115,31.0,32.0,31.0
-Namibia,116,32.0,34.0,
-Namibia,117,32.0,35.0,
-Namibia,118,32.0,35.0,
-Namibia,119,32.0,36.0,
-Namibia,120,32.0,36.0,
-Namibia,121,33.0,36.0,
-Namibia,122,33.0,37.0,
+Namibia,116,32.0,34.0,31.0
+Namibia,117,32.0,35.0,31.0
+Namibia,118,32.0,35.0,31.0
+Namibia,119,32.0,36.0,31.0
+Namibia,120,32.0,36.0,31.0
+Namibia,121,33.0,36.0,31.0
+Namibia,122,33.0,37.0,31.0
 Namibia,123,33.0,37.0,
 Namibia,124,33.0,37.0,
 Namibia,125,34.0,37.0,
@@ -34020,13 +34020,13 @@ Nauru,112,1.0,0.0,0.0
 Nauru,113,1.0,1.0,1.0
 Nauru,114,1.0,1.0,1.0
 Nauru,115,1.0,1.0,1.0
-Nauru,116,1.0,1.0,
-Nauru,117,1.0,1.0,
-Nauru,118,1.0,1.0,
-Nauru,119,1.0,1.0,
-Nauru,120,1.0,1.0,
-Nauru,121,1.0,1.0,
-Nauru,122,1.0,1.0,
+Nauru,116,1.0,1.0,1.0
+Nauru,117,1.0,1.0,1.0
+Nauru,118,1.0,1.0,1.0
+Nauru,119,1.0,1.0,1.0
+Nauru,120,1.0,1.0,1.0
+Nauru,121,1.0,1.0,1.0
+Nauru,122,1.0,1.0,1.0
 Nauru,123,1.0,1.0,
 Nauru,124,1.0,1.0,
 Nauru,125,1.0,1.0,
@@ -34326,13 +34326,13 @@ New Caledonia,112,12.0,9.0,7.0
 New Caledonia,113,12.0,9.0,7.0
 New Caledonia,114,12.0,9.0,7.0
 New Caledonia,115,12.0,10.0,7.0
-New Caledonia,116,12.0,10.0,
-New Caledonia,117,13.0,10.0,
-New Caledonia,118,14.0,10.0,
-New Caledonia,119,15.0,10.0,
-New Caledonia,120,15.0,11.0,
-New Caledonia,121,15.0,11.0,
-New Caledonia,122,16.0,11.0,
+New Caledonia,116,12.0,10.0,7.0
+New Caledonia,117,13.0,10.0,7.0
+New Caledonia,118,14.0,10.0,8.0
+New Caledonia,119,15.0,10.0,8.0
+New Caledonia,120,15.0,11.0,10.0
+New Caledonia,121,15.0,11.0,10.0
+New Caledonia,122,16.0,11.0,11.0
 New Caledonia,123,16.0,11.0,
 New Caledonia,124,16.0,11.0,
 New Caledonia,125,17.0,11.0,
@@ -34632,13 +34632,13 @@ New Zealand,112,125.0,127.0,89.0
 New Zealand,113,127.0,129.0,91.0
 New Zealand,114,129.0,132.0,95.0
 New Zealand,115,134.0,134.0,99.0
-New Zealand,116,137.0,138.0,
-New Zealand,117,142.0,142.0,
-New Zealand,118,144.0,145.0,
-New Zealand,119,148.0,148.0,
-New Zealand,120,149.0,150.0,
-New Zealand,121,151.0,153.0,
-New Zealand,122,153.0,154.0,
+New Zealand,116,137.0,138.0,100.0
+New Zealand,117,142.0,142.0,103.0
+New Zealand,118,144.0,145.0,105.0
+New Zealand,119,148.0,148.0,105.0
+New Zealand,120,149.0,150.0,105.0
+New Zealand,121,151.0,153.0,107.0
+New Zealand,122,153.0,154.0,111.0
 New Zealand,123,155.0,156.0,
 New Zealand,124,157.0,159.0,
 New Zealand,125,158.0,160.0,
@@ -34938,13 +34938,13 @@ Nicaragua,112,29.0,27.0,24.0
 Nicaragua,113,29.0,28.0,25.0
 Nicaragua,114,29.0,28.0,25.0
 Nicaragua,115,29.0,28.0,25.0
-Nicaragua,116,30.0,29.0,
-Nicaragua,117,31.0,30.0,
-Nicaragua,118,31.0,30.0,
-Nicaragua,119,32.0,30.0,
-Nicaragua,120,32.0,31.0,
-Nicaragua,121,32.0,31.0,
-Nicaragua,122,33.0,31.0,
+Nicaragua,116,30.0,29.0,25.0
+Nicaragua,117,31.0,30.0,25.0
+Nicaragua,118,31.0,30.0,26.0
+Nicaragua,119,32.0,30.0,26.0
+Nicaragua,120,32.0,31.0,27.0
+Nicaragua,121,32.0,31.0,29.0
+Nicaragua,122,33.0,31.0,29.0
 Nicaragua,123,34.0,31.0,
 Nicaragua,124,35.0,32.0,
 Nicaragua,125,35.0,32.0,
@@ -35244,13 +35244,13 @@ Nigeria,112,278.0,330.0,192.0
 Nigeria,113,283.0,333.0,194.0
 Nigeria,114,293.0,342.0,196.0
 Nigeria,115,303.0,346.0,201.0
-Nigeria,116,308.0,352.0,
-Nigeria,117,313.0,356.0,
-Nigeria,118,319.0,362.0,
-Nigeria,119,322.0,365.0,
-Nigeria,120,328.0,375.0,
-Nigeria,121,333.0,379.0,
-Nigeria,122,337.0,386.0,
+Nigeria,116,308.0,352.0,207.0
+Nigeria,117,313.0,356.0,208.0
+Nigeria,118,319.0,362.0,213.0
+Nigeria,119,322.0,365.0,215.0
+Nigeria,120,328.0,375.0,218.0
+Nigeria,121,333.0,379.0,224.0
+Nigeria,122,337.0,386.0,229.0
 Nigeria,123,346.0,390.0,
 Nigeria,124,350.0,394.0,
 Nigeria,125,357.0,397.0,
@@ -35550,13 +35550,13 @@ Northern Mariana Islands,112,6.0,6.0,5.0
 Northern Mariana Islands,113,6.0,6.0,5.0
 Northern Mariana Islands,114,6.0,6.0,5.0
 Northern Mariana Islands,115,6.0,6.0,5.0
-Northern Mariana Islands,116,6.0,7.0,
-Northern Mariana Islands,117,6.0,7.0,
-Northern Mariana Islands,118,6.0,7.0,
-Northern Mariana Islands,119,6.0,7.0,
-Northern Mariana Islands,120,6.0,7.0,
-Northern Mariana Islands,121,6.0,7.0,
-Northern Mariana Islands,122,6.0,7.0,
+Northern Mariana Islands,116,6.0,7.0,5.0
+Northern Mariana Islands,117,6.0,7.0,5.0
+Northern Mariana Islands,118,6.0,7.0,5.0
+Northern Mariana Islands,119,6.0,7.0,5.0
+Northern Mariana Islands,120,6.0,7.0,5.0
+Northern Mariana Islands,121,6.0,7.0,5.0
+Northern Mariana Islands,122,6.0,7.0,5.0
 Northern Mariana Islands,123,6.0,7.0,
 Northern Mariana Islands,124,6.0,7.0,
 Northern Mariana Islands,125,6.0,7.0,
@@ -35856,13 +35856,13 @@ Norway,112,853.0,807.0,788.0
 Norway,113,868.0,824.0,807.0
 Norway,114,884.0,840.0,819.0
 Norway,115,901.0,856.0,833.0
-Norway,116,918.0,868.0,
-Norway,117,935.0,883.0,
-Norway,118,948.0,897.0,
-Norway,119,961.0,916.0,
-Norway,120,985.0,931.0,
-Norway,121,1000.0,948.0,
-Norway,122,1012.0,962.0,
+Norway,116,918.0,868.0,848.0
+Norway,117,935.0,883.0,869.0
+Norway,118,948.0,897.0,888.0
+Norway,119,961.0,916.0,905.0
+Norway,120,985.0,931.0,924.0
+Norway,121,1000.0,948.0,938.0
+Norway,122,1012.0,962.0,956.0
 Norway,123,1025.0,982.0,
 Norway,124,1036.0,1000.0,
 Norway,125,1052.0,1014.0,
@@ -36162,13 +36162,13 @@ Oman,112,198.0,187.0,137.0
 Oman,113,201.0,193.0,139.0
 Oman,114,205.0,199.0,143.0
 Oman,115,210.0,203.0,146.0
-Oman,116,212.0,212.0,
-Oman,117,214.0,215.0,
-Oman,118,219.0,217.0,
-Oman,119,221.0,219.0,
-Oman,120,225.0,221.0,
-Oman,121,228.0,225.0,
-Oman,122,232.0,231.0,
+Oman,116,212.0,212.0,150.0
+Oman,117,214.0,215.0,152.0
+Oman,118,219.0,217.0,160.0
+Oman,119,221.0,219.0,163.0
+Oman,120,225.0,221.0,168.0
+Oman,121,228.0,225.0,172.0
+Oman,122,232.0,231.0,177.0
 Oman,123,235.0,235.0,
 Oman,124,242.0,237.0,
 Oman,125,248.0,240.0,
@@ -36468,13 +36468,13 @@ Pakistan,112,95.0,77.0,42.0
 Pakistan,113,97.0,78.0,42.0
 Pakistan,114,98.0,78.0,42.0
 Pakistan,115,102.0,80.0,42.0
-Pakistan,116,105.0,82.0,
-Pakistan,117,106.0,83.0,
-Pakistan,118,108.0,85.0,
-Pakistan,119,110.0,86.0,
-Pakistan,120,112.0,88.0,
-Pakistan,121,112.0,89.0,
-Pakistan,122,115.0,91.0,
+Pakistan,116,105.0,82.0,42.0
+Pakistan,117,106.0,83.0,42.0
+Pakistan,118,108.0,85.0,43.0
+Pakistan,119,110.0,86.0,46.0
+Pakistan,120,112.0,88.0,50.0
+Pakistan,121,112.0,89.0,53.0
+Pakistan,122,115.0,91.0,56.0
 Pakistan,123,118.0,91.0,
 Pakistan,124,121.0,92.0,
 Pakistan,125,124.0,93.0,
@@ -36774,13 +36774,13 @@ Palau,112,1.0,2.0,0.0
 Palau,113,1.0,2.0,0.0
 Palau,114,1.0,3.0,0.0
 Palau,115,1.0,3.0,0.0
-Palau,116,1.0,3.0,
-Palau,117,1.0,3.0,
-Palau,118,1.0,3.0,
-Palau,119,1.0,3.0,
-Palau,120,1.0,3.0,
-Palau,121,1.0,3.0,
-Palau,122,1.0,3.0,
+Palau,116,1.0,3.0,0.0
+Palau,117,1.0,3.0,0.0
+Palau,118,1.0,3.0,0.0
+Palau,119,1.0,3.0,0.0
+Palau,120,1.0,3.0,0.0
+Palau,121,1.0,3.0,0.0
+Palau,122,1.0,3.0,0.0
 Palau,123,1.0,3.0,
 Palau,124,2.0,3.0,
 Palau,125,2.0,3.0,
@@ -37080,13 +37080,13 @@ Panama,112,485.0,512.0,540.0
 Panama,113,493.0,519.0,552.0
 Panama,114,496.0,528.0,560.0
 Panama,115,501.0,537.0,571.0
-Panama,116,514.0,546.0,
-Panama,117,525.0,555.0,
-Panama,118,527.0,562.0,
-Panama,119,535.0,576.0,
-Panama,120,548.0,583.0,
-Panama,121,557.0,592.0,
-Panama,122,567.0,599.0,
+Panama,116,514.0,546.0,586.0
+Panama,117,525.0,555.0,599.0
+Panama,118,527.0,562.0,618.0
+Panama,119,535.0,576.0,631.0
+Panama,120,548.0,583.0,639.0
+Panama,121,557.0,592.0,653.0
+Panama,122,567.0,599.0,660.0
 Panama,123,582.0,608.0,
 Panama,124,592.0,614.0,
 Panama,125,598.0,621.0,
@@ -37386,13 +37386,13 @@ Papua New Guinea,112,86.0,80.0,58.0
 Papua New Guinea,113,87.0,81.0,61.0
 Papua New Guinea,114,90.0,84.0,62.0
 Papua New Guinea,115,91.0,85.0,63.0
-Papua New Guinea,116,93.0,87.0,
-Papua New Guinea,117,94.0,88.0,
-Papua New Guinea,118,96.0,88.0,
-Papua New Guinea,119,99.0,90.0,
-Papua New Guinea,120,99.0,92.0,
-Papua New Guinea,121,102.0,93.0,
-Papua New Guinea,122,103.0,95.0,
+Papua New Guinea,116,93.0,87.0,65.0
+Papua New Guinea,117,94.0,88.0,66.0
+Papua New Guinea,118,96.0,88.0,67.0
+Papua New Guinea,119,99.0,90.0,70.0
+Papua New Guinea,120,99.0,92.0,70.0
+Papua New Guinea,121,102.0,93.0,70.0
+Papua New Guinea,122,103.0,95.0,72.0
 Papua New Guinea,123,105.0,97.0,
 Papua New Guinea,124,106.0,97.0,
 Papua New Guinea,125,109.0,100.0,
@@ -37692,13 +37692,13 @@ Peru,112,200.0,204.0,179.0
 Peru,113,209.0,211.0,184.0
 Peru,114,213.0,214.0,191.0
 Peru,115,215.0,217.0,193.0
-Peru,116,219.0,219.0,
-Peru,117,223.0,220.0,
-Peru,118,228.0,220.0,
-Peru,119,235.0,222.0,
-Peru,120,240.0,225.0,
-Peru,121,244.0,228.0,
-Peru,122,247.0,234.0,
+Peru,116,219.0,219.0,196.0
+Peru,117,223.0,220.0,196.0
+Peru,118,228.0,220.0,201.0
+Peru,119,235.0,222.0,205.0
+Peru,120,240.0,225.0,208.0
+Peru,121,244.0,228.0,212.0
+Peru,122,247.0,234.0,216.0
 Peru,123,248.0,240.0,
 Peru,124,254.0,244.0,
 Peru,125,262.0,246.0,
@@ -37998,13 +37998,13 @@ Philippines,112,937.0,724.0,558.0
 Philippines,113,954.0,733.0,565.0
 Philippines,114,972.0,749.0,578.0
 Philippines,115,989.0,762.0,588.0
-Philippines,116,1009.0,774.0,
-Philippines,117,1030.0,791.0,
-Philippines,118,1049.0,805.0,
-Philippines,119,1070.0,819.0,
-Philippines,120,1087.0,835.0,
-Philippines,121,1104.0,851.0,
-Philippines,122,1118.0,861.0,
+Philippines,116,1009.0,774.0,599.0
+Philippines,117,1030.0,791.0,614.0
+Philippines,118,1049.0,805.0,644.0
+Philippines,119,1070.0,819.0,659.0
+Philippines,120,1087.0,835.0,681.0
+Philippines,121,1104.0,851.0,700.0
+Philippines,122,1118.0,861.0,716.0
 Philippines,123,1133.0,870.0,
 Philippines,124,1153.0,884.0,
 Philippines,125,1173.0,899.0,
@@ -38304,13 +38304,13 @@ Poland,112,251.0,260.0,225.0
 Poland,113,254.0,267.0,232.0
 Poland,114,260.0,271.0,239.0
 Poland,115,263.0,277.0,243.0
-Poland,116,267.0,283.0,
-Poland,117,270.0,293.0,
-Poland,118,279.0,296.0,
-Poland,119,282.0,300.0,
-Poland,120,290.0,303.0,
-Poland,121,293.0,309.0,
-Poland,122,298.0,313.0,
+Poland,116,267.0,283.0,247.0
+Poland,117,270.0,293.0,251.0
+Poland,118,279.0,296.0,257.0
+Poland,119,282.0,300.0,263.0
+Poland,120,290.0,303.0,271.0
+Poland,121,293.0,309.0,279.0
+Poland,122,298.0,313.0,281.0
 Poland,123,302.0,315.0,
 Poland,124,305.0,320.0,
 Poland,125,308.0,324.0,
@@ -38610,13 +38610,13 @@ Portugal,112,289.0,296.0,281.0
 Portugal,113,298.0,303.0,287.0
 Portugal,114,304.0,308.0,295.0
 Portugal,115,314.0,312.0,300.0
-Portugal,116,318.0,323.0,
-Portugal,117,323.0,327.0,
-Portugal,118,327.0,333.0,
-Portugal,119,337.0,341.0,
-Portugal,120,342.0,347.0,
-Portugal,121,348.0,352.0,
-Portugal,122,355.0,355.0,
+Portugal,116,318.0,323.0,306.0
+Portugal,117,323.0,327.0,313.0
+Portugal,118,327.0,333.0,317.0
+Portugal,119,337.0,341.0,326.0
+Portugal,120,342.0,347.0,332.0
+Portugal,121,348.0,352.0,335.0
+Portugal,122,355.0,355.0,342.0
 Portugal,123,361.0,359.0,
 Portugal,124,366.0,365.0,
 Portugal,125,372.0,369.0,
@@ -38916,13 +38916,13 @@ Puerto Rico,112,71.0,35.0,39.0
 Puerto Rico,113,71.0,37.0,39.0
 Puerto Rico,114,73.0,37.0,39.0
 Puerto Rico,115,73.0,37.0,39.0
-Puerto Rico,116,74.0,39.0,
-Puerto Rico,117,74.0,41.0,
-Puerto Rico,118,75.0,41.0,
-Puerto Rico,119,75.0,42.0,
-Puerto Rico,120,77.0,42.0,
-Puerto Rico,121,78.0,44.0,
-Puerto Rico,122,78.0,44.0,
+Puerto Rico,116,74.0,39.0,39.0
+Puerto Rico,117,74.0,41.0,39.0
+Puerto Rico,118,75.0,41.0,40.0
+Puerto Rico,119,75.0,42.0,40.0
+Puerto Rico,120,77.0,42.0,42.0
+Puerto Rico,121,78.0,44.0,42.0
+Puerto Rico,122,78.0,44.0,43.0
 Puerto Rico,123,80.0,44.0,
 Puerto Rico,124,82.0,45.0,
 Puerto Rico,125,83.0,45.0,
@@ -39222,13 +39222,13 @@ Qatar,112,344.0,285.0,39.0
 Qatar,113,350.0,291.0,39.0
 Qatar,114,360.0,294.0,39.0
 Qatar,115,366.0,301.0,40.0
-Qatar,116,371.0,305.0,
-Qatar,117,375.0,311.0,
-Qatar,118,382.0,315.0,
-Qatar,119,389.0,318.0,
-Qatar,120,395.0,319.0,
-Qatar,121,402.0,324.0,
-Qatar,122,404.0,326.0,
+Qatar,116,371.0,305.0,40.0
+Qatar,117,375.0,311.0,41.0
+Qatar,118,382.0,315.0,42.0
+Qatar,119,389.0,318.0,43.0
+Qatar,120,395.0,319.0,43.0
+Qatar,121,402.0,324.0,44.0
+Qatar,122,404.0,326.0,46.0
 Qatar,123,414.0,328.0,
 Qatar,124,419.0,330.0,
 Qatar,125,425.0,334.0,
@@ -39528,13 +39528,13 @@ Republic of Congo,112,12.0,20.0,17.0
 Republic of Congo,113,13.0,20.0,18.0
 Republic of Congo,114,13.0,20.0,18.0
 Republic of Congo,115,14.0,20.0,18.0
-Republic of Congo,116,14.0,20.0,
-Republic of Congo,117,14.0,20.0,
-Republic of Congo,118,15.0,20.0,
-Republic of Congo,119,15.0,21.0,
-Republic of Congo,120,15.0,22.0,
-Republic of Congo,121,15.0,22.0,
-Republic of Congo,122,15.0,23.0,
+Republic of Congo,116,14.0,20.0,19.0
+Republic of Congo,117,14.0,20.0,19.0
+Republic of Congo,118,15.0,20.0,19.0
+Republic of Congo,119,15.0,21.0,20.0
+Republic of Congo,120,15.0,22.0,20.0
+Republic of Congo,121,15.0,22.0,20.0
+Republic of Congo,122,15.0,23.0,21.0
 Republic of Congo,123,16.0,23.0,
 Republic of Congo,124,16.0,24.0,
 Republic of Congo,125,16.0,25.0,
@@ -39834,13 +39834,13 @@ Republic of Korea,112,0.0,0.0,0.0
 Republic of Korea,113,0.0,0.0,0.0
 Republic of Korea,114,0.0,0.0,0.0
 Republic of Korea,115,0.0,0.0,0.0
-Republic of Korea,116,0.0,0.0,
-Republic of Korea,117,0.0,0.0,
-Republic of Korea,118,0.0,0.0,
-Republic of Korea,119,0.0,0.0,
-Republic of Korea,120,0.0,0.0,
-Republic of Korea,121,0.0,0.0,
-Republic of Korea,122,0.0,0.0,
+Republic of Korea,116,0.0,0.0,0.0
+Republic of Korea,117,0.0,0.0,0.0
+Republic of Korea,118,0.0,0.0,0.0
+Republic of Korea,119,0.0,0.0,0.0
+Republic of Korea,120,0.0,0.0,1.0
+Republic of Korea,121,0.0,0.0,1.0
+Republic of Korea,122,0.0,0.0,1.0
 Republic of Korea,123,0.0,0.0,
 Republic of Korea,124,0.0,0.0,
 Republic of Korea,125,0.0,0.0,
@@ -40140,13 +40140,13 @@ Romania,112,149.0,101.0,67.0
 Romania,113,152.0,103.0,69.0
 Romania,114,155.0,104.0,71.0
 Romania,115,158.0,109.0,72.0
-Romania,116,160.0,112.0,
-Romania,117,162.0,112.0,
-Romania,118,165.0,112.0,
-Romania,119,167.0,114.0,
-Romania,120,169.0,115.0,
-Romania,121,172.0,120.0,
-Romania,122,176.0,122.0,
+Romania,116,160.0,112.0,73.0
+Romania,117,162.0,112.0,75.0
+Romania,118,165.0,112.0,78.0
+Romania,119,167.0,114.0,78.0
+Romania,120,169.0,115.0,79.0
+Romania,121,172.0,120.0,79.0
+Romania,122,176.0,122.0,80.0
 Romania,123,179.0,122.0,
 Romania,124,186.0,122.0,
 Romania,125,189.0,123.0,
@@ -40445,14 +40445,14 @@ Russian Federation,111,1663.0,1338.0,794.0
 Russian Federation,112,1694.0,1369.0,820.0
 Russian Federation,113,1738.0,1400.0,837.0
 Russian Federation,114,1783.0,1422.0,867.0
-Russian Federation,115,1809.0,1459.0,881.0
-Russian Federation,116,1842.0,1487.0,
-Russian Federation,117,1887.0,1509.0,
-Russian Federation,118,1912.0,1533.0,
-Russian Federation,119,1948.0,1569.0,
-Russian Federation,120,1977.0,1589.0,
-Russian Federation,121,2004.0,1610.0,
-Russian Federation,122,2034.0,1636.0,
+Russian Federation,115,1809.0,1459.0,882.0
+Russian Federation,116,1842.0,1487.0,902.0
+Russian Federation,117,1887.0,1509.0,921.0
+Russian Federation,118,1912.0,1533.0,955.0
+Russian Federation,119,1948.0,1569.0,979.0
+Russian Federation,120,1977.0,1589.0,1000.0
+Russian Federation,121,2004.0,1610.0,1019.0
+Russian Federation,122,2034.0,1636.0,1037.0
 Russian Federation,123,2073.0,1656.0,
 Russian Federation,124,2099.0,1677.0,
 Russian Federation,125,2135.0,1698.0,
@@ -40752,13 +40752,13 @@ Réunion,112,8.0,9.0,5.0
 Réunion,113,8.0,9.0,7.0
 Réunion,114,8.0,9.0,7.0
 Réunion,115,8.0,9.0,7.0
-Réunion,116,8.0,9.0,
-Réunion,117,8.0,9.0,
-Réunion,118,8.0,9.0,
-Réunion,119,8.0,9.0,
-Réunion,120,8.0,9.0,
-Réunion,121,8.0,10.0,
-Réunion,122,8.0,10.0,
+Réunion,116,8.0,9.0,7.0
+Réunion,117,8.0,9.0,7.0
+Réunion,118,8.0,9.0,7.0
+Réunion,119,8.0,9.0,8.0
+Réunion,120,8.0,9.0,8.0
+Réunion,121,8.0,10.0,8.0
+Réunion,122,8.0,10.0,8.0
 Réunion,123,8.0,10.0,
 Réunion,124,9.0,10.0,
 Réunion,125,9.0,10.0,
@@ -41058,13 +41058,13 @@ Saint Martin,112,6.0,7.0,5.0
 Saint Martin,113,6.0,8.0,5.0
 Saint Martin,114,6.0,8.0,5.0
 Saint Martin,115,7.0,8.0,5.0
-Saint Martin,116,7.0,8.0,
-Saint Martin,117,7.0,8.0,
-Saint Martin,118,7.0,8.0,
-Saint Martin,119,7.0,8.0,
-Saint Martin,120,7.0,8.0,
-Saint Martin,121,7.0,9.0,
-Saint Martin,122,7.0,9.0,
+Saint Martin,116,7.0,8.0,5.0
+Saint Martin,117,7.0,8.0,5.0
+Saint Martin,118,7.0,8.0,5.0
+Saint Martin,119,7.0,8.0,5.0
+Saint Martin,120,7.0,8.0,6.0
+Saint Martin,121,7.0,9.0,6.0
+Saint Martin,122,7.0,9.0,6.0
 Saint Martin,123,7.0,9.0,
 Saint Martin,124,7.0,9.0,
 Saint Martin,125,7.0,9.0,
@@ -41364,13 +41364,13 @@ Saint-Barthélemy,112,8.0,7.0,9.0
 Saint-Barthélemy,113,8.0,7.0,9.0
 Saint-Barthélemy,114,9.0,7.0,9.0
 Saint-Barthélemy,115,9.0,7.0,9.0
-Saint-Barthélemy,116,9.0,7.0,
-Saint-Barthélemy,117,9.0,7.0,
-Saint-Barthélemy,118,9.0,7.0,
-Saint-Barthélemy,119,9.0,7.0,
-Saint-Barthélemy,120,9.0,8.0,
-Saint-Barthélemy,121,9.0,9.0,
-Saint-Barthélemy,122,9.0,9.0,
+Saint-Barthélemy,116,9.0,7.0,9.0
+Saint-Barthélemy,117,9.0,7.0,9.0
+Saint-Barthélemy,118,9.0,7.0,9.0
+Saint-Barthélemy,119,9.0,7.0,10.0
+Saint-Barthélemy,120,9.0,8.0,11.0
+Saint-Barthélemy,121,9.0,9.0,11.0
+Saint-Barthélemy,122,9.0,9.0,11.0
 Saint-Barthélemy,123,10.0,9.0,
 Saint-Barthélemy,124,11.0,9.0,
 Saint-Barthélemy,125,11.0,9.0,
@@ -41670,13 +41670,13 @@ Samoa,112,4.0,4.0,3.0
 Samoa,113,5.0,4.0,3.0
 Samoa,114,5.0,4.0,3.0
 Samoa,115,5.0,4.0,3.0
-Samoa,116,5.0,4.0,
-Samoa,117,5.0,4.0,
-Samoa,118,5.0,4.0,
-Samoa,119,5.0,4.0,
-Samoa,120,5.0,4.0,
-Samoa,121,5.0,4.0,
-Samoa,122,5.0,4.0,
+Samoa,116,5.0,4.0,3.0
+Samoa,117,5.0,4.0,3.0
+Samoa,118,5.0,4.0,3.0
+Samoa,119,5.0,4.0,3.0
+Samoa,120,5.0,4.0,4.0
+Samoa,121,5.0,4.0,4.0
+Samoa,122,5.0,4.0,4.0
 Samoa,123,5.0,4.0,
 Samoa,124,5.0,4.0,
 Samoa,125,5.0,4.0,
@@ -41976,13 +41976,13 @@ Saudi Arabia,112,901.0,772.0,506.0
 Saudi Arabia,113,915.0,788.0,517.0
 Saudi Arabia,114,938.0,803.0,526.0
 Saudi Arabia,115,951.0,819.0,536.0
-Saudi Arabia,116,968.0,834.0,
-Saudi Arabia,117,981.0,847.0,
-Saudi Arabia,118,996.0,860.0,
-Saudi Arabia,119,1018.0,881.0,
-Saudi Arabia,120,1032.0,896.0,
-Saudi Arabia,121,1049.0,907.0,
-Saudi Arabia,122,1060.0,922.0,
+Saudi Arabia,116,968.0,834.0,542.0
+Saudi Arabia,117,981.0,847.0,551.0
+Saudi Arabia,118,996.0,860.0,566.0
+Saudi Arabia,119,1018.0,881.0,577.0
+Saudi Arabia,120,1032.0,896.0,586.0
+Saudi Arabia,121,1049.0,907.0,601.0
+Saudi Arabia,122,1060.0,922.0,611.0
 Saudi Arabia,123,1077.0,932.0,
 Saudi Arabia,124,1096.0,955.0,
 Saudi Arabia,125,1111.0,971.0,
@@ -42282,13 +42282,13 @@ Senegal,112,46.0,48.0,27.0
 Senegal,113,46.0,48.0,28.0
 Senegal,114,47.0,48.0,28.0
 Senegal,115,48.0,48.0,28.0
-Senegal,116,50.0,50.0,
-Senegal,117,51.0,50.0,
-Senegal,118,51.0,51.0,
-Senegal,119,52.0,53.0,
-Senegal,120,53.0,55.0,
-Senegal,121,53.0,55.0,
-Senegal,122,54.0,55.0,
+Senegal,116,50.0,50.0,29.0
+Senegal,117,51.0,50.0,33.0
+Senegal,118,51.0,51.0,33.0
+Senegal,119,52.0,53.0,36.0
+Senegal,120,53.0,55.0,36.0
+Senegal,121,53.0,55.0,36.0
+Senegal,122,54.0,55.0,38.0
 Senegal,123,55.0,57.0,
 Senegal,124,57.0,57.0,
 Senegal,125,57.0,57.0,
@@ -42588,13 +42588,13 @@ Seychelles,112,5.0,5.0,2.0
 Seychelles,113,5.0,5.0,2.0
 Seychelles,114,6.0,5.0,2.0
 Seychelles,115,6.0,5.0,2.0
-Seychelles,116,6.0,5.0,
-Seychelles,117,6.0,5.0,
-Seychelles,118,6.0,5.0,
-Seychelles,119,6.0,5.0,
-Seychelles,120,6.0,5.0,
-Seychelles,121,6.0,5.0,
-Seychelles,122,6.0,5.0,
+Seychelles,116,6.0,5.0,3.0
+Seychelles,117,6.0,5.0,3.0
+Seychelles,118,6.0,5.0,3.0
+Seychelles,119,6.0,5.0,3.0
+Seychelles,120,6.0,5.0,3.0
+Seychelles,121,6.0,5.0,3.0
+Seychelles,122,6.0,5.0,3.0
 Seychelles,123,6.0,5.0,
 Seychelles,124,6.0,5.0,
 Seychelles,125,6.0,5.0,
@@ -42894,13 +42894,13 @@ Sierra Leone,112,15.0,22.0,15.0
 Sierra Leone,113,15.0,23.0,15.0
 Sierra Leone,114,15.0,23.0,15.0
 Sierra Leone,115,15.0,23.0,15.0
-Sierra Leone,116,15.0,23.0,
-Sierra Leone,117,16.0,23.0,
-Sierra Leone,118,16.0,23.0,
-Sierra Leone,119,16.0,23.0,
-Sierra Leone,120,16.0,23.0,
-Sierra Leone,121,16.0,24.0,
-Sierra Leone,122,16.0,24.0,
+Sierra Leone,116,15.0,23.0,16.0
+Sierra Leone,117,16.0,23.0,16.0
+Sierra Leone,118,16.0,23.0,16.0
+Sierra Leone,119,16.0,23.0,16.0
+Sierra Leone,120,16.0,23.0,16.0
+Sierra Leone,121,16.0,24.0,16.0
+Sierra Leone,122,16.0,24.0,17.0
 Sierra Leone,123,16.0,24.0,
 Sierra Leone,124,16.0,24.0,
 Sierra Leone,125,16.0,24.0,
@@ -43198,15 +43198,15 @@ Singapore,110,4273.0,4285.0,3637.0
 Singapore,111,4340.0,4357.0,3712.0
 Singapore,112,4418.0,4449.0,3802.0
 Singapore,113,4512.0,4526.0,3890.0
-Singapore,114,4604.0,4605.0,3959.0
-Singapore,115,4699.0,4686.0,4026.0
-Singapore,116,4777.0,4763.0,
-Singapore,117,4852.0,4853.0,
-Singapore,118,4950.0,4933.0,
-Singapore,119,5030.0,5032.0,
-Singapore,120,5130.0,5119.0,
-Singapore,121,5214.0,5218.0,
-Singapore,122,5307.0,5311.0,
+Singapore,114,4604.0,4605.0,3960.0
+Singapore,115,4699.0,4686.0,4027.0
+Singapore,116,4777.0,4763.0,4105.0
+Singapore,117,4852.0,4853.0,4184.0
+Singapore,118,4950.0,4933.0,4278.0
+Singapore,119,5030.0,5032.0,4353.0
+Singapore,120,5130.0,5119.0,4432.0
+Singapore,121,5214.0,5218.0,4529.0
+Singapore,122,5307.0,5311.0,4608.0
 Singapore,123,5382.0,5402.0,
 Singapore,124,5469.0,5478.0,
 Singapore,125,5544.0,5547.0,
@@ -43506,13 +43506,13 @@ Sint Maarten,112,13.0,12.0,8.0
 Sint Maarten,113,13.0,12.0,8.0
 Sint Maarten,114,13.0,12.0,8.0
 Sint Maarten,115,13.0,12.0,8.0
-Sint Maarten,116,14.0,12.0,
-Sint Maarten,117,14.0,12.0,
-Sint Maarten,118,14.0,12.0,
-Sint Maarten,119,14.0,12.0,
-Sint Maarten,120,14.0,13.0,
-Sint Maarten,121,14.0,13.0,
-Sint Maarten,122,14.0,13.0,
+Sint Maarten,116,14.0,12.0,8.0
+Sint Maarten,117,14.0,12.0,9.0
+Sint Maarten,118,14.0,12.0,10.0
+Sint Maarten,119,14.0,12.0,10.0
+Sint Maarten,120,14.0,13.0,10.0
+Sint Maarten,121,14.0,13.0,10.0
+Sint Maarten,122,14.0,13.0,10.0
 Sint Maarten,123,14.0,13.0,
 Sint Maarten,124,15.0,14.0,
 Sint Maarten,125,15.0,15.0,
@@ -43812,13 +43812,13 @@ Slovenia,112,29.0,24.0,30.0
 Slovenia,113,29.0,25.0,30.0
 Slovenia,114,30.0,26.0,30.0
 Slovenia,115,30.0,26.0,30.0
-Slovenia,116,31.0,27.0,
-Slovenia,117,31.0,28.0,
-Slovenia,118,31.0,28.0,
-Slovenia,119,32.0,29.0,
-Slovenia,120,32.0,30.0,
-Slovenia,121,32.0,30.0,
-Slovenia,122,33.0,30.0,
+Slovenia,116,31.0,27.0,32.0
+Slovenia,117,31.0,28.0,32.0
+Slovenia,118,31.0,28.0,32.0
+Slovenia,119,32.0,29.0,32.0
+Slovenia,120,32.0,30.0,33.0
+Slovenia,121,32.0,30.0,34.0
+Slovenia,122,33.0,30.0,34.0
 Slovenia,123,33.0,31.0,
 Slovenia,124,34.0,32.0,
 Slovenia,125,34.0,32.0,
@@ -44118,13 +44118,13 @@ Solomon Islands,112,7.0,10.0,7.0
 Solomon Islands,113,8.0,10.0,7.0
 Solomon Islands,114,8.0,10.0,7.0
 Solomon Islands,115,8.0,10.0,7.0
-Solomon Islands,116,8.0,10.0,
-Solomon Islands,117,8.0,10.0,
-Solomon Islands,118,8.0,10.0,
-Solomon Islands,119,8.0,10.0,
-Solomon Islands,120,8.0,11.0,
-Solomon Islands,121,8.0,11.0,
-Solomon Islands,122,8.0,11.0,
+Solomon Islands,116,8.0,10.0,7.0
+Solomon Islands,117,8.0,10.0,7.0
+Solomon Islands,118,8.0,10.0,7.0
+Solomon Islands,119,8.0,10.0,8.0
+Solomon Islands,120,8.0,11.0,8.0
+Solomon Islands,121,8.0,11.0,8.0
+Solomon Islands,122,8.0,11.0,8.0
 Solomon Islands,123,9.0,11.0,
 Solomon Islands,124,10.0,11.0,
 Solomon Islands,125,10.0,11.0,
@@ -44424,13 +44424,13 @@ Somalia,112,17.0,16.0,15.0
 Somalia,113,17.0,16.0,15.0
 Somalia,114,17.0,16.0,15.0
 Somalia,115,18.0,17.0,15.0
-Somalia,116,19.0,17.0,
-Somalia,117,20.0,18.0,
-Somalia,118,20.0,19.0,
-Somalia,119,20.0,19.0,
-Somalia,120,20.0,19.0,
-Somalia,121,20.0,20.0,
-Somalia,122,20.0,21.0,
+Somalia,116,19.0,17.0,16.0
+Somalia,117,20.0,18.0,17.0
+Somalia,118,20.0,19.0,17.0
+Somalia,119,20.0,19.0,18.0
+Somalia,120,20.0,19.0,21.0
+Somalia,121,20.0,20.0,21.0
+Somalia,122,20.0,21.0,21.0
 Somalia,123,20.0,21.0,
 Somalia,124,20.0,22.0,
 Somalia,125,20.0,23.0,
@@ -44730,13 +44730,13 @@ South Africa,112,208.0,230.0,208.0
 South Africa,113,213.0,234.0,211.0
 South Africa,114,222.0,237.0,216.0
 South Africa,115,223.0,243.0,220.0
-South Africa,116,229.0,245.0,
-South Africa,117,233.0,248.0,
-South Africa,118,237.0,252.0,
-South Africa,119,241.0,262.0,
-South Africa,120,244.0,268.0,
-South Africa,121,247.0,270.0,
-South Africa,122,253.0,272.0,
+South Africa,116,229.0,245.0,225.0
+South Africa,117,233.0,248.0,231.0
+South Africa,118,237.0,252.0,231.0
+South Africa,119,241.0,262.0,237.0
+South Africa,120,244.0,268.0,238.0
+South Africa,121,247.0,270.0,243.0
+South Africa,122,253.0,272.0,250.0
 South Africa,123,255.0,278.0,
 South Africa,124,259.0,281.0,
 South Africa,125,264.0,282.0,
@@ -45036,13 +45036,13 @@ Spain,112,1882.0,1787.0,1567.0
 Spain,113,1920.0,1830.0,1599.0
 Spain,114,1961.0,1861.0,1628.0
 Spain,115,1990.0,1907.0,1661.0
-Spain,116,2032.0,1943.0,
-Spain,117,2063.0,1977.0,
-Spain,118,2090.0,2013.0,
-Spain,119,2120.0,2041.0,
-Spain,120,2154.0,2074.0,
-Spain,121,2193.0,2106.0,
-Spain,122,2227.0,2140.0,
+Spain,116,2032.0,1943.0,1691.0
+Spain,117,2063.0,1977.0,1727.0
+Spain,118,2090.0,2013.0,1765.0
+Spain,119,2120.0,2041.0,1803.0
+Spain,120,2154.0,2074.0,1842.0
+Spain,121,2193.0,2106.0,1877.0
+Spain,122,2227.0,2140.0,1916.0
 Spain,123,2252.0,2166.0,
 Spain,124,2301.0,2210.0,
 Spain,125,2334.0,2238.0,
@@ -45342,13 +45342,13 @@ Sri Lanka,112,67.0,67.0,71.0
 Sri Lanka,113,70.0,68.0,73.0
 Sri Lanka,114,71.0,69.0,75.0
 Sri Lanka,115,72.0,71.0,77.0
-Sri Lanka,116,72.0,71.0,
-Sri Lanka,117,73.0,72.0,
-Sri Lanka,118,73.0,72.0,
-Sri Lanka,119,74.0,74.0,
-Sri Lanka,120,75.0,76.0,
-Sri Lanka,121,77.0,77.0,
-Sri Lanka,122,77.0,77.0,
+Sri Lanka,116,72.0,71.0,78.0
+Sri Lanka,117,73.0,72.0,79.0
+Sri Lanka,118,73.0,72.0,81.0
+Sri Lanka,119,74.0,74.0,81.0
+Sri Lanka,120,75.0,76.0,83.0
+Sri Lanka,121,77.0,77.0,84.0
+Sri Lanka,122,77.0,77.0,84.0
 Sri Lanka,123,77.0,80.0,
 Sri Lanka,124,79.0,82.0,
 Sri Lanka,125,82.0,82.0,
@@ -45648,13 +45648,13 @@ St.  Kitts and Nevis,112,16.0,10.0,7.0
 St.  Kitts and Nevis,113,17.0,11.0,7.0
 St.  Kitts and Nevis,114,17.0,11.0,8.0
 St.  Kitts and Nevis,115,18.0,12.0,8.0
-St.  Kitts and Nevis,116,18.0,12.0,
-St.  Kitts and Nevis,117,18.0,12.0,
-St.  Kitts and Nevis,118,19.0,12.0,
-St.  Kitts and Nevis,119,19.0,12.0,
-St.  Kitts and Nevis,120,20.0,12.0,
-St.  Kitts and Nevis,121,20.0,13.0,
-St.  Kitts and Nevis,122,20.0,13.0,
+St.  Kitts and Nevis,116,18.0,12.0,8.0
+St.  Kitts and Nevis,117,18.0,12.0,8.0
+St.  Kitts and Nevis,118,19.0,12.0,8.0
+St.  Kitts and Nevis,119,19.0,12.0,8.0
+St.  Kitts and Nevis,120,20.0,12.0,9.0
+St.  Kitts and Nevis,121,20.0,13.0,9.0
+St.  Kitts and Nevis,122,20.0,13.0,9.0
 St.  Kitts and Nevis,123,20.0,13.0,
 St.  Kitts and Nevis,124,20.0,13.0,
 St.  Kitts and Nevis,125,21.0,13.0,
@@ -45954,13 +45954,13 @@ St.  Lucia,112,42.0,53.0,51.0
 St.  Lucia,113,43.0,55.0,52.0
 St.  Lucia,114,46.0,57.0,53.0
 St.  Lucia,115,47.0,58.0,53.0
-St.  Lucia,116,48.0,60.0,
-St.  Lucia,117,50.0,61.0,
-St.  Lucia,118,52.0,61.0,
-St.  Lucia,119,53.0,62.0,
-St.  Lucia,120,54.0,63.0,
-St.  Lucia,121,55.0,63.0,
-St.  Lucia,122,56.0,65.0,
+St.  Lucia,116,48.0,60.0,54.0
+St.  Lucia,117,50.0,61.0,54.0
+St.  Lucia,118,52.0,61.0,55.0
+St.  Lucia,119,53.0,62.0,57.0
+St.  Lucia,120,54.0,63.0,59.0
+St.  Lucia,121,55.0,63.0,60.0
+St.  Lucia,122,56.0,65.0,63.0
 St.  Lucia,123,56.0,66.0,
 St.  Lucia,124,57.0,67.0,
 St.  Lucia,125,59.0,67.0,
@@ -46260,13 +46260,13 @@ St.  Vincent and the Grenadines,112,17.0,22.0,23.0
 St.  Vincent and the Grenadines,113,17.0,22.0,23.0
 St.  Vincent and the Grenadines,114,17.0,23.0,23.0
 St.  Vincent and the Grenadines,115,18.0,23.0,26.0
-St.  Vincent and the Grenadines,116,18.0,25.0,
-St.  Vincent and the Grenadines,117,18.0,26.0,
-St.  Vincent and the Grenadines,118,18.0,26.0,
-St.  Vincent and the Grenadines,119,18.0,26.0,
-St.  Vincent and the Grenadines,120,18.0,26.0,
-St.  Vincent and the Grenadines,121,19.0,26.0,
-St.  Vincent and the Grenadines,122,19.0,26.0,
+St.  Vincent and the Grenadines,116,18.0,25.0,26.0
+St.  Vincent and the Grenadines,117,18.0,26.0,26.0
+St.  Vincent and the Grenadines,118,18.0,26.0,27.0
+St.  Vincent and the Grenadines,119,18.0,26.0,27.0
+St.  Vincent and the Grenadines,120,18.0,26.0,27.0
+St.  Vincent and the Grenadines,121,19.0,26.0,27.0
+St.  Vincent and the Grenadines,122,19.0,26.0,27.0
 St.  Vincent and the Grenadines,123,20.0,26.0,
 St.  Vincent and the Grenadines,124,20.0,27.0,
 St.  Vincent and the Grenadines,125,20.0,27.0,
@@ -46566,13 +46566,13 @@ Sudan,112,20.0,30.0,34.0
 Sudan,113,20.0,30.0,34.0
 Sudan,114,20.0,30.0,35.0
 Sudan,115,20.0,30.0,36.0
-Sudan,116,20.0,30.0,
-Sudan,117,22.0,31.0,
-Sudan,118,23.0,32.0,
-Sudan,119,23.0,32.0,
-Sudan,120,23.0,32.0,
-Sudan,121,25.0,34.0,
-Sudan,122,25.0,34.0,
+Sudan,116,20.0,30.0,38.0
+Sudan,117,22.0,31.0,38.0
+Sudan,118,23.0,32.0,38.0
+Sudan,119,23.0,32.0,39.0
+Sudan,120,23.0,32.0,41.0
+Sudan,121,25.0,34.0,41.0
+Sudan,122,25.0,34.0,42.0
 Sudan,123,26.0,34.0,
 Sudan,124,26.0,34.0,
 Sudan,125,26.0,38.0,
@@ -46872,13 +46872,13 @@ Suriname,112,36.0,23.0,21.0
 Suriname,113,36.0,23.0,21.0
 Suriname,114,36.0,23.0,21.0
 Suriname,115,37.0,23.0,21.0
-Suriname,116,38.0,24.0,
-Suriname,117,40.0,25.0,
-Suriname,118,41.0,25.0,
-Suriname,119,41.0,25.0,
-Suriname,120,41.0,25.0,
-Suriname,121,41.0,25.0,
-Suriname,122,41.0,25.0,
+Suriname,116,38.0,24.0,21.0
+Suriname,117,40.0,25.0,21.0
+Suriname,118,41.0,25.0,21.0
+Suriname,119,41.0,25.0,22.0
+Suriname,120,41.0,25.0,22.0
+Suriname,121,41.0,25.0,22.0
+Suriname,122,41.0,25.0,22.0
 Suriname,123,42.0,25.0,
 Suriname,124,42.0,25.0,
 Suriname,125,42.0,26.0,
@@ -47178,13 +47178,13 @@ Sweden,112,832.0,798.0,738.0
 Sweden,113,855.0,812.0,748.0
 Sweden,114,870.0,823.0,768.0
 Sweden,115,886.0,837.0,787.0
-Sweden,116,908.0,852.0,
-Sweden,117,923.0,866.0,
-Sweden,118,937.0,879.0,
-Sweden,119,949.0,890.0,
-Sweden,120,960.0,904.0,
-Sweden,121,977.0,926.0,
-Sweden,122,993.0,938.0,
+Sweden,116,908.0,852.0,806.0
+Sweden,117,923.0,866.0,821.0
+Sweden,118,937.0,879.0,838.0
+Sweden,119,949.0,890.0,853.0
+Sweden,120,960.0,904.0,865.0
+Sweden,121,977.0,926.0,885.0
+Sweden,122,993.0,938.0,896.0
 Sweden,123,1008.0,952.0,
 Sweden,124,1024.0,969.0,
 Sweden,125,1042.0,978.0,
@@ -47484,13 +47484,13 @@ Syria,112,0.0,1.0,3.0
 Syria,113,0.0,1.0,3.0
 Syria,114,0.0,1.0,3.0
 Syria,115,0.0,1.0,3.0
-Syria,116,0.0,1.0,
-Syria,117,0.0,1.0,
-Syria,118,0.0,1.0,
-Syria,119,0.0,1.0,
-Syria,120,0.0,1.0,
-Syria,121,0.0,1.0,
-Syria,122,0.0,1.0,
+Syria,116,0.0,1.0,3.0
+Syria,117,0.0,1.0,3.0
+Syria,118,0.0,1.0,3.0
+Syria,119,0.0,1.0,4.0
+Syria,120,0.0,1.0,4.0
+Syria,121,0.0,1.0,5.0
+Syria,122,0.0,1.0,5.0
 Syria,123,0.0,1.0,
 Syria,124,0.0,1.0,
 Syria,125,0.0,1.0,
@@ -47790,13 +47790,13 @@ São Tomé and Príncipe,112,2.0,1.0,1.0
 São Tomé and Príncipe,113,2.0,1.0,1.0
 São Tomé and Príncipe,114,2.0,1.0,1.0
 São Tomé and Príncipe,115,2.0,1.0,1.0
-São Tomé and Príncipe,116,3.0,1.0,
-São Tomé and Príncipe,117,3.0,1.0,
-São Tomé and Príncipe,118,3.0,1.0,
-São Tomé and Príncipe,119,3.0,1.0,
-São Tomé and Príncipe,120,3.0,1.0,
-São Tomé and Príncipe,121,3.0,1.0,
-São Tomé and Príncipe,122,3.0,1.0,
+São Tomé and Príncipe,116,3.0,1.0,1.0
+São Tomé and Príncipe,117,3.0,1.0,1.0
+São Tomé and Príncipe,118,3.0,1.0,2.0
+São Tomé and Príncipe,119,3.0,1.0,2.0
+São Tomé and Príncipe,120,3.0,1.0,2.0
+São Tomé and Príncipe,121,3.0,1.0,2.0
+São Tomé and Príncipe,122,3.0,1.0,2.0
 São Tomé and Príncipe,123,3.0,1.0,
 São Tomé and Príncipe,124,3.0,1.0,
 São Tomé and Príncipe,125,3.0,1.0,
@@ -48094,15 +48094,15 @@ Taiwan Province of China,110,800.0,618.0,410.0
 Taiwan Province of China,111,810.0,625.0,415.0
 Taiwan Province of China,112,826.0,641.0,424.0
 Taiwan Province of China,113,845.0,653.0,429.0
-Taiwan Province of China,114,861.0,662.0,440.0
-Taiwan Province of China,115,878.0,671.0,448.0
-Taiwan Province of China,116,891.0,686.0,
-Taiwan Province of China,117,908.0,702.0,
-Taiwan Province of China,118,923.0,713.0,
-Taiwan Province of China,119,937.0,720.0,
-Taiwan Province of China,120,956.0,732.0,
-Taiwan Province of China,121,972.0,746.0,
-Taiwan Province of China,122,988.0,762.0,
+Taiwan Province of China,114,861.0,662.0,441.0
+Taiwan Province of China,115,878.0,671.0,449.0
+Taiwan Province of China,116,891.0,686.0,454.0
+Taiwan Province of China,117,908.0,702.0,461.0
+Taiwan Province of China,118,923.0,713.0,475.0
+Taiwan Province of China,119,937.0,720.0,488.0
+Taiwan Province of China,120,956.0,732.0,494.0
+Taiwan Province of China,121,972.0,746.0,507.0
+Taiwan Province of China,122,988.0,762.0,516.0
 Taiwan Province of China,123,1003.0,778.0,
 Taiwan Province of China,124,1022.0,797.0,
 Taiwan Province of China,125,1043.0,808.0,
@@ -48402,13 +48402,13 @@ Tanzania,112,54.0,48.0,45.0
 Tanzania,113,57.0,48.0,45.0
 Tanzania,114,58.0,50.0,45.0
 Tanzania,115,58.0,51.0,47.0
-Tanzania,116,59.0,51.0,
-Tanzania,117,60.0,51.0,
-Tanzania,118,63.0,52.0,
-Tanzania,119,66.0,54.0,
-Tanzania,120,67.0,54.0,
-Tanzania,121,67.0,54.0,
-Tanzania,122,67.0,56.0,
+Tanzania,116,59.0,51.0,48.0
+Tanzania,117,60.0,51.0,49.0
+Tanzania,118,63.0,52.0,49.0
+Tanzania,119,66.0,54.0,50.0
+Tanzania,120,67.0,54.0,51.0
+Tanzania,121,67.0,54.0,52.0
+Tanzania,122,67.0,56.0,52.0
 Tanzania,123,67.0,57.0,
 Tanzania,124,69.0,58.0,
 Tanzania,125,72.0,58.0,
@@ -48708,13 +48708,13 @@ Thailand,112,2343.0,2294.0,1861.0
 Thailand,113,2387.0,2345.0,1888.0
 Thailand,114,2433.0,2392.0,1922.0
 Thailand,115,2486.0,2432.0,1960.0
-Thailand,116,2543.0,2477.0,
-Thailand,117,2589.0,2519.0,
-Thailand,118,2635.0,2562.0,
-Thailand,119,2687.0,2608.0,
-Thailand,120,2733.0,2645.0,
-Thailand,121,2785.0,2688.0,
-Thailand,122,2814.0,2722.0,
+Thailand,116,2543.0,2477.0,2001.0
+Thailand,117,2589.0,2519.0,2034.0
+Thailand,118,2635.0,2562.0,2103.0
+Thailand,119,2687.0,2608.0,2144.0
+Thailand,120,2733.0,2645.0,2184.0
+Thailand,121,2785.0,2688.0,2238.0
+Thailand,122,2814.0,2722.0,2273.0
 Thailand,123,2860.0,2762.0,
 Thailand,124,2906.0,2808.0,
 Thailand,125,2947.0,2852.0,
@@ -49014,13 +49014,13 @@ The Bahamas,112,63.0,34.0,46.0
 The Bahamas,113,63.0,35.0,47.0
 The Bahamas,114,65.0,37.0,47.0
 The Bahamas,115,68.0,37.0,48.0
-The Bahamas,116,68.0,38.0,
-The Bahamas,117,70.0,38.0,
-The Bahamas,118,70.0,39.0,
-The Bahamas,119,72.0,41.0,
-The Bahamas,120,74.0,42.0,
-The Bahamas,121,76.0,42.0,
-The Bahamas,122,77.0,43.0,
+The Bahamas,116,68.0,38.0,49.0
+The Bahamas,117,70.0,38.0,52.0
+The Bahamas,118,70.0,39.0,53.0
+The Bahamas,119,72.0,41.0,54.0
+The Bahamas,120,74.0,42.0,55.0
+The Bahamas,121,76.0,42.0,56.0
+The Bahamas,122,77.0,43.0,57.0
 The Bahamas,123,80.0,44.0,
 The Bahamas,124,81.0,46.0,
 The Bahamas,125,81.0,47.0,
@@ -49320,13 +49320,13 @@ The Gambia,112,5.0,1.0,0.0
 The Gambia,113,5.0,1.0,0.0
 The Gambia,114,5.0,1.0,0.0
 The Gambia,115,5.0,1.0,0.0
-The Gambia,116,5.0,1.0,
-The Gambia,117,5.0,1.0,
-The Gambia,118,5.0,2.0,
-The Gambia,119,5.0,2.0,
-The Gambia,120,6.0,2.0,
-The Gambia,121,6.0,2.0,
-The Gambia,122,6.0,2.0,
+The Gambia,116,5.0,1.0,0.0
+The Gambia,117,5.0,1.0,0.0
+The Gambia,118,5.0,2.0,0.0
+The Gambia,119,5.0,2.0,0.0
+The Gambia,120,6.0,2.0,0.0
+The Gambia,121,6.0,2.0,0.0
+The Gambia,122,6.0,2.0,0.0
 The Gambia,123,6.0,2.0,
 The Gambia,124,6.0,2.0,
 The Gambia,125,6.0,2.0,
@@ -49624,15 +49624,15 @@ The Netherlands,110,4188.0,4103.0,3446.0
 The Netherlands,111,4247.0,4177.0,3523.0
 The Netherlands,112,4334.0,4249.0,3590.0
 The Netherlands,113,4418.0,4317.0,3658.0
-The Netherlands,114,4507.0,4403.0,3735.0
-The Netherlands,115,4590.0,4482.0,3806.0
-The Netherlands,116,4672.0,4565.0,
-The Netherlands,117,4758.0,4668.0,
-The Netherlands,118,4829.0,4735.0,
-The Netherlands,119,4899.0,4832.0,
-The Netherlands,120,5008.0,4914.0,
-The Netherlands,121,5101.0,4987.0,
-The Netherlands,122,5188.0,5074.0,
+The Netherlands,114,4507.0,4403.0,3736.0
+The Netherlands,115,4590.0,4482.0,3810.0
+The Netherlands,116,4672.0,4565.0,3897.0
+The Netherlands,117,4758.0,4668.0,3968.0
+The Netherlands,118,4829.0,4735.0,4056.0
+The Netherlands,119,4899.0,4832.0,4128.0
+The Netherlands,120,5008.0,4914.0,4195.0
+The Netherlands,121,5101.0,4987.0,4288.0
+The Netherlands,122,5188.0,5074.0,4365.0
 The Netherlands,123,5269.0,5161.0,
 The Netherlands,124,5349.0,5238.0,
 The Netherlands,125,5422.0,5311.0,
@@ -49932,13 +49932,13 @@ Timor-Leste,112,3.0,4.0,4.0
 Timor-Leste,113,3.0,4.0,4.0
 Timor-Leste,114,3.0,4.0,4.0
 Timor-Leste,115,3.0,4.0,4.0
-Timor-Leste,116,3.0,4.0,
-Timor-Leste,117,3.0,4.0,
-Timor-Leste,118,3.0,4.0,
-Timor-Leste,119,3.0,5.0,
-Timor-Leste,120,3.0,5.0,
-Timor-Leste,121,3.0,5.0,
-Timor-Leste,122,3.0,5.0,
+Timor-Leste,116,3.0,4.0,4.0
+Timor-Leste,117,3.0,4.0,4.0
+Timor-Leste,118,3.0,4.0,4.0
+Timor-Leste,119,3.0,5.0,4.0
+Timor-Leste,120,3.0,5.0,4.0
+Timor-Leste,121,3.0,5.0,5.0
+Timor-Leste,122,3.0,5.0,5.0
 Timor-Leste,123,3.0,5.0,
 Timor-Leste,124,3.0,5.0,
 Timor-Leste,125,3.0,5.0,
@@ -50238,13 +50238,13 @@ Togo,112,26.0,28.0,24.0
 Togo,113,27.0,28.0,24.0
 Togo,114,28.0,29.0,24.0
 Togo,115,28.0,29.0,24.0
-Togo,116,28.0,29.0,
-Togo,117,29.0,30.0,
-Togo,118,30.0,31.0,
-Togo,119,30.0,31.0,
-Togo,120,31.0,32.0,
-Togo,121,32.0,33.0,
-Togo,122,32.0,33.0,
+Togo,116,28.0,29.0,24.0
+Togo,117,29.0,30.0,25.0
+Togo,118,30.0,31.0,25.0
+Togo,119,30.0,31.0,25.0
+Togo,120,31.0,32.0,25.0
+Togo,121,32.0,33.0,26.0
+Togo,122,32.0,33.0,27.0
 Togo,123,32.0,35.0,
 Togo,124,33.0,35.0,
 Togo,125,35.0,35.0,
@@ -50544,13 +50544,13 @@ Tonga,112,6.0,8.0,7.0
 Tonga,113,7.0,8.0,7.0
 Tonga,114,8.0,8.0,7.0
 Tonga,115,8.0,8.0,7.0
-Tonga,116,8.0,8.0,
-Tonga,117,8.0,8.0,
-Tonga,118,8.0,8.0,
-Tonga,119,8.0,8.0,
-Tonga,120,8.0,8.0,
-Tonga,121,8.0,9.0,
-Tonga,122,9.0,9.0,
+Tonga,116,8.0,8.0,7.0
+Tonga,117,8.0,8.0,8.0
+Tonga,118,8.0,8.0,9.0
+Tonga,119,8.0,8.0,9.0
+Tonga,120,8.0,8.0,9.0
+Tonga,121,8.0,9.0,9.0
+Tonga,122,9.0,9.0,9.0
 Tonga,123,10.0,9.0,
 Tonga,124,10.0,9.0,
 Tonga,125,10.0,9.0,
@@ -50850,13 +50850,13 @@ Trinidad and Tobago,112,209.0,188.0,131.0
 Trinidad and Tobago,113,212.0,193.0,134.0
 Trinidad and Tobago,114,216.0,194.0,139.0
 Trinidad and Tobago,115,219.0,197.0,141.0
-Trinidad and Tobago,116,223.0,201.0,
-Trinidad and Tobago,117,226.0,203.0,
-Trinidad and Tobago,118,228.0,206.0,
-Trinidad and Tobago,119,232.0,208.0,
-Trinidad and Tobago,120,236.0,213.0,
-Trinidad and Tobago,121,241.0,218.0,
-Trinidad and Tobago,122,246.0,226.0,
+Trinidad and Tobago,116,223.0,201.0,145.0
+Trinidad and Tobago,117,226.0,203.0,147.0
+Trinidad and Tobago,118,228.0,206.0,149.0
+Trinidad and Tobago,119,232.0,208.0,153.0
+Trinidad and Tobago,120,236.0,213.0,157.0
+Trinidad and Tobago,121,241.0,218.0,158.0
+Trinidad and Tobago,122,246.0,226.0,160.0
 Trinidad and Tobago,123,248.0,230.0,
 Trinidad and Tobago,124,255.0,231.0,
 Trinidad and Tobago,125,261.0,235.0,
@@ -51156,13 +51156,13 @@ Tunisia,112,65.0,42.0,48.0
 Tunisia,113,67.0,44.0,49.0
 Tunisia,114,67.0,45.0,49.0
 Tunisia,115,69.0,45.0,50.0
-Tunisia,116,69.0,45.0,
-Tunisia,117,70.0,46.0,
-Tunisia,118,70.0,47.0,
-Tunisia,119,72.0,49.0,
-Tunisia,120,75.0,51.0,
-Tunisia,121,77.0,53.0,
-Tunisia,122,79.0,53.0,
+Tunisia,116,69.0,45.0,51.0
+Tunisia,117,70.0,46.0,52.0
+Tunisia,118,70.0,47.0,53.0
+Tunisia,119,72.0,49.0,56.0
+Tunisia,120,75.0,51.0,56.0
+Tunisia,121,77.0,53.0,56.0
+Tunisia,122,79.0,53.0,56.0
 Tunisia,123,82.0,54.0,
 Tunisia,124,82.0,55.0,
 Tunisia,125,84.0,56.0,
@@ -51462,13 +51462,13 @@ Turkiye,112,0.0,0.0,0.0
 Turkiye,113,0.0,0.0,0.0
 Turkiye,114,0.0,0.0,0.0
 Turkiye,115,0.0,0.0,0.0
-Turkiye,116,0.0,0.0,
-Turkiye,117,0.0,0.0,
-Turkiye,118,0.0,0.0,
-Turkiye,119,0.0,0.0,
-Turkiye,120,0.0,0.0,
-Turkiye,121,0.0,0.0,
-Turkiye,122,0.0,0.0,
+Turkiye,116,0.0,0.0,0.0
+Turkiye,117,0.0,0.0,0.0
+Turkiye,118,0.0,0.0,0.0
+Turkiye,119,0.0,0.0,0.0
+Turkiye,120,0.0,0.0,0.0
+Turkiye,121,0.0,0.0,0.0
+Turkiye,122,0.0,0.0,0.0
 Turkiye,123,0.0,0.0,
 Turkiye,124,0.0,0.0,
 Turkiye,125,0.0,0.0,
@@ -51768,13 +51768,13 @@ Turkmenistan,112,25.0,21.0,15.0
 Turkmenistan,113,26.0,22.0,16.0
 Turkmenistan,114,26.0,24.0,17.0
 Turkmenistan,115,26.0,24.0,18.0
-Turkmenistan,116,27.0,25.0,
-Turkmenistan,117,28.0,25.0,
-Turkmenistan,118,28.0,25.0,
-Turkmenistan,119,28.0,25.0,
-Turkmenistan,120,28.0,25.0,
-Turkmenistan,121,28.0,25.0,
-Turkmenistan,122,28.0,26.0,
+Turkmenistan,116,27.0,25.0,18.0
+Turkmenistan,117,28.0,25.0,18.0
+Turkmenistan,118,28.0,25.0,20.0
+Turkmenistan,119,28.0,25.0,20.0
+Turkmenistan,120,28.0,25.0,20.0
+Turkmenistan,121,28.0,25.0,21.0
+Turkmenistan,122,28.0,26.0,21.0
 Turkmenistan,123,30.0,26.0,
 Turkmenistan,124,30.0,26.0,
 Turkmenistan,125,30.0,26.0,
@@ -52074,13 +52074,13 @@ Turks and Caicos Islands,112,11.0,7.0,8.0
 Turks and Caicos Islands,113,11.0,7.0,8.0
 Turks and Caicos Islands,114,11.0,7.0,8.0
 Turks and Caicos Islands,115,12.0,8.0,8.0
-Turks and Caicos Islands,116,12.0,8.0,
-Turks and Caicos Islands,117,12.0,8.0,
-Turks and Caicos Islands,118,12.0,8.0,
-Turks and Caicos Islands,119,12.0,8.0,
-Turks and Caicos Islands,120,12.0,8.0,
-Turks and Caicos Islands,121,12.0,8.0,
-Turks and Caicos Islands,122,13.0,8.0,
+Turks and Caicos Islands,116,12.0,8.0,8.0
+Turks and Caicos Islands,117,12.0,8.0,8.0
+Turks and Caicos Islands,118,12.0,8.0,8.0
+Turks and Caicos Islands,119,12.0,8.0,8.0
+Turks and Caicos Islands,120,12.0,8.0,9.0
+Turks and Caicos Islands,121,12.0,8.0,9.0
+Turks and Caicos Islands,122,13.0,8.0,9.0
 Turks and Caicos Islands,123,13.0,9.0,
 Turks and Caicos Islands,124,13.0,9.0,
 Turks and Caicos Islands,125,13.0,9.0,
@@ -52380,13 +52380,13 @@ Tuvalu,112,1.0,1.0,2.0
 Tuvalu,113,1.0,1.0,2.0
 Tuvalu,114,1.0,1.0,2.0
 Tuvalu,115,1.0,1.0,2.0
-Tuvalu,116,1.0,1.0,
-Tuvalu,117,1.0,1.0,
-Tuvalu,118,1.0,2.0,
-Tuvalu,119,1.0,2.0,
-Tuvalu,120,1.0,2.0,
-Tuvalu,121,1.0,2.0,
-Tuvalu,122,1.0,2.0,
+Tuvalu,116,1.0,1.0,2.0
+Tuvalu,117,1.0,1.0,2.0
+Tuvalu,118,1.0,2.0,2.0
+Tuvalu,119,1.0,2.0,2.0
+Tuvalu,120,1.0,2.0,2.0
+Tuvalu,121,1.0,2.0,2.0
+Tuvalu,122,1.0,2.0,2.0
 Tuvalu,123,1.0,2.0,
 Tuvalu,124,1.0,2.0,
 Tuvalu,125,1.0,2.0,
@@ -52685,14 +52685,14 @@ Türkiye,111,1993.0,1435.0,1067.0
 Türkiye,112,2026.0,1469.0,1086.0
 Türkiye,113,2066.0,1495.0,1105.0
 Türkiye,114,2103.0,1515.0,1122.0
-Türkiye,115,2137.0,1546.0,1151.0
-Türkiye,116,2181.0,1571.0,
-Türkiye,117,2222.0,1598.0,
-Türkiye,118,2260.0,1619.0,
-Türkiye,119,2291.0,1654.0,
-Türkiye,120,2340.0,1673.0,
-Türkiye,121,2374.0,1706.0,
-Türkiye,122,2412.0,1732.0,
+Türkiye,115,2137.0,1546.0,1152.0
+Türkiye,116,2181.0,1571.0,1177.0
+Türkiye,117,2222.0,1598.0,1191.0
+Türkiye,118,2260.0,1619.0,1224.0
+Türkiye,119,2291.0,1654.0,1258.0
+Türkiye,120,2340.0,1673.0,1287.0
+Türkiye,121,2374.0,1706.0,1312.0
+Türkiye,122,2412.0,1732.0,1329.0
 Türkiye,123,2455.0,1773.0,
 Türkiye,124,2498.0,1796.0,
 Türkiye,125,2536.0,1820.0,
@@ -52992,13 +52992,13 @@ Ukraine,112,100.0,139.0,47.0
 Ukraine,113,101.0,141.0,47.0
 Ukraine,114,103.0,143.0,47.0
 Ukraine,115,105.0,146.0,47.0
-Ukraine,116,107.0,148.0,
-Ukraine,117,108.0,150.0,
-Ukraine,118,111.0,152.0,
-Ukraine,119,112.0,153.0,
-Ukraine,120,115.0,153.0,
-Ukraine,121,117.0,153.0,
-Ukraine,122,117.0,154.0,
+Ukraine,116,107.0,148.0,47.0
+Ukraine,117,108.0,150.0,47.0
+Ukraine,118,111.0,152.0,47.0
+Ukraine,119,112.0,153.0,47.0
+Ukraine,120,115.0,153.0,47.0
+Ukraine,121,117.0,153.0,47.0
+Ukraine,122,117.0,154.0,47.0
 Ukraine,123,119.0,154.0,
 Ukraine,124,123.0,155.0,
 Ukraine,125,123.0,157.0,
@@ -53298,13 +53298,13 @@ United Arab Emirates,112,1289.0,1248.0,207.0
 United Arab Emirates,113,1315.0,1267.0,216.0
 United Arab Emirates,114,1345.0,1292.0,220.0
 United Arab Emirates,115,1368.0,1318.0,226.0
-United Arab Emirates,116,1398.0,1345.0,
-United Arab Emirates,117,1421.0,1368.0,
-United Arab Emirates,118,1440.0,1404.0,
-United Arab Emirates,119,1455.0,1431.0,
-United Arab Emirates,120,1478.0,1454.0,
-United Arab Emirates,121,1506.0,1475.0,
-United Arab Emirates,122,1526.0,1498.0,
+United Arab Emirates,116,1398.0,1345.0,231.0
+United Arab Emirates,117,1421.0,1368.0,237.0
+United Arab Emirates,118,1440.0,1404.0,246.0
+United Arab Emirates,119,1455.0,1431.0,254.0
+United Arab Emirates,120,1478.0,1454.0,257.0
+United Arab Emirates,121,1506.0,1475.0,263.0
+United Arab Emirates,122,1526.0,1498.0,269.0
 United Arab Emirates,123,1546.0,1518.0,
 United Arab Emirates,124,1576.0,1540.0,
 United Arab Emirates,125,1606.0,1566.0,
@@ -53604,13 +53604,13 @@ United Kingdom,112,1629.0,1552.0,1304.0
 United Kingdom,113,1671.0,1583.0,1339.0
 United Kingdom,114,1704.0,1611.0,1371.0
 United Kingdom,115,1737.0,1650.0,1400.0
-United Kingdom,116,1776.0,1673.0,
-United Kingdom,117,1815.0,1707.0,
-United Kingdom,118,1852.0,1736.0,
-United Kingdom,119,1892.0,1767.0,
-United Kingdom,120,1923.0,1810.0,
-United Kingdom,121,1950.0,1834.0,
-United Kingdom,122,1992.0,1868.0,
+United Kingdom,116,1776.0,1673.0,1422.0
+United Kingdom,117,1815.0,1707.0,1450.0
+United Kingdom,118,1852.0,1736.0,1489.0
+United Kingdom,119,1892.0,1767.0,1518.0
+United Kingdom,120,1923.0,1810.0,1547.0
+United Kingdom,121,1950.0,1834.0,1572.0
+United Kingdom,122,1992.0,1868.0,1599.0
 United Kingdom,123,2019.0,1893.0,
 United Kingdom,124,2044.0,1931.0,
 United Kingdom,125,2074.0,1958.0,
@@ -53910,13 +53910,13 @@ United States,112,3485.0,3459.0,3113.0
 United States,113,3562.0,3530.0,3184.0
 United States,114,3635.0,3602.0,3257.0
 United States,115,3708.0,3667.0,3340.0
-United States,116,3794.0,3735.0,
-United States,117,3857.0,3802.0,
-United States,118,3914.0,3860.0,
-United States,119,3972.0,3922.0,
-United States,120,4049.0,3998.0,
-United States,121,4112.0,4068.0,
-United States,122,4180.0,4131.0,
+United States,116,3794.0,3735.0,3408.0
+United States,117,3857.0,3802.0,3464.0
+United States,118,3914.0,3860.0,3553.0
+United States,119,3972.0,3922.0,3615.0
+United States,120,4049.0,3998.0,3690.0
+United States,121,4112.0,4068.0,3758.0
+United States,122,4180.0,4131.0,3834.0
 United States,123,4264.0,4206.0,
 United States,124,4333.0,4258.0,
 United States,125,4406.0,4325.0,
@@ -54216,13 +54216,13 @@ United States Virgin Islands,112,116.0,84.0,89.0
 United States Virgin Islands,113,118.0,86.0,93.0
 United States Virgin Islands,114,121.0,89.0,95.0
 United States Virgin Islands,115,122.0,92.0,96.0
-United States Virgin Islands,116,123.0,92.0,
-United States Virgin Islands,117,126.0,93.0,
-United States Virgin Islands,118,128.0,94.0,
-United States Virgin Islands,119,130.0,98.0,
-United States Virgin Islands,120,131.0,102.0,
-United States Virgin Islands,121,132.0,103.0,
-United States Virgin Islands,122,132.0,103.0,
+United States Virgin Islands,116,123.0,92.0,98.0
+United States Virgin Islands,117,126.0,93.0,98.0
+United States Virgin Islands,118,128.0,94.0,102.0
+United States Virgin Islands,119,130.0,98.0,104.0
+United States Virgin Islands,120,131.0,102.0,106.0
+United States Virgin Islands,121,132.0,103.0,107.0
+United States Virgin Islands,122,132.0,103.0,111.0
 United States Virgin Islands,123,133.0,105.0,
 United States Virgin Islands,124,136.0,107.0,
 United States Virgin Islands,125,137.0,108.0,
@@ -54522,13 +54522,13 @@ Uruguay,112,34.0,29.0,13.0
 Uruguay,113,36.0,31.0,14.0
 Uruguay,114,36.0,31.0,14.0
 Uruguay,115,37.0,32.0,14.0
-Uruguay,116,37.0,32.0,
-Uruguay,117,37.0,34.0,
-Uruguay,118,40.0,35.0,
-Uruguay,119,40.0,36.0,
-Uruguay,120,41.0,37.0,
-Uruguay,121,42.0,37.0,
-Uruguay,122,44.0,37.0,
+Uruguay,116,37.0,32.0,16.0
+Uruguay,117,37.0,34.0,16.0
+Uruguay,118,40.0,35.0,16.0
+Uruguay,119,40.0,36.0,17.0
+Uruguay,120,41.0,37.0,18.0
+Uruguay,121,42.0,37.0,19.0
+Uruguay,122,44.0,37.0,19.0
 Uruguay,123,46.0,38.0,
 Uruguay,124,48.0,38.0,
 Uruguay,125,50.0,38.0,
@@ -54828,13 +54828,13 @@ Vanuatu,112,4.0,4.0,3.0
 Vanuatu,113,4.0,5.0,3.0
 Vanuatu,114,5.0,5.0,3.0
 Vanuatu,115,5.0,5.0,3.0
-Vanuatu,116,5.0,5.0,
-Vanuatu,117,5.0,5.0,
-Vanuatu,118,5.0,5.0,
-Vanuatu,119,5.0,5.0,
-Vanuatu,120,5.0,5.0,
-Vanuatu,121,5.0,5.0,
-Vanuatu,122,5.0,5.0,
+Vanuatu,116,5.0,5.0,3.0
+Vanuatu,117,5.0,5.0,3.0
+Vanuatu,118,5.0,5.0,3.0
+Vanuatu,119,5.0,5.0,3.0
+Vanuatu,120,5.0,5.0,3.0
+Vanuatu,121,5.0,5.0,3.0
+Vanuatu,122,5.0,5.0,3.0
 Vanuatu,123,5.0,5.0,
 Vanuatu,124,5.0,5.0,
 Vanuatu,125,5.0,5.0,
@@ -55134,13 +55134,13 @@ Venezuela,112,164.0,164.0,111.0
 Venezuela,113,168.0,168.0,113.0
 Venezuela,114,171.0,169.0,115.0
 Venezuela,115,177.0,171.0,120.0
-Venezuela,116,180.0,175.0,
-Venezuela,117,184.0,178.0,
-Venezuela,118,188.0,181.0,
-Venezuela,119,192.0,181.0,
-Venezuela,120,197.0,184.0,
-Venezuela,121,201.0,188.0,
-Venezuela,122,205.0,190.0,
+Venezuela,116,180.0,175.0,122.0
+Venezuela,117,184.0,178.0,127.0
+Venezuela,118,188.0,181.0,133.0
+Venezuela,119,192.0,181.0,135.0
+Venezuela,120,197.0,184.0,137.0
+Venezuela,121,201.0,188.0,140.0
+Venezuela,122,205.0,190.0,144.0
 Venezuela,123,211.0,192.0,
 Venezuela,124,212.0,194.0,
 Venezuela,125,215.0,198.0,
@@ -55440,13 +55440,13 @@ Vietnam,112,1052.0,1110.0,865.0
 Vietnam,113,1071.0,1128.0,885.0
 Vietnam,114,1087.0,1152.0,903.0
 Vietnam,115,1104.0,1176.0,924.0
-Vietnam,116,1124.0,1199.0,
-Vietnam,117,1146.0,1216.0,
-Vietnam,118,1165.0,1239.0,
-Vietnam,119,1188.0,1262.0,
-Vietnam,120,1211.0,1276.0,
-Vietnam,121,1224.0,1297.0,
-Vietnam,122,1239.0,1323.0,
+Vietnam,116,1124.0,1199.0,937.0
+Vietnam,117,1146.0,1216.0,953.0
+Vietnam,118,1165.0,1239.0,981.0
+Vietnam,119,1188.0,1262.0,998.0
+Vietnam,120,1211.0,1276.0,1014.0
+Vietnam,121,1224.0,1297.0,1030.0
+Vietnam,122,1239.0,1323.0,1044.0
 Vietnam,123,1253.0,1345.0,
 Vietnam,124,1272.0,1370.0,
 Vietnam,125,1292.0,1393.0,
@@ -55746,13 +55746,13 @@ Yemen,112,27.0,23.0,14.0
 Yemen,113,28.0,23.0,14.0
 Yemen,114,28.0,23.0,14.0
 Yemen,115,29.0,23.0,14.0
-Yemen,116,29.0,23.0,
-Yemen,117,29.0,23.0,
-Yemen,118,30.0,23.0,
-Yemen,119,31.0,24.0,
-Yemen,120,31.0,24.0,
-Yemen,121,31.0,24.0,
-Yemen,122,33.0,24.0,
+Yemen,116,29.0,23.0,14.0
+Yemen,117,29.0,23.0,14.0
+Yemen,118,30.0,23.0,14.0
+Yemen,119,31.0,24.0,15.0
+Yemen,120,31.0,24.0,15.0
+Yemen,121,31.0,24.0,15.0
+Yemen,122,33.0,24.0,16.0
 Yemen,123,33.0,24.0,
 Yemen,124,34.0,24.0,
 Yemen,125,35.0,24.0,
