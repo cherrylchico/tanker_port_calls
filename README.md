@@ -84,7 +84,9 @@ uv run build_embedded_chart.py    # bake the CSV into portwatch_tanker_chart_emb
 
 Then open `portwatch_tanker_chart_embedded.html` directly in your browser. Nothing is published.
 
-### Option B — publish the live, auto-updating site
+### Option B — publish the live, auto-updating site to GitHub Pages
+
+> **Visibility note:** On the free GitHub plan, Pages only serves **public** repositories. To publish from a **private** repo you need a paid plan (GitHub Pro, Team, or Enterprise); otherwise the Pages site will not be served.
 
 1. **Create your own GitHub repo** and push this local copy to it:
    ```bash
@@ -93,18 +95,20 @@ Then open `portwatch_tanker_chart_embedded.html` directly in your browser. Nothi
    ```
    (Use `git remote add origin ...` instead if no remote is set.)
 
-2. **Enable GitHub Pages:** repo **Settings → Pages → Build and deployment → Source: GitHub Actions**.
+2. **Allow the workflow to write to the repo:** **Settings → Actions → General → Workflow permissions → Read and write permissions**. The daily job commits the refreshed CSVs back to the repo, so it needs write access.
 
-3. **Allow the workflow to commit data:** **Settings → Actions → General → Workflow permissions → Read and write permissions**. The daily job commits the refreshed CSVs back to the repo, so it needs write access.
+3. **Enable GitHub Pages with the GitHub Actions source.** This repo deploys through the workflow (`actions/upload-pages-artifact` + `actions/deploy-pages`), *not* from a branch — so you don't pick a branch or `/docs` folder. In the repo: **Settings → Pages → Build and deployment → Source → GitHub Actions**. The workflow already declares the required `pages: write` and `id-token: write` permissions ([.github/workflows/update-portwatch.yml](.github/workflows/update-portwatch.yml)), so no other config is needed.
 
-4. **Update the live-chart link** near the top of this README to your own Pages URL. Once deployed, the chart lives at:
-   ```
-   https://<your-username>.github.io/<your-repo>/portwatch_tanker_chart.html
-   ```
-   (The chart loads its CSV by a relative path, so no other URLs need changing.)
+4. **Trigger the first deploy:** go to the **Actions** tab → **Update PortWatch Data** → **Run workflow** (manual `workflow_dispatch`), or push any commit. The workflow's final two steps upload the repo as a Pages artifact and deploy it. After that it redeploys automatically on every daily run.
 
-5. **Trigger the first build:** go to the **Actions** tab → **Update PortWatch Data** → **Run workflow** (manual `workflow_dispatch`), or just push any commit. After that the workflow runs automatically every day at 15:00 UTC.
+5. **Get your published URL:** once the run finishes, **Settings → Pages** shows the live link — typically `https://<your-username>.github.io/<your-repo>/`. The chart is that URL + `portwatch_tanker_chart.html`. Update the live-chart link near the top of this README to match. (The chart loads its CSV by a relative path, so no other URLs need changing.)
 
 ## Data Source
 
 [IMF PortWatch](https://portwatch.imf.org/) — Daily Ports Data via ArcGIS REST API. Data is aggregated to country-day level using server-side statistics. PortWatch typically has a 5-6 day lag from the current date.
+
+## Authorship & AI Disclosure
+
+This project was created as part of a short-term consultancy with the World Bank. 
+
+The data and analysis are **not** AI-generated: all figures come directly from [IMF PortWatch](https://portwatch.imf.org/), and every aggregation and cumulative calculation is deterministic (see `update_portwatch.py`). Generative AI (Anthropic's Claude) was used as a **development assistant** — for example, refactoring scripts, drafting documentation, and configuring the update schedule — with all AI-assisted code and text reviewed by the author before inclusion.
