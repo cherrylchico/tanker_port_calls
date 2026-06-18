@@ -4,8 +4,14 @@ on:
   push:
     branches: [master]
   schedule:
-    # GitHub Actions uses UTC.
-    - cron: "0 8 * * *"
+    # GitHub Actions cron is always UTC and does NOT observe US DST.
+    # PortWatch refreshes weekly on Tuesdays ~9 AM ET. Fire daily at 15:00 UTC
+    # so the run lands after that update in both seasons:
+    #   EDT (summer): 15:00 UTC = 11 AM ET
+    #   EST (winter): 15:00 UTC = 10 AM ET
+    # Daily cadence is kept as a retry net in case the weekly update is late.
+    # Note: GitHub may delay scheduled runs by 10-60+ min under load.
+    - cron: "0 15 * * *"
   workflow_dispatch: # Allow manual triggers
 
 jobs:
