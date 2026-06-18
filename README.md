@@ -107,8 +107,6 @@ Then open `portwatch_tanker_chart_embedded.html` directly in your browser. Nothi
 
 [IMF PortWatch](https://portwatch.imf.org/) — Daily Ports Data via ArcGIS REST API. Data is aggregated to country-day level using server-side statistics. PortWatch typically has a 5-6 day lag from the current date.
 
-## Authorship & AI Disclosure
-
-This project was created as part of a short-term consultancy with the World Bank. 
+## AI Disclosure
 
 The data and analysis are **not** AI-generated: all figures come directly from [IMF PortWatch](https://portwatch.imf.org/), and every aggregation and cumulative calculation is deterministic (see `update_portwatch.py`). Generative AI (Anthropic's Claude) was used as a **development assistant** — for example, refactoring scripts, drafting documentation, and configuring the update schedule — with all AI-assisted code and text reviewed by the author before inclusion.

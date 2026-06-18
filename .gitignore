@@ -2,3 +2,7 @@
 __pycache__/
 *.pyc
 Daily_Ports_Data.csv
+
+# Local documentation build (not tracked)
+Documentation.md
+Documentation.pdf
